@@ -1,0 +1,1769 @@
+name,NcbiTaxonomyID,habitat,hostid,hostname
+Chlamydia trachomatis D/UW-3/CX,272561,HostAssociated,9606,Homo sapiens
+Thermotoga maritima MSB8,243274,Specialized,0,NA
+Aeropyrum pernix K1,272557,Specialized,0,NA
+Pyrococcus abyssi GE5,272844,Aquatic,0,NA
+Haemophilus influenzae Rd KW20,71421,HostAssociated,9606,Homo sapiens
+Mycoplasma genitalium G37,243273,HostAssociated,9606,Homo sapiens
+Methanocaldococcus jannaschii DSM 2661,243232,Aquatic,0,NA
+Synechocystis sp. PCC 6803,1148,Aquatic,0,NA
+Mycoplasma pneumoniae M129,272634,HostAssociated,9606,Homo sapiens
+Escherichia coli str. K-12 substr. MG1655,511145,HostAssociated,9606,Homo sapiens
+Sinorhizobium fredii NGR234,394,HostAssociated,0,NA
+Helicobacter pylori 26695,85962,HostAssociated,9606,Homo sapiens
+Methanothermobacter thermautotrophicus str. Delta H,187420,Specialized,0,NA
+Archaeoglobus fulgidus DSM 4304,224325,Aquatic,0,NA
+Aquifex aeolicus VF5,0,Specialized,0,NA
+Treponema pallidum subsp. pallidum str. Nichols,243276,HostAssociated,9606,Homo sapiens
+Helicobacter pylori J99,85963,HostAssociated,9606,Homo sapiens
+Chlamydophila pneumoniae CWL029,115713,HostAssociated,9606,Homo sapiens
+Borrelia burgdorferi B31,224326,HostAssociated,9606,Homo sapiens
+Deinococcus radiodurans R1,243230,Terrestrial,0,NA
+Pyrococcus horikoshii OT3,70601,Aquatic,0,NA
+Mycobacterium tuberculosis H37Rv,83332,HostAssociated,9606,Homo sapiens
+Rickettsia prowazekii str. Madrid E,272947,HostAssociated,9606,Homo sapiens
+Bacillus subtilis subsp. subtilis str. 168,224308,Terrestrial,0,NA
+Halobacterium sp. NRC-1,64091,Specialized,0,NA
+Clostridium acetobutylicum ATCC 824,272562,Multiple,0,NA
+Escherichia coli O157:H7 str. Sakai,386585,HostAssociated,9606,Homo sapiens
+Ureaplasma parvum serovar 3 str. ATCC 700970,273119,HostAssociated,9606,Homo sapiens
+Campylobacter jejuni subsp. jejuni NCTC 11168,192222,Multiple,9606,Homo sapiens
+Chlamydophila pneumoniae AR39,115711,NA,0,NA
+Chlamydia muridarum Nigg,243161,HostAssociated,9606,Homo sapiens
+Buchnera aphidicola str. APS (Acyrthosiphon pisum),107806,HostAssociated,34664,Acyrthosiphon kondoi
+Xylella fastidiosa 9a5c,160492,HostAssociated,0,NA
+Chlamydophila pneumoniae J138,138677,HostAssociated,9606,Homo sapiens
+Vibrio cholerae O1 biovar El Tor str. N16961,243277,Aquatic,9606,Homo sapiens
+Pseudomonas aeruginosa PAO1,208964,Multiple,9606,Homo sapiens
+Bacillus halodurans C-125,272558,Multiple,0,NA
+Thermoplasma acidophilum DSM 1728,273075,Specialized,0,NA
+Escherichia coli O157:H7 str. EDL933,155864,HostAssociated,9606,Homo sapiens
+Lactococcus lactis subsp. lactis Il1403,272623,Multiple,0,NA
+Pasteurella multocida subsp. multocida str. Pm70,272843,HostAssociated,9606,Chicken Homo sapiens
+Mycobacterium leprae TN,272631,HostAssociated,9606,Homo sapiens
+Mesorhizobium loti MAFF303099,266835,Multiple,47247,Lotus corniculatus
+Thermoplasma volcanium GSS1,273116,Specialized,0,NA
+Caulobacter crescentus CB15,190650,Aquatic,0,NA
+Streptococcus pyogenes M1 GAS,160490,HostAssociated,9606,Homo sapiens
+Staphylococcus aureus subsp. aureus N315,158879,HostAssociated,9606,Homo sapiens
+Sulfolobus solfataricus P2,273057,Specialized,0,NA
+Mycobacterium tuberculosis CDC1551,83331,HostAssociated,9606,Homo sapiens
+Staphylococcus aureus subsp. aureus Mu50,158878,HostAssociated,9606,Homo sapiens
+Mycoplasma pulmonis UAB CTIP,272635,HostAssociated,0,NA
+Bordetella bronchiseptica RB50,257310,HostAssociated,0,NA
+Bordetella parapertussis 12822,257311,HostAssociated,0,NA
+Bordetella pertussis Tohama I,257313,HostAssociated,0,NA
+Chlorobium tepidum TLS,194439,Specialized,0,NA
+Corynebacterium diphtheriae NCTC 13129,257309,Multiple,0,NA
+Dehalococcoides ethenogenes 195,243164,Multiple,0,NA
+Desulfovibrio vulgaris str. Hildenborough,882,Multiple,0,NA
+Geobacter sulfurreducens PCA,243231,Multiple,0,NA
+Haemophilus ducreyi 35000HP,233412,HostAssociated,0,NA
+Legionella pneumophila subsp. pneumophila str. Philadelphia 1,272624,HostAssociated,9606,Homo sapiens
+Mycobacterium avium subsp. paratuberculosis K-10,262316,Multiple,9913,Bovine
+Mycobacterium bovis AF2122/97,233413,HostAssociated,9606,Cow Homo sapiens
+Neisseria gonorrhoeae FA 1090,242231,HostAssociated,9606,Homo sapiens
+Pseudomonas putida KT2440,160488,Multiple,0,NA
+Porphyromonas gingivalis W83,242619,HostAssociated,9606,Homo sapiens
+Staphylococcus aureus subsp. aureus COL,93062,HostAssociated,9606,Homo sapiens
+Staphylococcus aureus subsp. aureus MRSA252,282458,HostAssociated,9606,Homo sapiens
+Staphylococcus aureus subsp. aureus MSSA476,282459,HostAssociated,9606,Homo sapiens
+Treponema denticola ATCC 35405,243275,HostAssociated,9606,Homo sapiens
+Coxiella burnetii RSA 493,227377,Multiple,9606,Homo sapiens
+Listeria monocytogenes serotype 4b str. F2365,265669,Multiple,9606,Homo sapiens
+Staphylococcus epidermidis RP62A,176279,HostAssociated,9606,Homo sapiens
+Methylococcus capsulatus str. Bath,243233,Multiple,0,NA
+Wolbachia endosymbiont of Drosophila melanogaster,163164,HostAssociated,0,NA
+Streptococcus pneumoniae TIGR4,170187,Multiple,9606,Homo sapiens
+Sinorhizobium meliloti 1021,266834,Multiple,0,NA
+Clostridium perfringens str. 13,195102,Multiple,9606,Homo sapiens
+Agrobacterium tumefaciens str. C58,176299,Multiple,0,NA
+Corynebacterium jeikeium K411,306537,Multiple,9606,Homo sapiens
+Streptococcus pneumoniae R6,171101,Multiple,9606,Homo sapiens
+Rickettsia conorii str. Malish 7,272944,HostAssociated,9606,Homo sapiens
+Sulfolobus tokodaii str. 7,273063,Specialized,0,NA
+Neisseria meningitidis MC58,122586,HostAssociated,9606,Homo sapiens
+Neisseria meningitidis Z2491,122587,HostAssociated,9606,Homo sapiens
+Yersinia pestis CO92,214092,Multiple,9606,Homo sapiens
+Streptomyces avermitilis MA-4680,227882,Multiple,0,NA
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,99287,HostAssociated,9606,Homo sapiens
+Salmonella enterica subsp. enterica serovar Typhi str. CT18,220341,HostAssociated,9606,Homo sapiens
+Listeria monocytogenes EGD-e,169963,Multiple,0,NA
+Listeria innocua Clip11262,272626,Multiple,0,NA
+Bacteroides fragilis NCTC 9343,272559,HostAssociated,9606,Homo sapiens
+Nostoc sp. PCC 7120,103690,Multiple,0,NA
+Ralstonia solanacearum GMI1000,267608,Multiple,0,NA
+Brucella melitensis bv. 1 str. 16M,224914,HostAssociated,9606,Homo sapiens
+Chlamydophila caviae GPIC,227941,HostAssociated,0,NA
+Pyrobaculum aerophilum str. IM2,178306,Aquatic,0,NA
+Pyrococcus furiosus DSM 3638,186497,Aquatic,0,NA
+Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis,36870,HostAssociated,0,NA
+Corynebacterium glutamicum ATCC 13032,196627,Multiple,0,NA
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586,190304,HostAssociated,9606,Homo sapiens
+Streptococcus pyogenes MGAS8232,186103,HostAssociated,9606,Homo sapiens
+Methanopyrus kandleri AV19,190192,Specialized,0,NA
+Methanosarcina acetivorans C2A,188937,Aquatic,0,NA
+Thermoanaerobacter tengcongensis MB4,273068,Specialized,0,NA
+Streptomyces coelicolor A3(2),100226,Multiple,0,NA
+Methanosarcina mazei Go1,192952,Multiple,0,NA
+Xanthomonas campestris pv. campestris str. ATCC 33913,190485,HostAssociated,0,NA
+Bacillus cereus ATCC 10987,222523,Terrestrial,9606,Homo sapiens
+Colwellia psychrerythraea 34H,167879,Specialized,0,NA
+Ruegeria pomeroyi DSS-3,246200,Aquatic,0,NA
+Campylobacter jejuni RM1221,195099,Multiple,0,NA
+Xanthomonas axonopodis pv. citri str. 306,190486,HostAssociated,0,NA
+Staphylococcus aureus subsp. aureus MW2,196620,HostAssociated,9606,Homo sapiens
+Bacillus anthracis str. Ames,198094,Multiple,9606,Homo sapiens
+Rhizobium etli CFN 42,347834,HostAssociated,3885,Phaseolus vulgaris
+Buchnera aphidicola str. Sg (Schizaphis graminum),198804,HostAssociated,34664,Acyrthosiphon kondoi
+Streptococcus pyogenes MGAS315,198466,HostAssociated,9606,Homo sapiens
+Yersinia pestis KIM 10,187410,Multiple,9606,Homo sapiens
+Thermosynechococcus elongatus BP-1,197221,Specialized,0,NA
+Streptococcus agalactiae 2603V/R,208435,HostAssociated,9606,Homo sapiens
+Pseudomonas fluorescens Pf-5,220664,Multiple,0,NA
+Oceanobacillus iheyensis HTE831,221109,Multiple,0,NA
+Bifidobacterium longum DJO10A,205913,HostAssociated,9606,Homo sapiens
+Bifidobacterium longum NCC2705,206672,HostAssociated,9606,Homo sapiens
+Brucella suis 1330,204722,HostAssociated,9823,Homo sapiens Swine
+Corynebacterium efficiens YS-314,196164,Multiple,0,NA
+Shigella flexneri 2a str. 301,198214,HostAssociated,9606,Homo sapiens
+Leptospira interrogans serovar Lai str. 56601,189518,HostAssociated,0,NA
+Shewanella oneidensis MR-1,211586,Multiple,0,NA
+Streptococcus mutans UA159,210007,HostAssociated,9606,Homo sapiens
+Streptococcus agalactiae NEM316,211110,HostAssociated,9606,Homo sapiens
+Escherichia coli CFT073,199310,HostAssociated,9606,Homo sapiens
+Mycoplasma penetrans HF-2,272633,HostAssociated,9606,Homo sapiens
+Vibrio vulnificus CMCP6,216895,Aquatic,9606,Homo sapiens
+Staphylococcus epidermidis ATCC 12228,176280,HostAssociated,9606,Homo sapiens
+Bradyrhizobium japonicum USDA 110,224911,HostAssociated,3847,Soybean
+Buchnera aphidicola str. Bp (Baizongia pistaciae),224915,HostAssociated,34664,Acyrthosiphon kondoi
+Pectobacterium atrosepticum SCRI1043,218491,Multiple,0,NA
+Tropheryma whipplei TW08/27,218496,HostAssociated,0,NA
+Chlamydophila abortus S26/3,218497,HostAssociated,9940,Homo sapiens Sheep
+Xylella fastidiosa Temecula1,183190,HostAssociated,0,Grapevine
+Clostridium tetani E88,0,Multiple,9606,Homo sapiens
+Lactobacillus plantarum WCFS1,220668,HostAssociated,9606,Homo sapiens
+Tropheryma whipplei str. Twist,203267,HostAssociated,0,NA
+Pseudomonas syringae pv. tomato str. DC3000,223283,Multiple,0,NA
+Vibrio parahaemolyticus RIMD 2210633,223926,Aquatic,9606,Homo sapiens
+Bacillus megaterium QM B1551,545693,Soil,0,NA
+Streptococcus pyogenes SSI-1,193567,HostAssociated,9606,Homo sapiens
+Salmonella enterica subsp. enterica serovar Typhi str. Ty2,209261,HostAssociated,9606,Homo sapiens
+Bacteroides thetaiotaomicron VPI-5482,226186,HostAssociated,9606,Homo sapiens
+Enterococcus faecalis V583,226185,Multiple,9606,Homo sapiens
+Bacillus cereus ATCC 14579,226900,Terrestrial,9606,Homo sapiens
+Shigella flexneri 2a str. 2457T,198215,HostAssociated,9606,Homo sapiens
+Nitrosomonas europaea ATCC 19718,228410,Multiple,0,NA
+Mycoplasma gallisepticum str. R(low),710127,HostAssociated,0,NA
+Anaplasma marginale str. St. Maries,234826,HostAssociated,9606,Cow Homo sapiens
+Helicobacter hepaticus ATCC 51449,235279,HostAssociated,0,NA
+Aeromonas salmonicida subsp. salmonicida A449,382245,Aquatic,8032,Homo sapiens Salmo trutta
+Rhodopirellula baltica SH 1,243090,Aquatic,0,NA
+Prochlorococcus marinus subsp. marinus str. CCMP1375,167539,Aquatic,0,NA
+Chlamydophila pneumoniae TW-183,182082,HostAssociated,9606,Homo sapiens
+Candidatus Blochmannia floridanus,203907,Specialized,0,NA
+Synechococcus sp. WH 8102,84588,Aquatic,0,NA
+Prochlorococcus marinus str. MIT 9313,74547,Aquatic,0,NA
+Prochlorococcus marinus subsp. pastoris str. CCMP1986,59919,Aquatic,0,NA
+Chromobacterium violaceum ATCC 12472,243365,Multiple,0,NA
+Wolinella succinogenes DSM 1740,273121,HostAssociated,9913,Cow
+Gloeobacter violaceus PCC 7421,251221,Terrestrial,0,NA
+Photorhabdus luminescens subsp. laumondii TTO1,243265,HostAssociated,37862,Heterorhabditis bacteriophora
+Vibrio vulnificus YJ016,196600,Aquatic,9606,Homo sapiens
+Nanoarchaeum equitans Kin4-M,228908,HostAssociated,0,NA
+Ralstonia eutropha H16,381666,Specialized,0,NA
+Ehrlichia ruminantium str. Welgevonden,254945,HostAssociated,0,NA
+Rhodopseudomonas palustris CGA009,258594,Multiple,0,NA
+Onion yellows phytoplasma OY-M,262768,HostAssociated,0,NA
+Lactobacillus johnsonii NCC 533,257314,HostAssociated,9606,Homo sapiens
+Bdellovibrio bacteriovorus HD100,264462,Multiple,0,NA
+Mycoplasma mycoides subsp. mycoides SC str. PG1,272632,HostAssociated,0,NA
+Pseudomonas syringae pv. phaseolicola 1448A,264730,Multiple,0,NA
+Methanococcus maripaludis S2,267377,Aquatic,0,NA
+Yersinia pestis biovar Microtus str. 91001,229193,Multiple,9606,Homo sapiens
+Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130,267671,HostAssociated,0,NA
+Thermus thermophilus HB27,262724,Specialized,0,NA
+Candidatus Protochlamydia amoebophila UWE25,264201,HostAssociated,9606,Homo sapiens
+Photobacterium profundum SS9,298386,Multiple,0,NA
+Picrophilus torridus DSM 9790,263820,Specialized,0,NA
+Mycobacterium ulcerans Agy99,362242,HostAssociated,9606,Homo sapiens
+Bacillus anthracis str. Sterne,260799,Multiple,9606,Homo sapiens
+Bartonella quintana str. Toulouse,283165,HostAssociated,9606,Homo sapiens
+Bartonella henselae str. Houston-1,283166,HostAssociated,0,NA
+Bacillus thuringiensis serovar konkukian str. 97-27,281309,Multiple,9606,Homo sapiens
+Acinetobacter sp. ADP1,62977,Multiple,215343,Fistularia commersonii
+Mesoplasma florum L1,265311,HostAssociated,0,NA
+Propionibacterium acnes KPA171202,267747,HostAssociated,9606,Homo sapiens
+Streptococcus pyogenes MGAS10394,286636,HostAssociated,9606,Homo sapiens
+Leifsonia xyli subsp. xyli str. CTCB07,281090,HostAssociated,0,NA
+Borrelia garinii PBi,290434,HostAssociated,9606,Homo sapiens
+Desulfotalea psychrophila LSv54,177439,Specialized,0,NA
+Rickettsia typhi str. Wilmington,257363,HostAssociated,9606,Homo sapiens
+Yersinia pseudotuberculosis IP 32953,273123,Multiple,0,NA
+Symbiobacterium thermophilum IAM 14863,292459,Terrestrial,0,NA
+Bacillus licheniformis ATCC 14580,279010,HostAssociated,9606,Homo sapiens
+Bacillus cereus E33L,288681,Terrestrial,9606,Homo sapiens
+Bacteroides fragilis YCH46,295405,HostAssociated,9606,Homo sapiens
+Haemophilus somnus 129PT,205914,HostAssociated,0,NA
+Mannheimia succiniciproducens MBEL55E,221988,HostAssociated,0,NA
+Burkholderia mallei ATCC 23344,243160,HostAssociated,9606,Homo sapiens
+Burkholderia pseudomallei K96243,272560,Terrestrial,9606,Homo sapiens
+Mycoplasma hyopneumoniae 232,295358,HostAssociated,0,NA
+Nocardia farcinica IFM 10152,247156,Multiple,9606,Homo sapiens
+Legionella pneumophila str. Paris,297246,HostAssociated,9606,Homo sapiens
+Legionella pneumophila str. Lens,297245,HostAssociated,9606,Homo sapiens
+Haloarcula marismortui ATCC 43049,272569,Aquatic,0,NA
+Streptococcus thermophilus LMG 18311,264199,Multiple,0,NA
+Streptococcus thermophilus CNRZ1066,299768,Multiple,0,NA
+Thermus thermophilus HB8,300852,Specialized,0,NA
+Geobacillus kaustophilus HTA426,235909,Aquatic,0,NA
+Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC,295319,HostAssociated,9606,Homo sapiens
+Idiomarina loihiensis L2TR,283942,Specialized,0,NA
+Aromatoleum aromaticum EbN1,76114,Terrestrial,0,NA
+Zymomonas mobilis subsp. mobilis ZM4,264203,NA,0,NA
+Lactobacillus salivarius UCC118,362948,HostAssociated,9606,Homo sapiens
+Francisella tularensis subsp. tularensis SCHU S4,177416,Aquatic,9606,Homo sapiens
+Synechococcus elongatus PCC 6301,269084,Aquatic,0,NA
+Bacillus clausii KSM-K16,66692,Soil,0,NA
+Thermococcus kodakarensis KOD1,69014,Specialized,0,NA
+Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044,484021,Multiple,9606,Homo sapiens
+Gluconobacter oxydans 621H,290633,Multiple,0,NA
+Lactobacillus acidophilus NCFM,272621,Multiple,9606,Homo sapiens
+Ehrlichia ruminantium str. Gardel,302409,HostAssociated,0,NA
+Wolbachia endosymbiont strain TRS of Brugia malayi,292805,HostAssociated,0,NA
+Xanthomonas oryzae pv. oryzae KACC10331,291331,HostAssociated,0,NA
+Vibrio fischeri ES114,312309,Multiple,0,NA
+Salmonella enterica subsp. enterica serovar Choleraesuis str.,321314,HostAssociated,9606,Homo sapiens
+Mycoplasma mobile 163K,267748,HostAssociated,0,NA
+Brucella abortus bv. 1 str. 9-941,262698,HostAssociated,9606,Homo sapiens
+Rhodococcus opacus B4,632772,NA,0,NA
+Pseudomonas syringae pv. syringae B728a,205918,Multiple,0,NA
+Xanthomonas campestris pv. campestris str. 8004,314565,HostAssociated,0,NA
+Rickettsia felis URRWXCal2,315456,HostAssociated,0,NA
+Haemophilus influenzae 86-028NP,281310,HostAssociated,9606,Homo sapiens
+Staphylococcus haemolyticus JCSC1435,279808,HostAssociated,9606,Homo sapiens
+Sulfolobus acidocaldarius DSM 639,330779,Specialized,0,NA
+Psychrobacter arcticus 273-4,259536,Specialized,0,NA
+Candidatus Pelagibacter ubique HTCC1062,335992,Aquatic,0,NA
+Candidatus Blochmannia pennsylvanicus str. BPEN,291272,HostAssociated,0,NA
+Mycoplasma synoviae 53,262723,HostAssociated,0,NA
+Mycoplasma hyopneumoniae J,262719,HostAssociated,0,NA
+Streptococcus pyogenes MGAS6180,319701,HostAssociated,9606,Homo sapiens
+Streptococcus pyogenes MGAS5005,293653,HostAssociated,9606,Homo sapiens
+Dechloromonas aromatica RCB,159087,Multiple,0,NA
+Bacillus anthracis str. 'Ames Ancestor',261594,Terrestrial,9606,Homo sapiens
+Mycoplasma hyopneumoniae 7448,262722,HostAssociated,9823,Sus scrofa
+Thermobifida fusca YX,269800,Multiple,9606,Homo sapiens
+Prochlorococcus marinus str. NATL2A,59920,Aquatic,0,NA
+Ralstonia eutropha JMP134,264198,Multiple,0,NA
+Methanosarcina barkeri str. Fusaro,269797,Multiple,0,NA
+Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305,342451,HostAssociated,9606,Homo sapiens
+Ehrlichia canis str. Jake,269484,HostAssociated,9615,Dog
+Dehalococcoides sp. CBDB1,255470,Multiple,0,NA
+Shigella sonnei Ss046,300269,HostAssociated,9606,Homo sapiens
+Thiobacillus denitrificans ATCC 25259,292415,Multiple,0,NA
+Nitrobacter winogradskyi Nb-255,323098,Terrestrial,0,NA
+Anabaena variabilis ATCC 29413,240292,Multiple,0,NA
+Natronomonas pharaonis DSM 2160,348780,Aquatic,0,NA
+Chlamydia trachomatis A/HAR-13,315277,HostAssociated,9606,Homo sapiens
+Streptococcus agalactiae A909,205921,HostAssociated,9606,Homo sapiens
+Burkholderia pseudomallei 1710b,320372,Terrestrial,9606,Homo sapiens
+Pseudoalteromonas haloplanktis TAC125,166935,Aquatic,0,NA
+Nitrosococcus oceani ATCC 19707,323261,Aquatic,0,NA
+Rhodococcus erythropolis PR4,234621,Multiple,0,NA
+Rhodobacter sphaeroides 2.4.1,272943,Multiple,0,NA
+Pseudomonas fluorescens Pf0-1,205922,Multiple,0,NA
+Pelobacter carbinolicus DSM 2380,338963,Aquatic,0,NA
+Carboxydothermus hydrogenoformans Z-2901,246194,Aquatic,0,NA
+Xanthomonas campestris pv. vesicatoria str. 85-10,316273,HostAssociated,0,NA
+Burkholderia sp. 383,482957,Multiple,0,NA
+Chlorobium luteolum DSM 273,319225,Multiple,0,NA
+Synechococcus sp. CC9902,316279,Aquatic,0,NA
+Chlorobium chlorochromatii CaD3,340177,Aquatic,0,NA
+Geobacter metallireducens GS-15,269799,Aquatic,0,NA
+Synechococcus sp. CC9605,110662,Aquatic,0,NA
+Desulfovibrio alaskensis G20,207559,Multiple,0,NA
+Thiomicrospira crunogena XCL-2,317025,Aquatic,0,NA
+Sulfurimonas denitrificans DSM 1251,326298,Marine Mud,0,NA
+Lactobacillus sakei subsp. sakei 23K,314315,Multiple,0,NA
+Prochlorococcus marinus str. MIT 9312,74546,Aquatic,0,NA
+Synechococcus elongatus PCC 7942,1140,Aquatic,0,NA
+Shigella dysenteriae Sd197,300267,HostAssociated,9606,Homo sapiens
+Shigella boydii Sb227,300268,HostAssociated,9606,Homo sapiens
+Nitrosospira multiformis ATCC 25196,323848,Terrestrial,0,NA
+Brucella melitensis biovar Abortus 2308,359391,HostAssociated,9606,Homo sapiens
+Staphylococcus aureus RF122,273036,HostAssociated,0,Bos taurus (cow) Homo sapiens
+Magnetospirillum magneticum AMB-1,342108,Aquatic,0,NA
+Mycoplasma capricolum subsp. capricolum ATCC 27343,340047,HostAssociated,9925,Goat
+Rhodospirillum rubrum ATCC 11170,269796,Multiple,0,NA
+Moorella thermoacetica ATCC 39073,264732,Aquatic,0,NA
+Hahella chejuensis KCTC 2396,349521,Aquatic,0,NA
+Burkholderia thailandensis E264,271848,Terrestrial,0,NA
+Salinibacter ruber DSM 13855,309807,Specialized,0,NA
+Methanosphaera stadtmanae DSM 3091,339860,HostAssociated,9606,Homo sapiens
+Xanthomonas oryzae pv. oryzae MAFF 311018,342109,HostAssociated,0,NA
+Sodalis glossinidius str. 'morsitans',343509,HostAssociated,37546,Glossina morsitans morsitans
+Aster yellows witches'-broom phytoplasma AYWB,322098,HostAssociated,0,NA
+Erythrobacter litoralis HTCC2594,314225,Aquatic,0,NA
+Syntrophus aciditrophicus SB,56780,Multiple,0,NA
+Anaeromyxobacter dehalogenans 2CP-C,290397,Terrestrial,0,NA
+Synechococcus sp. JA-3-3Ab,321327,Specialized,0,NA
+Synechococcus sp. JA-2-3B'a(2-13),321332,Specialized,0,NA
+Frankia sp. CcI3,106370,Multiple,0,NA
+Rhodopseudomonas palustris HaA2,316058,Multiple,0,NA
+Staphylococcus aureus subsp. aureus USA300_FPR3757,451515,HostAssociated,9606,Homo sapiens
+Novosphingobium aromaticivorans DSM 12444,279238,Multiple,9606,Homo sapiens
+Staphylococcus aureus subsp. aureus NCTC 8325,93061,HostAssociated,9606,Homo sapiens
+Methanospirillum hungatei JF-1,323259,Multiple,0,NA
+Anaplasma phagocytophilum HZ,212042,HostAssociated,9606,Homo sapiens
+Neorickettsia sennetsu str. Miyayama,222891,Multiple,9606,Homo sapiens
+Ehrlichia chaffeensis str. Arkansas,205920,HostAssociated,9606,Homo sapiens
+Jannaschia sp. CCS1,290400,Aquatic,0,NA
+Francisella tularensis subsp. holarctica LVS,376619,HostAssociated,9606,Homo sapiens
+Chlamydophila felis Fe/C-56,264202,HostAssociated,9685,Cat
+Rhodoferax ferrireducens T118,338969,Multiple,0,NA
+Desulfitobacterium hafniense Y51,138119,Specialized,0,NA
+Saccharophagus degradans 2-40,203122,Aquatic,0,NA
+Rhodopseudomonas palustris BisB18,316056,Multiple,0,NA
+Rickettsia bellii RML369-C,336407,HostAssociated,0,NA
+Escherichia coli UTI89,364106,HostAssociated,9606,Homo sapiens
+Methylobacillus flagellatus KT,265072,Specialized,0,NA
+Polaromonas sp. JS666,296591,Multiple,0,NA
+Burkholderia xenovorans LB400,266265,Multiple,9606,Homo sapiens
+Shewanella denitrificans OS217,318161,Aquatic,0,NA
+Methanococcoides burtonii DSM 6242,259564,Aquatic,0,NA
+Rhodopseudomonas palustris BisB5,316057,Multiple,0,NA
+Nitrobacter hamburgensis X14,323097,Terrestrial,0,NA
+Chromohalobacter salexigens DSM 3043,290398,Fresh water Solar saltern,0,NA
+Psychrobacter cryohalolentis K5,335284,Multiple,0,NA
+Cupriavidus metallidurans CH34,266264,Specialized,0,NA
+Baumannia cicadellinicola str. Hc (Homalodisca coagulata),374463,HostAssociated,197043,Homalodisca coagulata
+Candidatus Koribacter versatilis Ellin345,204669,Terrestrial,0,NA
+Deinococcus geothermalis DSM 11300,319795,Aquatic,0,NA
+Lawsonia intracellularis PHE/MN1-00,363253,HostAssociated,9823,Sus scrofa
+Streptococcus pyogenes MGAS9429,370551,HostAssociated,9606,Homo sapiens
+Streptococcus pyogenes MGAS10270,370552,HostAssociated,9606,Homo sapiens
+Streptococcus pyogenes MGAS2096,370553,HostAssociated,9606,Homo sapiens
+Streptococcus pyogenes MGAS10750,370554,HostAssociated,9606,Homo sapiens
+Pseudomonas entomophila L48,384676,Multiple,0,NA
+Sphingopyxis alaskensis RB2256,317655,Aquatic,0,NA
+Ruegeria sp. TM1040,292414,Multiple,71001,Pfiesteria piscicida
+Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842,390333,Multiple,9606,Homo sapiens
+Burkholderia cenocepacia AU 1054,331271,HostAssociated,9606,Homo sapiens
+Helicobacter pylori HPAG1,357544,HostAssociated,9606,Homo sapiens
+Myxococcus xanthus DK 1622,0,Terrestrial,0,NA
+Yersinia pestis Nepal516,377628,Multiple,9606,Homo sapiens
+Yersinia pestis Antiqua,360102,Multiple,9606,Homo sapiens
+Mycobacterium sp. MCS,164756,Creosote-contaminated soil Soil,0,NA
+Rubrobacter xylanophilus DSM 9941,266117,Specialized,0,NA
+Roseobacter denitrificans OCh 114,375451,Multiple,3193,Plants
+Haloquadratum walsbyi DSM 16790,362976,Aquatic,0,NA
+Clostridium difficile 630,272563,Multiple,9606,Homo sapiens
+Pseudoalteromonas atlantica T6c,342610,Aquatic,0,NA
+Helicobacter acinonychis str. Sheeba,382638,HostAssociated,9689,Lion
+Chelativorans sp. BNC1,266779,Multiple,0,NA
+Francisella tularensis subsp. tularensis FSC198,393115,Aquatic,9606,Homo sapiens
+Escherichia coli 536,362663,HostAssociated,9606,Homo sapiens
+Cytophaga hutchinsonii ATCC 33406,269798,Multiple,0,NA
+Shigella flexneri 5 str. 8401,373384,HostAssociated,9606,Homo sapiens
+Alcanivorax borkumensis SK2,393595,Aquatic,0,NA
+Clostridium perfringens ATCC 13124,195103,Multiple,9606,Homo sapiens
+Rhodococcus jostii RHA1,101510,Terrestrial,0,NA
+Borrelia afzelii PKo,390236,HostAssociated,9606,Homo sapiens
+Frankia alni ACN14a,326424,HostAssociated,3518,Alnus viridis subsp. crispa
+Trichodesmium erythraeum IMS101,203124,Aquatic,0,NA
+Synechococcus sp. CC9311,64471,Aquatic,0,NA
+Shewanella sp. MR-7,60481,Aquatic,0,NA
+Shewanella sp. MR-4,60480,Multiple,0,NA
+Alkalilimnicola ehrlichii MLHE-1,187272,Aquatic,0,NA
+Nitrosomonas eutropha C91,335283,Multiple,0,NA
+Granulibacter bethesdensis CGDNIH1,391165,Multiple,9606,Homo sapiens
+Shewanella frigidimarina NCIMB 400,318167,Multiple,0,NA
+Syntrophomonas wolfei subsp. wolfei str. Goettingen,335541,Multiple,0,NA
+Maricaulis maris MCS10,394221,Aquatic,0,NA
+Hyphomonas neptunium ATCC 15444,228405,Aquatic,0,NA
+Francisella tularensis subsp. holarctica OSU18,393011,Multiple,9606,Homo sapiens
+Rhizobium leguminosarum bv. viciae 3841,216596,HostAssociated,3888,Pisum sativum
+Burkholderia ambifaria AMMD,339670,Multiple,9606,Homo sapiens
+Rhodopseudomonas palustris BisA53,316055,Multiple,0,NA
+Pseudomonas aeruginosa UCBPP-PA14,208963,Multiple,9606,Homo sapiens
+Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293,203120,Multiple,0,NA
+Lactobacillus brevis ATCC 367,387344,Multiple,0,NA
+Streptococcus thermophilus LMD-9,322159,Multiple,0,NA
+Lactobacillus casei ATCC 334,321967,Multiple,9606,Homo sapiens
+Lactococcus lactis subsp. cremoris SK11,272622,Multiple,0,NA
+Leptospira borgpetersenii serovar Hardjo-bovis L550,355276,HostAssociated,9606,Homo sapiens
+Leptospira borgpetersenii serovar Hardjo-bovis JB197,355277,HostAssociated,9606,Homo sapiens
+Candidatus Carsonella ruddii PV,387662,Specialized,0,NA
+Buchnera aphidicola str. Cc (Cinara cedri),372461,HostAssociated,34664,Acyrthosiphon kondoi
+Pediococcus pentosaceus ATCC 25745,278197,Multiple,0,NA
+Oenococcus oeni PSU-1,203123,Multiple,0,NA
+Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365,321956,Multiple,9606,Homo sapiens
+Lactobacillus gasseri ATCC 33323,324831,HostAssociated,9606,Homo sapiens
+Streptococcus pneumoniae D39,373153,Multiple,9606,Homo sapiens
+Candidatus Solibacter usitatus Ellin6076,234267,Terrestrial,0,NA
+Arthrobacter sp. FB24,290399,Soil,0,NA
+Burkholderia cenocepacia HI2424,331272,HostAssociated,9606,Homo sapiens
+Methanosaeta thermophila PT,349307,Fresh water Rice paddies Sediment,0,NA
+Syntrophobacter fumaroxidans MPOB,335543,Aquatic,0,NA
+Listeria welshimeri serovar 6b str. SLCC5334,386043,Multiple,0,NA
+Escherichia coli APEC O1,405955,HostAssociated,9606,Homo sapiens
+Aeromonas hydrophila subsp. hydrophila ATCC 7966,380703,Multiple,9606,Homo sapiens
+Gramella forsetii KT0803,411154,Multiple,0,NA
+Shewanella sp. ANA-3,94122,Multiple,0,NA
+Magnetococcus sp. MC-1,156889,Aquatic,0,NA
+Acidothermus cellulolyticus 11B,351607,Aquatic,0,NA
+Clostridium novyi NT,386415,Terrestrial,0,NA
+Mycobacterium avium 104,243243,HostAssociated,9606,Homo sapiens
+Mycobacterium smegmatis str. MC2 155,246196,HostAssociated,9606,Homo sapiens
+Bacillus thuringiensis str. Al Hakam,412694,Multiple,9606,Homo sapiens
+Campylobacter fetus subsp. fetus 82-40,360106,HostAssociated,9606,Homo sapiens
+Francisella novicida U112,401614,Multiple,9606,Homo sapiens
+Pelobacter propionicus DSM 2379,338966,Multiple,0,NA
+Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica),413404,HostAssociated,0,NA
+Bifidobacterium adolescentis ATCC 15703,367928,HostAssociated,9606,Homo sapiens
+Chlorobium phaeobacteroides DSM 266,290317,Aquatic,0,NA
+Paracoccus denitrificans PD1222,318586,Multiple,0,NA
+Thermofilum pendens Hrk 5,368408,Specialized,0,NA
+Nocardioides sp. JS614,196162,Terrestrial,0,NA
+Shewanella amazonensis SB2B,326297,Multiple,0,NA
+Pyrobaculum islandicum DSM 4184,384616,Specialized,0,NA
+Azoarcus sp. BH72,418699,HostAssociated,0,NA
+Mycobacterium sp. KMS,189918,Multiple,0,NA
+Psychromonas ingrahamii 37,357804,Aquatic,0,NA
+Borrelia turicatae 91E135,314724,HostAssociated,0,Homo sapiens Ornithodoros turicatae
+Arthrobacter aurescens TC1,290340,Terrestrial,0,NA
+Mycobacterium vanbaalenii PYR-1,350058,Sediment,0,NA
+Marinobacter aquaeolei VT8,351348,Aquatic,0,NA
+Desulfovibrio vulgaris DP4,391774,Multiple,0,NA
+Shewanella sp. W3-18-1,351745,Multiple,0,NA
+Acidovorax citrulli AAC00-1,397945,Multiple,0,NA
+Polaromonas naphthalenivorans CJ2,365044,Aquatic,0,NA
+Acidovorax sp. JS42,232721,Terrestrial,0,NA
+Neisseria meningitidis FAM18,272831,HostAssociated,9606,Homo sapiens
+Mycobacterium bovis BCG str. Pasteur 1173P2,410289,HostAssociated,9606,Homo sapiens
+Campylobacter jejuni subsp. jejuni 81-176,354242,Multiple,9606,Homo sapiens
+Verminephrobacter eiseniae EF01-2,391735,HostAssociated,6396,Eisenia foetida
+Bartonella bacilliformis KC583,360095,HostAssociated,9606,Homo sapiens
+Burkholderia mallei SAVP1,320388,HostAssociated,9606,Homo sapiens
+Halorhodospira halophila SL1,349124,Fresh water Mud,0,NA
+Yersinia enterocolitica subsp. enterocolitica 8081,393305,Multiple,9606,Homo sapiens
+Prochlorococcus marinus str. AS9601,146891,Aquatic,0,NA
+Prochlorococcus marinus str. MIT 9515,167542,Aquatic,0,NA
+Hyperthermus butylicus DSM 5456,415426,Aquatic,0,NA
+Prochlorococcus marinus str. NATL1A,167555,Aquatic,0,NA
+Prochlorococcus marinus str. MIT 9303,59922,Aquatic,0,NA
+Methylibium petroleiphilum PM1,420662,Aquatic,0,NA
+Burkholderia mallei NCTC 10229,412022,HostAssociated,9606,Homo sapiens
+Methanocorpusculum labreanum Z,410358,Aquatic,0,NA
+Lactococcus lactis subsp. cremoris MG1363,416870,Multiple,0,NA
+Streptococcus sanguinis SK36,388919,HostAssociated,9606,Homo sapiens
+Clostridium thermocellum ATCC 27405,203119,Multiple,0,NA
+Staphylothermus marinus F1,399550,Specialized,0,NA
+Shewanella baltica OS155,325240,Aquatic,0,NA
+Rhodobacter sphaeroides ATCC 17029,349101,Multiple,0,NA
+Methanoculleus marisnigri JR1,368407,Aquatic,0,NA
+Actinobacillus pleuropneumoniae serovar 5b str. L20,416269,HostAssociated,9823,Sus Scrofa
+Pyrobaculum calidifontis JCM 11548,410359,Specialized,0,NA
+Burkholderia pseudomallei 668,320373,Terrestrial,9606,Homo sapiens
+Burkholderia pseudomallei 1106a,357348,Terrestrial,9606,Homo sapiens
+Mycobacterium sp. JLS,164757,Multiple,0,NA
+Burkholderia mallei NCTC 10247,320389,HostAssociated,9606,Homo sapiens
+Acinetobacter baumannii ATCC 17978,400667,Multiple,9606,Homo sapiens
+Prochlorococcus marinus str. MIT 9301,167546,Aquatic,0,NA
+Shewanella loihica PV-4,323850,Multiple,0,NA
+Methanococcus maripaludis C5,402880,Aquatic,0,NA
+Herminiimonas arsenicoxydans,204773,Aquatic,0,NA
+Salmonella enterica subsp. enterica serovar Newport str. SL254,423368,Multiple,9606,Homo sapiens
+Saccharopolyspora erythraea NRRL 2338,405948,Terrestrial,0,NA
+Burkholderia vietnamiensis G4,269482,Multiple,0,NA
+Desulfotomaculum reducens MI-1,349161,Aquatic,0,NA
+Francisella tularensis subsp. tularensis WY96-3418,418136,HostAssociated,9606,Homo sapiens
+Geobacillus thermodenitrificans NG80-2,420246,Specialized,0,NA
+Streptococcus pyogenes str. Manfredo,160491,HostAssociated,9606,Homo sapiens
+Chlorobium phaeovibrioides DSM 265,290318,Aquatic,0,NA
+Mycobacterium gilvum PYR-GCK,350054,Soil,0,NA
+Corynebacterium glutamicum R,340322,Multiple,0,NA
+Pyrobaculum arsenaticum DSM 13514,340102,Aquatic,0,NA
+Yersinia pestis Pestoides F,386656,Multiple,9606,Homo sapiens
+Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1,312153,Aquatic,0,NA
+Salinispora tropica CNB-440,369723,Aquatic,0,NA
+Enterobacter sp. 638,399742,HostAssociated,0,NA
+Rhodobacter sphaeroides ATCC 17025,349102,Multiple,0,NA
+Pseudomonas stutzeri A1501,379731,HostAssociated,0,NA
+Caldicellulosiruptor saccharolyticus DSM 8903,351627,Specialized,0,NA
+Shewanella putrefaciens CN-32,319224,Multiple,0,NA
+Pseudomonas mendocina ymp,399739,Multiple,9606,Homo sapiens
+Metallosphaera sedula DSM 5348,399549,Specialized,0,NA
+Flavobacterium johnsoniae UW101,376686,Multiple,0,NA
+Streptococcus suis 05ZYH33,391295,Multiple,9606,Homo sapiens
+Streptococcus suis 98HAH33,391296,Specialized,9606,Homo sapiens
+Pseudomonas fluorescens SBW25,216595,Multiple,0,NA
+Bradyrhizobium sp. ORS278,114615,HostAssociated,0,NA
+Dichelobacter nodosus VCS1703A,246195,HostAssociated,0,NA
+Pelotomaculum thermopropionicum SI,370438,Specialized,0,NA
+Dehalococcoides sp. BAV1,216389,Fresh water Groundwater,0,NA
+Vibrio cholerae O395,345073,Aquatic,9606,Homo sapiens
+uncultured methanogenic archaeon RC-I,351160,HostAssociated,0,NA
+Candidatus Vesicomyosocius okutanii HA,412965,HostAssociated,0,NA
+Clostridium kluyveri DSM 555,431943,Aquatic,0,NA
+Acidiphilium cryptum JF-5,349163,Multiple,0,NA
+Bradyrhizobium sp. BTAi1,288000,HostAssociated,0,NA
+Staphylococcus aureus subsp. aureus JH9,359786,HostAssociated,9606,Homo sapiens
+Clavibacter michiganensis subsp. michiganensis NCPPB 382,443906,Multiple,0,NA
+Synechococcus sp. WH 7803,32051,Aquatic,0,NA
+Synechococcus sp. RCC307,316278,Aquatic,0,NA
+Geobacter uraniireducens Rf4,351605,Multiple,0,NA
+Thermotoga petrophila RKU-1,390874,Aquatic,0,NA
+Orientia tsutsugamushi str. Boryong,357244,HostAssociated,9606,Homo sapiens
+Legionella pneumophila str. Corby,400673,HostAssociated,9606,Homo sapiens
+Clostridium botulinum A str. ATCC 3502,413999,Multiple,9606,Homo sapiens
+Mycoplasma agalactiae PG2,347257,HostAssociated,0,NA
+Brucella ovis ATCC 25840,444178,HostAssociated,9940,Sheep
+Sphingomonas wittichii RW1,392499,Aquatic,0,NA
+Pseudomonas putida F1,351746,Multiple,0,NA
+Lactobacillus reuteri DSM 20016,557436,Multiple,9606,Homo sapiens
+Methanobrevibacter smithii ATCC 35061,420247,Multiple,0,NA
+Psychrobacter sp. PRwf-1,349106,Aquatic,40500,Lutjanus vivanus
+Roseiflexus sp. RS-1,357808,Specialized,0,NA
+Mycobacterium tuberculosis H37Ra,419947,HostAssociated,9606,Homo sapiens
+Mycobacterium tuberculosis F11,336982,HostAssociated,9606,Homo sapiens
+Haemophilus influenzae PittEE,374930,HostAssociated,9606,Homo sapiens
+Haemophilus influenzae PittGG,374931,HostAssociated,9606,Homo sapiens
+Flavobacterium psychrophilum JIP02/86,402612,Aquatic,0,NA
+Bacteroides vulgatus ATCC 8482,435590,HostAssociated,9606,Homo sapiens
+Parabacteroides distasonis ATCC 8503,435591,HostAssociated,9606,Homo sapiens
+Thermosipho melanesiensis BI429,391009,HostAssociated,240807,Bathymodiolus brevior
+Clostridium beijerinckii NCIMB 8052,290402,Fresh water Soil,0,NA
+Staphylococcus aureus subsp. aureus JH1,359787,HostAssociated,9606,Homo sapiens
+Sinorhizobium medicae WSM419,366394,Multiple,0,NA
+Alkaliphilus metalliredigens QYMF,293826,Ponds,0,NA
+Methanococcus vannielii SB,406327,Aquatic,0,NA
+Methanococcus aeolicus Nankai-3,419665,Aquatic,0,NA
+Methanococcus maripaludis C7,426368,Aquatic,0,NA
+Staphylococcus aureus subsp. aureus str. Newman,426430,HostAssociated,9606,Homo sapiens
+Klebsiella pneumoniae subsp. pneumoniae MGH 78578,272620,Multiple,9606,Homo sapiens
+Marinomonas sp. MWYL1,400668,Aquatic,0,NA
+Actinobacillus succinogenes 130Z,339671,HostAssociated,9913,Bovine
+Pseudomonas aeruginosa PA7,381754,Multiple,9606,Homo sapiens
+Janthinobacterium sp. Marseille,375286,Aquatic,0,NA
+Kineococcus radiotolerans SRS30216,266940,Multiple,0,NA
+Shewanella baltica OS185,402882,Aquatic,0,NA
+Nitratiruptor sp. SB155-2,387092,Specialized,0,NA
+Sulfurovum sp. NBC37-1,387093,Specialized,0,NA
+Ochrobactrum anthropi ATCC 49188,439375,Terrestrial,9606,Homo sapiens
+Bacillus cytotoxicus NVH 391-98,315749,Terrestrial,0,NA
+Anaeromyxobacter sp. Fw109-5,404589,Terrestrial,0,NA
+Clostridium botulinum A str. ATCC 19397,441770,Multiple,9606,Homo sapiens
+Clostridium botulinum A str. Hall,441771,Multiple,9606,Homo sapiens
+Clostridium botulinum F str. Langeland,441772,Multiple,9606,Homo sapiens
+Yersinia pseudotuberculosis IP 31758,349747,Multiple,0,NA
+Campylobacter jejuni subsp. doylei 269.97,360109,Multiple,9606,Homo sapiens
+Methanoregula boonei 6A8,456442,Terrestrial,0,NA
+Campylobacter hominis ATCC BAA-381,360107,HostAssociated,9606,Homo sapiens
+Campylobacter curvus 525.92,360105,HostAssociated,9606,Homo sapiens
+Xanthobacter autotrophicus Py2,78245,Multiple,0,NA
+Fervidobacterium nodosum Rt17-B1,381764,Specialized,0,NA
+Parvibaculum lavamentivorans DS-1,402881,Multiple,0,NA
+Bacillus amyloliquefaciens FZB42,326423,Terrestrial,0,NA
+Coxiella burnetii Dugway 5J108-111,434922,HostAssociated,9606,Homo sapiens
+Francisella tularensis subsp. holarctica FTNF002-00,458234,Multiple,9606,Homo sapiens
+Roseiflexus castenholzii DSM 13941,383372,Aquatic,0,NA
+Ignicoccus hospitalis KIN4/I,453591,Aquatic,0,NA
+Vibrio harveyi ATCC BAA-1116,2902295,Aquatic,0,NA
+Cronobacter sakazakii ATCC BAA-894,290339,HostAssociated,9606,Homo sapiens
+Staphylococcus aureus subsp. aureus Mu3,418127,HostAssociated,9606,Homo sapiens
+Streptococcus gordonii str. Challis substr. CH1,467705,HostAssociated,9606,Homo sapiens
+Escherichia coli E24377A,331111,HostAssociated,9606,Homo sapiens
+Citrobacter koseri ATCC BAA-895,290338,Multiple,9606,Homo sapiens
+Campylobacter concisus 13826,360104,HostAssociated,9606,Homo sapiens
+Escherichia coli HS,331112,HostAssociated,9606,Homo sapiens
+Thermotoga lettingae TMO,416591,Specialized,0,NA
+Serratia proteamaculans 568,399741,Multiple,9606,Homo sapiens
+Shewanella sediminis HAW-EB3,425104,Aquatic,0,NA
+Campylobacter jejuni subsp. jejuni 81116,407148,Multiple,9606,Homo sapiens
+Prochlorococcus marinus str. MIT 9215,93060,Aquatic,0,NA
+Bacillus pumilus SAFR-032,315750,Terrestrial,0,NA
+Arcobacter butzleri RM4018,367737,Multiple,9606,Homo sapiens
+Rickettsia canadensis str. McKiel,293613,HostAssociated,0,Homo sapiens Tick
+Rickettsia akari str. Hartford,293614,HostAssociated,9606,Homo sapiens
+Rickettsia rickettsii str. 'Sheila Smith',392021,HostAssociated,9606,Homo sapiens
+Rickettsia bellii OSU 85-389,391896,HostAssociated,9606,Dermacentor variabilis Homo sapiens
+Rickettsia massiliae MTU5,416276,HostAssociated,34633,Rhipicephalus turanicus
+Shewanella pealeana ATCC 700345,398579,HostAssociated,1051067,Loligo pealei
+Frankia sp. EAN1pec,298653,Multiple,3193,Plants
+Alkaliphilus oremlandii OhILAs,350688,Aquatic,0,NA
+Acaryochloris marina MBIC11017,329726,Aquatic,0,NA
+Azorhizobium caulinodans ORS 571,438753,HostAssociated,3895,Sesbania rostrata
+Desulfococcus oleovorans Hxd3,96561,Aquatic,0,NA
+Dinoroseobacter shibae DFL 12,398580,Fresh water,0,NA
+Salinispora arenicola CNS-205,391037,Aquatic,0,NA
+Caldivirga maquilingensis IC-167,397948,Specialized,0,NA
+Herpetosiphon aurantiacus DSM 785,316274,Multiple,0,NA
+Methanococcus maripaludis C6,444158,Aquatic,0,NA
+Prochlorococcus marinus str. MIT 9211,93059,Aquatic,0,NA
+Shewanella baltica OS195,399599,Aquatic,0,NA
+Clostridium phytofermentans ISDg,357809,Terrestrial,0,NA
+Delftia acidovorans SPH-1,398578,Multiple,0,NA
+Petrotoga mobilis SJ95,403833,Specialized,0,NA
+Staphylococcus aureus subsp. aureus USA300_TCH1516,451516,HostAssociated,9606,Homo sapiens
+Salmonella enterica subsp. arizonae serovar 62:z4 z23:-- str.,41514,HostAssociated,9606,Homo sapiens
+Burkholderia multivorans ATCC 17616,395019,HostAssociated,9606,Homo sapiens
+Lactobacillus helveticus DPC 4571,405566,Multiple,0,NA
+Nitrosopumilus maritimus SCM1,436308,Aquatic,0,NA
+Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7,1016998,NA,0,NA
+Brucella canis ATCC 23365,483179,HostAssociated,0,NA
+Coxiella burnetii RSA 331,360115,Multiple,9606,Homo sapiens
+Candidatus Sulcia muelleri GWSS,444179,HostAssociated,0,NA
+Neisseria meningitidis 053442,374833,HostAssociated,9606,Homo sapiens
+Gluconacetobacter diazotrophicus PAl 5,272568,HostAssociated,0,NA
+Yersinia pestis Angola,349746,Multiple,9606,Homo sapiens
+Bartonella tribocorum CIP 105476,382640,HostAssociated,10116,Rat
+Sorangium cellulosum 'So ce 56',448385,Terrestrial,0,NA
+Acholeplasma laidlawii PG-8A,441768,Specialized,0,NA
+Brucella suis ATCC 23445,470137,HostAssociated,9606,Homo sapiens
+Renibacterium salmoninarum ATCC 33209,288705,HostAssociated,0,NA
+Bordetella petrii DSM 12804,94624,Aquatic,0,NA
+Methylobacterium extorquens PA1,419610,Multiple,0,NA
+Chloroflexus aurantiacus J-10-fl,324602,Specialized,0,NA
+Bacillus weihenstephanensis KBAB4,315730,Terrestrial,0,NA
+Rickettsia rickettsii str. Iowa,452659,HostAssociated,9606,Homo sapiens
+Actinobacillus pleuropneumoniae serovar 3 str. JL03,434271,HostAssociated,9823,Sus Scrofa
+Chlamydia trachomatis L2b/UCH-1/proctitis,471473,HostAssociated,9606,Homo sapiens
+Chlamydia trachomatis 434/Bu,471472,HostAssociated,9606,Homo sapiens
+Microcystis aeruginosa NIES-843,449447,Aquatic,9606,Homo sapiens
+Thermoanaerobacter sp. X514,399726,Deep subsurface Fresh water,0,NA
+Thermoanaerobacter pseudethanolicus ATCC 33223,340099,Aquatic,0,NA
+Pseudomonas putida GB-1,76869,Multiple,0,NA
+Francisella philomiragia subsp. philomiragia ATCC 25017,484022,Multiple,9606,Homo sapiens
+Caulobacter sp. K31,366602,Fresh water,0,NA
+Shewanella halifaxensis HAW-EB4,458817,Marine Sediment,0,NA
+Heliobacterium modesticaldum Ice1,498761,Multiple,0,NA
+Halobacterium salinarum R1,478009,Specialized,0,NA
+Finegoldia magna ATCC 29328,334413,Multiple,9606,Homo sapiens
+Methylobacterium sp. 4-46,426117,Multiple,0,NA
+Clostridium botulinum B1 str. Okra,498213,Multiple,9606,Homo sapiens
+Streptococcus pneumoniae Hungary19A-6,487214,Multiple,9606,Homo sapiens
+Lysinibacillus sphaericus C3-41,444177,Specialized,0,NA
+Mycobacterium abscessus ATCC 19977,561007,Multiple,9606,Homo sapiens
+Acinetobacter baumannii SDF,509170,Aquatic,9606,Homo sapiens
+Clavibacter michiganensis subsp. sepedonicus,31964,Multiple,0,NA
+Acinetobacter baumannii AYE,509173,Aquatic,9606,Homo sapiens
+Clostridium botulinum A3 str. Loch Maree,498214,Multiple,9606,Homo sapiens
+Candidatus Desulforudis audaxviator MP104C,477974,Specialized,0,NA
+Yersinia pseudotuberculosis YPIII,502800,Multiple,9606,Homo sapiens
+Leuconostoc citreum KM20,349519,NA,0,NA
+Escherichia coli ATCC 8739,481805,HostAssociated,9606,Homo sapiens
+Escherichia coli str. K-12 substr. DH10B,316385,HostAssociated,9606,Homo sapiens
+Synechococcus sp. PCC 7002,32049,Aquatic,0,NA
+Candidatus Korarchaeum cryptofilum OPF8,374847,Specialized,0,NA
+Thermotoga sp. RQ2,126740,Specialized,0,NA
+Escherichia coli SMS-3-5,439855,Multiple,9606,Homo sapiens
+Pseudomonas putida W619,390235,Multiple,0,NA
+Methylobacterium radiotolerans JCM 2831,426355,HostAssociated,0,Legumes
+Ureaplasma parvum serovar 3 str. ATCC 27815,505682,HostAssociated,9606,Homo sapiens
+Shewanella woodyi ATCC 51908,392500,Multiple,0,NA
+Burkholderia cenocepacia MC0-3,406425,Multiple,9606,Homo sapiens
+Xylella fastidiosa M12,405440,HostAssociated,0,NA
+Haemophilus somnus 2336,228400,HostAssociated,0,NA
+Leptothrix cholodnii SP-6,395495,Aquatic,0,NA
+Thermoproteus neutrophilus V24Sta,444157,Specialized,0,NA
+Cupriavidus taiwanensis LMG 19424,977880,HostAssociated,0,NA
+Polynucleobacter necessarius subsp. necessarius STIR1,452638,HostAssociated,0,NA
+Cyanothece sp. ATCC 51142,43989,Aquatic,0,NA
+Candidatus Phytoplasma australiense,59748,HostAssociated,0,NA
+Corynebacterium urealyticum DSM 7109,504474,HostAssociated,9606,Homo sapiens
+Exiguobacterium sibiricum 255-15,262543,Specialized,0,NA
+Burkholderia ambifaria MC40-6,398577,Multiple,9606,Homo sapiens
+Proteus mirabilis HI4320,529507,HostAssociated,9606,Homo sapiens
+Opitutus terrae PB90-1,452637,Aquatic,0,NA
+Streptomyces griseus subsp. griseus NBRC 13350,455632,Multiple,0,NA
+Xylella fastidiosa M23,405441,HostAssociated,0,NA
+Beijerinckia indica subsp. indica ATCC 9039,395963,Soil,0,NA
+Streptococcus pneumoniae CGSP14,516950,Multiple,9606,Homo sapiens
+Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)',456481,Multiple,0,NA
+Mycobacterium marinum M,216594,Multiple,9606,Homo sapiens
+Acinetobacter baumannii ACICU,405416,Aquatic,9606,Homo sapiens
+Lactobacillus reuteri JCM 1112,557433,HostAssociated,9606,Homo sapiens
+Lactobacillus fermentum IFO 3956,334390,Multiple,9606,Homo sapiens
+Kocuria rhizophila DC2201,378753,Multiple,0,NA
+Burkholderia phymatum STM815,391038,HostAssociated,53898,Machaerium lunatum
+Nostoc punctiforme PCC 73102,63737,Multiple,0,NA
+Yersinia pseudotuberculosis PB1/+,502801,Multiple,9606,Homo sapiens
+Elusimicrobium minutum Pei191,445932,HostAssociated,0,NA
+Bordetella avium 197N,360910,HostAssociated,9103,Turkey
+Akkermansia muciniphila ATCC BAA-835,349741,HostAssociated,9606,Homo sapiens
+Shigella boydii CDC 3083-94,344609,HostAssociated,9606,Homo sapiens
+Borrelia hermsii DAH,314723,HostAssociated,9606,Homo sapiens
+Clostridium botulinum B str. Eklund 17B,935198,Multiple,9606,Homo sapiens
+Burkholderia phytofirmans PsJN,398527,Terrestrial,0,NA
+Francisella tularensis subsp. mediasiatica FSC147,441952,HostAssociated,9606,Homo sapiens
+Ralstonia pickettii 12J,402626,Multiple,9606,Homo sapiens
+Xanthomonas campestris pv. campestris str. B100,340,HostAssociated,0,NA
+Erwinia tasmaniensis Et1/99,465817,HostAssociated,0,NA
+Helicobacter pylori Shi470,512562,HostAssociated,9606,Homo sapiens
+Natranaerobius thermophilus JW/NM-WN-LF,457570,Specialized,0,NA
+Xanthomonas oryzae pv. oryzae PXO99A,360094,HostAssociated,0,NA
+Methylobacterium populi BJ001,441620,HostAssociated,3689,Populus
+Clostridium botulinum E3 str. Alaska E43,508767,Multiple,9606,Homo sapiens
+Porphyromonas gingivalis ATCC 33277,431947,HostAssociated,9606,Homo sapiens
+Sulfurihydrogenibium sp. YO3AOP1,436114,Specialized,0,NA
+Brucella abortus S19,430066,Multiple,9606,Homo sapiens
+Treponema pallidum subsp. pallidum SS14,455434,HostAssociated,9606,Homo sapiens
+Orientia tsutsugamushi str. Ikeda,334380,HostAssociated,9606,Homo sapiens
+Methylacidiphilum infernorum V4,481448,Specialized,0,NA
+Chlorobium limicola DSM 245,290315,Aquatic,0,NA
+Corynebacterium aurimucosum ATCC 700975,548476,HostAssociated,9606,Homo sapiens
+Geobacter lovleyi SZ,398767,Multiple,0,NA
+Candidatus Amoebophilus asiaticus 5a2,452471,HostAssociated,0,NA
+Chlorobium phaeobacteroides BS1,331678,Aquatic,0,NA
+Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)',355278,Multiple,0,NA
+Comamonas testosteroni CNB-1,543891,NA,0,NA
+Actinobacillus pleuropneumoniae serovar 7 str. AP76,537457,HostAssociated,9823,Sus Scrofa
+Stenotrophomonas maltophilia K279a,522373,Multiple,9606,Homo sapiens
+Wolbachia endosymbiont of Culex quinquefasciatus Pel,570417,HostAssociated,0,NA
+Rhizobium etli CIAT 652,491916,HostAssociated,3885,Phaseolus vulgaris
+Cellvibrio japonicus Ueda107,498211,Terrestrial,0,NA
+Lactobacillus casei BL23,1597,Specialized,9606,Homo sapiens
+Burkholderia cenocepacia J2315,216591,Multiple,9606,Homo sapiens
+Rhodopseudomonas palustris TIE-1,395960,Soil,0,NA
+Mycoplasma arthritidis 158L3-1,243272,HostAssociated,9606,Homo sapiens
+Chloroherpeton thalassium ATCC 35110,517418,Aquatic,0,NA
+Chlorobaculum parvum NCIB 8327,517417,Aquatic,0,NA
+Neisseria gonorrhoeae NCCP11945,521006,HostAssociated,9606,Homo sapiens
+Candidatus Phytoplasma mali,37692,HostAssociated,0,NA
+Prosthecochloris aestuarii DSM 271,290512,Aquatic,0,NA
+Pelodictyon phaeoclathratiforme BU-1,324925,Multiple,0,NA
+Stenotrophomonas maltophilia R551-3,391008,Multiple,9606,Homo sapiens
+Streptococcus pneumoniae G54,512566,HostAssociated,9606,Homo sapiens
+Salmonella enterica subsp. enterica serovar Heidelberg str. SL476,454169,Multiple,9606,Homo sapiens
+Salmonella enterica subsp. enterica serovar Schwarzengrund str.,439843,Multiple,9606,Homo sapiens
+Hydrogenobaculum sp. Y04AAS1,380749,Aquatic,0,NA
+Streptococcus equi subsp. zooepidemicus,552526,HostAssociated,9606,Homo sapiens
+Alteromonas macleodii str. 'Deep ecotype',1774373,Aquatic,0,NA
+Phenylobacterium zucineum HLK1,450851,HostAssociated,9606,Homo sapiens
+Anaeromyxobacter sp. K,447217,Terrestrial,0,NA
+Geobacter bemidjiensis Bem,404380,Terrestrial,0,NA
+Salmonella enterica subsp. enterica serovar Paratyphi A str.,554290,Multiple,9606,Homo sapiens
+Salmonella enterica subsp. enterica serovar Agona str. SL483,454166,Multiple,9606,Homo sapiens
+Vibrio fischeri MJ11,388396,Multiple,0,NA
+Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853,439851,Multiple,9606,Homo sapiens
+Acidithiobacillus ferrooxidans ATCC 53993,380394,Specialized,0,NA
+Borrelia duttonii Ly,412419,HostAssociated,9606,Homo sapiens
+Borrelia recurrentis A1,412418,HostAssociated,9606,Homo sapiens
+Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91,550538,Multiple,9606,Homo sapiens
+Klebsiella pneumoniae 342,244366,HostAssociated,4577,Zea mays
+Salmonella enterica subsp. enterica serovar Enteritidis str.,550537,Specialized,9606,Homo sapiens
+Coprothermobacter proteolyticus DSM 5265,309798,Specialized,0,NA
+Thermodesulfovibrio yellowstonii DSM 11347,289376,Specialized,0,NA
+Dictyoglomus thermophilum H-6-12,309799,Aquatic,0,NA
+Aliivibrio salmonicida LFI1238,316275,Aquatic,0,Cod
+Helicobacter pylori G27,563041,HostAssociated,9606,Homo sapiens
+Escherichia coli O157:H7 str. EC4115,444450,Multiple,9606,Homo sapiens
+Lactobacillus casei str. Zhang,1597,Multiple,9606,Homo sapiens
+Rhizobium leguminosarum bv. trifolii WSM2304,395492,HostAssociated,3888,Pisum sativum
+Ureaplasma urealyticum serovar 10 str. ATCC 33699,565575,HostAssociated,9606,Homo sapiens
+Streptococcus pyogenes NZ131,471876,HostAssociated,9606,Homo sapiens
+Oligotropha carboxidovorans OM5,504832,Multiple,0,NA
+Escherichia coli SE11,409438,HostAssociated,9606,Homo sapiens
+Rhodospirillum centenum SW,414684,Aquatic,0,NA
+Helicobacter pylori P12,570508,HostAssociated,9606,Homo sapiens
+Coxiella burnetii CbuK_Q154,434924,Multiple,9606,Homo sapiens
+Coxiella burnetii CbuG_Q212,434923,Multiple,9606,Homo sapiens
+Thermococcus onnurineus NA1,523850,Terrestrial,0,NA
+Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2,511995,Specialized,104083,Pseudotrichonympha grassii
+Shewanella piezotolerans WP3,225849,Specialized,0,NA
+Anoxybacillus flavithermus WK1,491915,Specialized,0,NA
+Acinetobacter baumannii AB0057,480119,Multiple,9606,Homo sapiens
+Bifidobacterium longum subsp. infantis ATCC 15697,391904,HostAssociated,9606,Homo sapiens
+Acinetobacter baumannii AB307-0294,557600,Multiple,9606,Homo sapiens
+Escherichia coli O127:H6 str. E2348/69,574521,HostAssociated,9606,Homo sapiens
+Thermosipho africanus TCF52B,484019,Specialized,0,NA
+Bacillus cereus AH187,405534,Multiple,9606,Homo sapiens
+Listeria monocytogenes HCC23,552536,HostAssociated,9606,Cattfish Homo sapiens
+Dictyoglomus turgidum DSM 6724,515635,Specialized,0,NA
+Thauera sp. MZ1T,85643,Aquatic,0,NA
+Shewanella baltica OS223,407976,Aquatic,0,NA
+Methylocella silvestris BL2,395965,Terrestrial,0,NA
+Borrelia burgdorferi ZS7,445985,HostAssociated,9606,Homo sapiens
+Cyanothece sp. PCC 8801,41431,Aquatic,0,NA
+Bacillus cereus B4264,405532,Multiple,9606,Homo sapiens
+Cyanothece sp. PCC 7424,65393,Aquatic,0,NA
+Escherichia coli UMN026,585056,Multiple,9606,Homo sapiens
+Escherichia fergusonii ATCC 35469,585054,Multiple,9606,Homo sapiens
+Escherichia coli IAI1,585034,Multiple,9606,Homo sapiens
+Escherichia coli S88,585035,Multiple,9606,Homo sapiens
+Vibrio splendidus LGP32,693153,Aquatic,0,NA
+Escherichia coli ED1a,585397,Multiple,9606,Homo sapiens
+Escherichia coli 55989,585055,Multiple,9606,Homo sapiens
+Escherichia coli IAI39,585057,Multiple,9606,Homo sapiens
+Methylobacterium chloromethanicum CM4,440085,Terrestrial,0,NA
+Acidithiobacillus ferrooxidans ATCC 23270,243159,Multiple,0,NA
+Desulfurococcus kamchatkensis 1221n,490899,Aquatic,0,NA
+Desulfatibacillum alkenivorans AK-01,218208,Aquatic,0,NA
+Desulfovibrio vulgaris str. 'Miyazaki F',883,Multiple,0,NA
+Pseudomonas aeruginosa LESB58,557722,Multiple,9606,Homo sapiens
+Bacillus cereus AH820,405535,Multiple,9606,Homo sapiens
+Bacillus cereus G9842,405531,Multiple,9606,Homo sapiens
+Desulfitobacterium hafniense DCB-2,272564,Specialized,0,NA
+Chloroflexus aggregans DSM 9485,326427,Specialized,0,NA
+Methanosphaerula palustris E1-9c,521011,Specialized,0,NA
+Buchnera aphidicola str. 5A (Acyrthosiphon pisum),563178,HostAssociated,34664,Acyrthosiphon kondoi
+Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum),561501,HostAssociated,34664,Acyrthosiphon kondoi
+Bifidobacterium animalis subsp. lactis AD011,442563,Multiple,9606,Homo sapiens
+Clostridium kluyveri NBRC 12016,583346,Aquatic,0,NA
+Haemophilus parasuis SH0165,557723,HostAssociated,9823,Swine
+Buchnera aphidicola (Cinara cedri),372461,NA,0,NA
+Arthrobacter chlorophenolicus A6,452863,Terrestrial,0,NA
+Cyanothece sp. PCC 7425,395961,Aquatic,0,NA
+Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774,525146,Multiple,9940,Sheep
+Methylobacterium nodulans ORS 2060,460265,HostAssociated,3828,Crotalaria
+Anaeromyxobacter dehalogenans 2CP-1,455488,Terrestrial,0,NA
+Mycobacterium leprae Br4923,561304,HostAssociated,9606,Homo sapiens
+Clostridium cellulolyticum H10,394503,Terrestrial,0,NA
+Halothermothrix orenii H 168,373903,Aquatic,0,NA
+Streptococcus pneumoniae ATCC 700669,561276,Multiple,9606,Homo sapiens
+Thioalkalivibrio sulfidophilus HL-EbGr7,396588,Specialized,0,NA
+Caulobacter crescentus NA1000,565050,Aquatic,0,NA
+Rhodobacter sphaeroides KD131,557760,Multiple,0,NA
+Thermomicrobium roseum DSM 5159,309801,Specialized,0,NA
+Bacillus cereus Q1,361100,Terrestrial,0,NA
+Thermotoga neapolitana DSM 4359,309803,Specialized,0,NA
+Geobacter sp. FRC-32,316067,Multiple,0,NA
+Agrobacterium vitis S4,311402,Multiple,0,Vitis vinifera cv. 'Izsaki Sarfeher
+Agrobacterium radiobacter K84,311403,Terrestrial,0,NA
+Acidovorax ebreus TPSY,535289,Aquatic,0,NA
+Macrococcus caseolyticus JCSC5402,458233,Multiple,0,NA
+Streptococcus uberis 0140J,218495,Multiple,9913,Bovine
+Anaplasma marginale str. Florida,320483,HostAssociated,9606,Cow Homo sapiens
+Halorubrum lacusprofundi ATCC 49239,416348,Aquatic,0,NA
+Chloroflexus sp. Y-400-fl,480224,NA,0,NA
+Caldicellulosiruptor bescii DSM 6725,521460,Specialized,0,NA
+Campylobacter lari RM2100,306263,Multiple,9606,Homo sapiens
+Desulfobacterium autotrophicum HRM2,177437,Multiple,0,NA
+Nautilia profundicola AmH,598659,Multiple,6376,Alvinella pompejana
+Staphylococcus carnosus subsp. carnosus TM300,396513,NA,0,NA
+Salmonella enterica subsp. enterica serovar Paratyphi C strain,476213,HostAssociated,9606,Homo sapiens
+Mycobacterium bovis BCG str. Tokyo 172,561275,HostAssociated,9606,Homo sapiens
+Erwinia pyrifoliae Ep1/96,634499,NA,0,NA
+Brachyspira hyodysenteriae WA1,565034,HostAssociated,9823,Pig
+Wolbachia sp. wRi,66084,HostAssociated,0,NA
+Sulfurihydrogenibium azorense Az-Fu1,204536,Aquatic,0,NA
+Persephonella marina EX-H1,123214,Aquatic,0,NA
+Brucella melitensis ATCC 23457,546272,HostAssociated,9606,Homo sapiens
+Streptococcus pneumoniae JJA,488222,Multiple,9606,Homo sapiens
+Streptococcus pneumoniae P1031,488223,Multiple,9606,Homo sapiens
+Streptococcus pneumoniae 70585,488221,Multiple,9606,Homo sapiens
+Streptococcus pneumoniae Taiwan19F-14,487213,Multiple,9606,Homo sapiens
+Streptococcus equi subsp. equi 4047,553482,HostAssociated,9606,Homo sapiens
+Bacillus cereus 03BB102,572264,Multiple,9606,Homo sapiens
+Acidobacterium capsulatum ATCC 51196,240015,Multiple,0,NA
+Listeria monocytogenes serotype 4b str. CLIP 80459,568819,Multiple,9606,Homo sapiens
+Gemmatimonas aurantiaca T-27,379066,NA,0,NA
+Brevibacillus brevis NBRC 100599,358681,Terrestrial,0,NA
+Deinococcus deserti VCD115,546414,Terrestrial,0,NA
+Lactobacillus johnsonii FI9785,633699,HostAssociated,9606,Homo sapiens
+Laribacter hongkongensis HLHK9,557598,HostAssociated,9606,Homo sapiens
+Azotobacter vinelandii DJ,322710,Multiple,0,NA
+Clostridium botulinum A2 str. Kyoto,536232,Multiple,9606,Homo sapiens
+Bacillus anthracis str. CDC 684,568206,HostAssociated,9606,Homo sapiens
+Vibrio cholerae M66-2,579112,Multiple,9606,Homo sapiens
+Sulfolobus islandicus M.14.25,427317,Specialized,0,NA
+Sulfolobus islandicus L.S.2.15,429572,Specialized,0,NA
+Sulfolobus islandicus Y.G.57.14,439386,Hot spring,0,NA
+Sulfolobus islandicus Y.N.15.51,419942,Specialized,0,NA
+Sulfolobus islandicus M.16.27,427318,Specialized,0,NA
+Rickettsia africae ESF-5,347255,HostAssociated,9606,Homo sapiens
+Clostridium botulinum Ba4 str. 657,515621,Multiple,9606,Homo sapiens
+Bacillus anthracis str. A0248,592021,Multiple,9606,Homo sapiens
+Vibrio cholerae MJ-1236,593588,Aquatic,9606,Homo sapiens
+Beutenbergia cavernae DSM 12333,471853,Terrestrial,0,NA
+Exiguobacterium sp. AT1b,360911,Specialized,0,NA
+Chlamydia trachomatis B/Jali20/OT,580049,HostAssociated,9606,Homo sapiens
+Chlamydia trachomatis B/TZ1A828/OT,672161,HostAssociated,9606,Homo sapiens
+Tolumonas auensis DSM 9187,595494,Aquatic,0,NA
+Burkholderia pseudomallei MSHR346,536230,NA,0,NA
+Corynebacterium kroppenstedtii DSM 44385,645127,HostAssociated,9606,Homo sapiens
+Burkholderia glumae BGR1,626418,Multiple,0,NA
+Sulfolobus islandicus M.16.4,426118,Specialized,0,NA
+Rickettsia peacockii str. Rustic,562019,HostAssociated,34620,Dermacentor andersoni
+Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),572265,HostAssociated,7029,Acyrthosiphon pisum
+Escherichia coli BW2952,595496,Multiple,0,NA
+Eubacterium eligens ATCC 27750,515620,HostAssociated,9606,Homo sapiens
+Edwardsiella ictaluri 93-146,634503,Aquatic,0,NA
+Eubacterium rectale ATCC 33656,515619,HostAssociated,9606,Homo sapiens
+Kosmotoga olearia TBF 19.5.1,521045,Aquatic,0,NA
+Geobacillus sp. WCH70,471223,NA,0,NA
+Variovorax paradoxus S110,543728,Multiple,0,NA
+Desulfovibrio magneticus RS-1,573370,Fresh water,0,NA
+Micrococcus luteus NCTC 2665,465515,Multiple,0,NA
+Thermococcus gammatolerans EJ3,593117,Specialized,0,NA
+Mycoplasma conjunctivae HRC/581,45361,HostAssociated,9940,Homo sapiens Sheep
+Methylobacterium extorquens AM1,272630,Multiple,0,NA
+Bifidobacterium animalis subsp. lactis Bl-04,580050,Multiple,9606,Homo sapiens
+Bifidobacterium animalis subsp. lactis DSM 10140,555970,Multiple,9606,Homo sapiens
+Bartonella grahamii as4aup,634504,HostAssociated,9606,Apodemus sylvaticus Homo sapiens
+Rhizobium leguminosarum bv. trifolii WSM1325,395491,HostAssociated,3888,Pisum sativum
+Ralstonia pickettii 12D,428406,Multiple,9606,Homo sapiens
+Dickeya dadantii Ech703,579405,Multiple,0,NA
+Desulfovibrio salexigens DSM 2638,526222,Multiple,0,NA
+Thermococcus sibiricus MM 739,604354,Hot spring,0,NA
+Streptococcus dysgalactiae subsp. equisimilis GGS_124,486410,HostAssociated,9606,Homo sapiens
+Dickeya zeae Ech1591,561229,NA,0,NA
+Aggregatibacter aphrophilus NJ8700,634176,HostAssociated,9606,Homo sapiens
+Paenibacillus sp. JDR-2,324057,Terrestrial,0,NA
+Pectobacterium carotovorum subsp. carotovorum PC1,561230,HostAssociated,0,NA
+Geobacter sp. M21,443144,Aquatic,0,NA
+Streptococcus suis BM407,568814,Multiple,9606,Homo sapiens
+Streptococcus suis SC84,568813,Multiple,9606,Homo sapiens
+Streptococcus suis P1/7,218494,HostAssociated,9823,Homo sapiens Sus scrofa
+Mycobacterium tuberculosis KZN 1435,478434,HostAssociated,9606,Homo sapiens
+Escherichia coli 'BL21-Gold(DE3)pLysS AG',866768,Multiple,9606,Homo sapiens
+Candidatus Hodgkinia cicadicola Dsem,573234,Specialized,946270,Diceroprocta semicincta
+Photorhabdus asymbiotica,291112,NA,0,NA
+Photorhabdus asymbiotica subsp. asymbiotica ATCC 43949,291112,HostAssociated,9606,Homo sapiens
+Escherichia coli B str. REL606,413997,Multiple,9606,Homo sapiens
+Methylotenera mobilis JLW8,583345,Aquatic,0,NA
+Methylovorus glucosetrophus SIP3-4,582744,Aquatic,0,NA
+Helicobacter pylori B38,592205,HostAssociated,9606,Homo sapiens
+Hirschia baltica ATCC 49814,582402,Aquatic,0,NA
+Lactobacillus plantarum JDM1,644042,HostAssociated,9606,Homo sapiens
+Candidatus Liberibacter asiaticus str. psy62,537021,HostAssociated,121845,Diaphorina citri
+Methylobacterium extorquens DM4,661410,Terrestrial,0,NA
+Teredinibacter turnerae T7901,377629,HostAssociated,457830,Lyrodus pedicellatus
+Escherichia coli O157:H7 str. TW14359,544404,Multiple,9606,Homo sapiens
+Neorickettsia risticii str. Illinois,434131,HostAssociated,9796,Homo sapiens Horse
+Neisseria meningitidis alpha14,662598,HostAssociated,9606,Homo sapiens
+Dyadobacter fermentans DSM 18053,471854,HostAssociated,0,NA
+Pedobacter heparinus DSM 2366,485917,Terrestrial,0,NA
+Flavobacteriaceae bacterium 3519-10,531844,NA,0,NA
+Actinosynnema mirum DSM 43827,446462,Terrestrial,0,NA
+Brucella microti CCM 4915,568815,Multiple,9606,Homo sapiens
+Candidatus Sulcia muelleri SMDSEM,595499,Specialized,0,NA
+Acidimicrobium ferrooxidans DSM 10331,525909,Specialized,0,NA
+Catenulispora acidiphila DSM 44928,479433,Terrestrial,0,NA
+Chitinophaga pinensis DSM 2588,485918,Terrestrial,0,NA
+Methanocaldococcus fervens AG86,573064,Specialized,0,NA
+Halorhabdus utahensis DSM 12940,519442,Terrestrial,0,NA
+Saccharomonospora viridis DSM 43017,471857,Multiple,9606,Homo sapiens
+Cyanothece sp. PCC 8802,395962,Aquatic,0,NA
+Capnocytophaga ochracea DSM 7271,521097,HostAssociated,9606,Homo sapiens
+Anaerococcus prevotii DSM 20548,525919,HostAssociated,9606,Homo sapiens
+Slackia heliotrinireducens DSM 20476,471855,Multiple,9940,Sheep
+Kangiella koreensis DSM 16069,523791,Aquatic,0,NA
+Kytococcus sedentarius DSM 20547,478801,Marine Skin microflora,0,NA
+Cryptobacterium curtum DSM 15641,469378,HostAssociated,9606,Homo sapiens
+Brachybacterium faecium DSM 4810,446465,Terrestrial,0,NA
+Desulfomicrobium baculatum DSM 4028,525897,Terrestrial,0,NA
+Jonesia denitrificans DSM 20603,471856,HostAssociated,9913,Ox
+Candidatus Accumulibacter phosphatis clade IIA str. UW-1,327160,Specialized,0,NA
+Leptotrichia buccalis C-1013-b,523794,HostAssociated,9606,Homo sapiens
+Lactobacillus rhamnosus GG,568703,Multiple,9606,Homo sapiens
+Lactobacillus rhamnosus Lc 705,568704,Multiple,9606,Homo sapiens
+Halomicrobium mukohataei DSM 12286,485914,Specialized,0,NA
+Atopobium parvulum DSM 20469,521095,HostAssociated,9606,Homo sapiens
+Eggerthella lenta DSM 2243,479437,HostAssociated,9606,Homo sapiens
+Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446,521098,Specialized,0,NA
+Acetobacter pasteurianus IFO 3283-01,634452,Multiple,0,NA
+Desulfotomaculum acetoxidans DSM 771,485916,Multiple,0,NA
+Robiginitalea biformata HTCC2501,313596,Aquatic,0,NA
+Desulfohalobium retbaense DSM 5692,485915,Specialized,0,NA
+Nakamurella multipartita DSM 44233,479431,Terrestrial,0,NA
+Cronobacter turicensis z3032,693216,HostAssociated,9606,Homo sapiens
+Clostridium difficile CD196,645462,HostAssociated,9606,Homo sapiens
+Clostridium difficile R20291,645463,Multiple,9606,Homo sapiens
+Escherichia coli O103:H2 str. 12009,585395,HostAssociated,9606,Homo sapiens
+Zymomonas mobilis subsp. mobilis NCIMB 11163,622759,NA,0,NA
+Escherichia coli O26:H11 str. 11368,573235,Multiple,9606,Homo sapiens
+Escherichia coli O111:H- str. 11128,585396,HostAssociated,9606,Homo sapiens
+Ammonifex degensii KC4,429009,Specialized,0,NA
+Paenibacillus sp. Y412MC10,481743,HostAssociated,9606,Homo sapiens
+Methanocaldococcus vulcanius M7,579137,Specialized,0,NA
+Fibrobacter succinogenes subsp. succinogenes S85,59374,HostAssociated,0,NA
+Geobacillus sp. Y412MC61,544556,Specialized,0,NA
+Aggregatibacter actinomycetemcomitans D11S-1,668336,NA,0,NA
+Blattabacterium sp. (Periplaneta americana) str. BPLAN,600809,HostAssociated,6973,Blattella germanica
+Pectobacterium wasabiae WPP163,561231,Multiple,0,NA
+Halothiobacillus neapolitanus c2,555778,Specialized,0,NA
+Haliangium ochraceum DSM 14365,502025,Aquatic,0,NA
+Gordonia bronchialis DSM 43247,526226,HostAssociated,9606,Homo sapiens
+Comamonas testosteroni CNB-2,363952,Multiple,0,NA
+Staphylococcus aureus subsp. aureus ED98,681288,HostAssociated,9606,Homo sapiens
+Blattabacterium sp. (Blattella germanica) str. Bge,331104,HostAssociated,6973,Blattella germanica
+Vibrio sp. Ex25,150340,Marine,0,NA
+Rhodothermus marinus DSM 4252,518766,Specialized,0,NA
+Edwardsiella tarda EIB202,498217,Multiple,9606,Homo sapiens
+Thermomonospora curvata DSM 43183,471852,Specialized,0,NA
+Mycoplasma hominis ATCC 23114,347256,NA,0,NA
+Sulfurospirillum deleyianum DSM 6946,525898,Aquatic,0,NA
+Streptobacillus moniliformis DSM 12112,519441,HostAssociated,9606,Homo sapiens
+Sebaldella termitidis ATCC 33386,526218,HostAssociated,0,Termite
+Veillonella parvula DSM 2008,479436,HostAssociated,9606,Homo sapiens
+Sanguibacter keddieii DSM 10542,446469,HostAssociated,9913,Cow
+Thermanaerovibrio acidaminovorans DSM 6589,525903,Terrestrial,0,NA
+Sphaerobacter thermophilus DSM 20745,479434,Sludge,0,NA
+Thermobaculum terrenum ATCC BAA-798,525904,Specialized,0,NA
+Xylanimonas cellulosilytica DSM 15894,446471,Specialized,0,NA
+Anaplasma centrale str. Israel,574556,HostAssociated,0,NA
+Dehalococcoides sp. VS,311424,Aquatic,0,NA
+Dickeya dadantii Ech586,590409,Multiple,0,NA
+Streptosporangium roseum DSM 43021,479432,Terrestrial,0,NA
+Thermotoga naphthophila RKU-10,590168,Specialized,0,NA
+Lactococcus lactis subsp. lactis KF147,684738,HostAssociated,0,NA
+Methanocella paludicola SANAE,304371,NA,0,NA
+Bifidobacterium dentium Bd1,401473,HostAssociated,9606,Homo sapiens
+Rothia mucilaginosa DY-18,680646,HostAssociated,9606,Homo sapiens
+Citrobacter rodentium ICC168,637910,Multiple,0,NA
+Pirellula staleyi DSM 6068,530564,Aquatic,0,NA
+Gardnerella vaginalis 409-05,553190,HostAssociated,9606,Homo sapiens
+Xanthomonas albilineans GPE PC73,380358,NA,0,NA
+Kribbella flavida DSM 17836,479435,Terrestrial,0,NA
+Spirosoma linguale DSM 74,504472,Multiple,0,NA
+Conexibacter woesei DSM 14684,469383,Terrestrial,0,NA
+Acidaminococcus fermentans DSM 20731,591001,Multiple,9823,Sus scrofa
+Archaeoglobus profundus DSM 5631,572546,Specialized,0,NA
+Haloterrigena turkmenica DSM 5511,543526,Specialized,0,NA
+Geodermatophilus obscurus DSM 43160,526225,Terrestrial,0,NA
+Listeria monocytogenes 08-5578,653938,HostAssociated,9606,Homo sapiens
+Listeria monocytogenes 08-5923,637381,HostAssociated,9606,Homo sapiens
+Sulfolobus islandicus L.D.8.5,425944,Specialized,0,NA
+cyanobacterium UCYN-A,1453429,Aquatic,0,NA
+Methanobrevibacter ruminantium M1,634498,HostAssociated,9913,Bovine
+Bacillus pseudofirmus OF4,398511,Terrestrial,0,NA
+Streptococcus gallolyticus UCN34,637909,HostAssociated,9606,Homo sapiens
+Hydrogenobacter thermophilus TK-6,608538,NA,0,NA
+Ferroglobus placidus DSM 10642,589924,Specialized,0,NA
+Klebsiella variicola At-22,640131,HostAssociated,0,NA
+Allochromatium vinosum DSM 180,572477,Aquatic,0,NA
+Streptococcus mitis B6,365659,HostAssociated,9606,Homo sapiens
+Azospirillum sp. B510,137722,Terrestrial,0,NA
+Legionella longbeachae NSW150,661367,HostAssociated,9606,Homo sapiens
+Methanocaldococcus sp. FS406-22,644281,Specialized,0,NA
+Thioalkalivibrio sp. K90mix,396595,Specialized,0,NA
+Dehalococcoides sp. GT,633145,Aquatic,0,NA
+Listeria seeligeri serovar 1/2b str. SLCC3954,683837,NA,0,NA
+Xenorhabdus bovienii SS-2004,406818,HostAssociated,0,Steinernema species
+Staphylococcus lugdunensis HKU09-01,698737,HostAssociated,9606,Homo sapiens
+Thermocrinis albus DSM 14484,638303,Fresh water Hot spring,0,NA
+Clostridiales genomosp. BVAB3 str. UPII9-5,699246,HostAssociated,9606,Homo sapiens
+Thermoanaerobacter italicus Ab9,580331,Specialized,0,NA
+Natrialba magadii ATCC 43099,547559,Specialized,0,NA
+Aciduliprofundum boonei T469,439481,Aquatic,0,NA
+Streptococcus mutans NN2025,511691,HostAssociated,9606,Homo sapiens
+Streptomyces scabiei 87.22,680198,Terrestrial,0,NA
+Deferribacter desulfuricans SSM1,639282,Specialized,0,NA
+Escherichia coli O55:H7 str. CB9615,701177,HostAssociated,9606,Homo sapiens
+Denitrovibrio acetiphilus DSM 12809,522772,Aquatic,0,NA
+Meiothermus ruber DSM 1279,504728,Specialized,0,NA
+Stackebrandtia nassauensis DSM 44728,446470,Soil,0,NA
+Helicobacter mustelae 12198,679897,HostAssociated,9669,Homo sapiens Mustela putorius furo
+Pantoea ananatis LMG 20103,706191,Multiple,37965,Eucalyptus grandisxnitens hybrid
+Erwinia amylovora CFBP1430,665029,HostAssociated,0,NA
+Nitrosococcus halophilus Nc4,472759,Marine,0,NA
+Sideroxydans lithotrophicus ES-1,580332,Aquatic,0,NA
+Candidatus Riesia pediculicola USDA,515618,HostAssociated,121225,Pediculus humanus
+Haloferax volcanii DS2,309800,Aquatic,0,NA
+Erwinia amylovora ATCC 49946,716540,HostAssociated,0,NA
+Methanohalophilus mahii DSM 5219,547558,Specialized,0,NA
+Candidatus Sulcia muelleri DMIN,641892,Specialized,0,NA
+Sphingobium japonicum UT26S,452662,Terrestrial,0,NA
+Coraliomargarita akajimensis DSM 45221,583355,Aquatic,0,NA
+Candidatus Puniceispirillum marinum IMCC1322,488538,Aquatic,0,NA
+Aminobacterium colombiense DSM 12261,572547,Aquatic,0,NA
+Shewanella violacea DSS12,637905,Specialized,0,NA
+Mycoplasma crocodyli MP145,512564,HostAssociated,8501,Crocodylus niloticus
+Yersinia pestis Z176003,637386,HostAssociated,93163,Homo sapiens Marmota himalayana
+Salinibacter ruber M8,761659,NA,0,NA
+Prevotella ruminicola 23,264731,HostAssociated,9606,Homo sapiens
+Rhodobacter capsulatus SB 1003,272942,Multiple,0,NA
+Propionibacterium acnes SK137,553199,HostAssociated,9606,Homo sapiens
+Zunongwangia profunda SM-A87,655815,NA,0,NA
+Bacillus tusciae DSM 2912,562970,NA,0,NA
+Caulobacter segnis ATCC 21756,509190,Fresh water,0,NA
+Bacillus megaterium DSM 319,592022,Multiple,0,NA
+Lactobacillus crispatus ST1,748671,HostAssociated,9606,Homo sapiens
+Enterobacter cloacae subsp. cloacae ATCC 13047,716541,Multiple,9606,Homo sapiens
+Burkholderia sp. CCGE1002,2654982,HostAssociated,0,NA
+Methanocaldococcus infernus ME,573063,Specialized,0,NA
+Legionella pneumophila 2300/99 Alcoy,423212,HostAssociated,9606,Homo sapiens
+Leuconostoc kimchii IMSNU 11154,762051,NA,0,NA
+Moraxella catarrhalis RH4,1236608,HostAssociated,9606,Homo sapiens
+Planctomyces limnophilus DSM 3776,521674,Aquatic,0,NA
+Brachyspira murdochii DSM 12563,526224,HostAssociated,9823,Swine
+Cellulomonas flavigena DSM 20109,446466,Terrestrial,0,NA
+Thermincola potens JR,635013,Specialized,0,NA
+Thiomonas intermedia K12,75379,Aquatic,0,NA
+Tsukamurella paurometabola DSM 20162,521096,Terrestrial,9606,Homo sapiens
+Thermosphaera aggregans DSM 11486,633148,Hot spring Solfataric field,0,NA
+Thermobispora bispora DSM 43833,469371,Terrestrial,0,NA
+Arcobacter nitrofigilis DSM 7299,572480,Multiple,29706,Spartina alterniflora
+Segniliparus rotundus DSM 44985,640132,HostAssociated,9606,Homo sapiens
+Bifidobacterium longum subsp. longum JDM301,759350,HostAssociated,9606,Homo sapiens
+Xenorhabdus nematophila ATCC 19061,406817,HostAssociated,0,NA
+Bacillus thuringiensis BMB171,714359,HostAssociated,0,NA
+Staphylothermus hellenicus DSM 12710,591019,Specialized,0,NA
+Geobacillus sp. C56-T3,691437,NA,0,NA
+Methylotenera versatilis 301,666681,NA,0,NA
+Thermoanaerobacter mathranii subsp. mathranii str. A3,583358,Specialized,0,NA
+Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111,446468,Multiple,9606,Homo sapiens
+Meiothermus silvanus DSM 9946,526227,Specialized,0,NA
+Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1,754252,Multiple,0,NA
+Desulfurivibrio alkaliphilus AHT2,589865,Specialized,0,NA
+Starkeya novella DSM 506,639283,Soil,0,NA
+Arcanobacterium haemolyticum DSM 20595,644284,HostAssociated,9606,Homo sapiens
+Bacillus selenitireducens MLS10,439292,Multiple,0,NA
+Syntrophothermus lipocalidus DSM 12680,643648,Specialized,0,NA
+Truepera radiovictrix DSM 17093,649638,Fresh water Hot spring,0,NA
+Methanococcus voltae A3,456320,Aquatic,0,NA
+Waddlia chondrophila WSU 86-1044,716544,HostAssociated,9913,Cow
+Croceibacter atlanticus HTCC2559,216432,Aquatic,0,NA
+Mobiluncus curtisii ATCC 43063,548479,HostAssociated,9606,Homo sapiens
+Nostoc azollae 0708,551115,Multiple,84609,Azolla filiculoides
+Streptococcus pneumoniae TCH8431/19A,525381,HostAssociated,9606,Homo sapiens
+Methanohalobium evestigatum Z-7303,644295,Specialized,0,NA
+Helicobacter pylori B8,693745,HostAssociated,9606,Homo sapiens
+Pantoea vagans C9-1,712898,HostAssociated,3750,Malus x domestica
+Acinetobacter sp. DR1,436717,Soil,0,NA
+Halalkalicoccus jeotgali B3,795797,HostAssociated,0,Shrimp
+Erwinia billingiae Eb661,634500,NA,0,NA
+Ralstonia solanacearum CFBP2957,859656,NA,0,NA
+Ralstonia solanacearum PSI07,859657,NA,0,NA
+Hyphomicrobium denitrificans ATCC 51888,582899,Aquatic,0,NA
+Dehalogenimonas lykanthroporepellens BL-DC-9,552811,NA,0,NA
+Nitrosococcus watsonii C-113,105559,NA,0,NA
+Amycolatopsis mediterranei U32,749927,NA,0,NA
+Leuconostoc gasicomitatum LMG 18811,762550,NA,0,NA
+Herbaspirillum seropedicae SmR1,757424,HostAssociated,4530,Rice
+Clostridium ljungdahlii DSM 13528,748727,Terrestrial,9031,Chicken
+Corynebacterium pseudotuberculosis FRC41,765874,HostAssociated,9606,Homo sapiens
+Brachyspira pilosicoli 95/1000,759914,HostAssociated,9823,Sus scrofa
+Bacillus cereus biovar anthracis str. CI,637380,HostAssociated,9606,Homo sapiens
+Candidatus Nitrospira defluvii,330214,Fresh water Surface water,0,NA
+Olsenella uli DSM 7084,633147,HostAssociated,9606,Homo sapiens
+Spirochaeta smaragdinae DSM 11293,573413,Specialized,0,NA
+Desulfarculus baarsii DSM 2075,644282,Mud,0,NA
+gamma proteobacterium HdN1,83406,NA,0,NA
+Prevotella melaninogenica ATCC 25845,553174,HostAssociated,9606,Homo sapiens
+Acidilobus saccharovorans 345-15,666510,Fresh water Hot spring,0,NA
+Brevundimonas subvibrioides ATCC 15264,633149,Fresh water,0,NA
+Clostridium saccharolyticum WM1,610130,Multiple,0,NA
+Thermosediminibacter oceani DSM 16646,555079,Specialized,0,NA
+Acetohalobium arabaticum DSM 5501,574087,Specialized,0,NA
+Butyrivibrio proteoclasticus B316,515622,HostAssociated,0,NA
+Micromonospora aurantiaca ATCC 27029,644283,Multiple,0,NA
+Caldicellulosiruptor obsidiansis OB47,608506,Multiple,0,NA
+Clostridium cellulovorans 743B,573061,Soil,0,NA
+Gallionella capsiferriformans ES-2,395494,Aquatic,0,NA
+Methanothermobacter marburgensis str. Marburg,79929,Sludge,0,NA
+Thermoanaerobacterium thermosaccharolyticum DSM 571,580327,Specialized,0,NA
+Parvularcula bermudensis HTCC2503,314260,Aquatic,0,NA
+Mycoplasma hyorhinis HUB-1,872331,HostAssociated,0,NA
+Ignisphaera aggregans DSM 17230,583356,Aquatic,0,NA
+Maribacter sp. HTCC2170,313603,Aquatic,0,NA
+Bacillus subtilis subsp. spizizenii str. W23,655816,Terrestrial,0,NA
+Paenibacillus polymyxa E681,349520,Terrestrial,0,NA
+Spirochaeta thermophila DSM 6192,665571,Hot spring Marine,0,NA
+Streptococcus pneumoniae AP200,574093,HostAssociated,9606,Homo sapiens
+Candidatus Zinderia insecticola CARI,871271,HostAssociated,36666,Spittlebugs
+Streptococcus pneumoniae 670-6B,189423,Multiple,9606,Homo sapiens
+Candidatus Sulcia muelleri CARI,706194,Specialized,0,NA
+Dickeya dadantii 3937,198628,HostAssociated,0,NA
+Cyanothece sp. PCC 7822,497965,Aquatic,0,NA
+Sulfurimonas autotrophica DSM 16294,563040,Marine Sediment,0,NA
+Methanoplanus petrolearius DSM 11571,679926,Aquatic,0,NA
+Halomonas elongata DSM 2581,768066,Fresh water,0,NA
+Vulcanisaeta distributa DSM 14429,572478,Specialized,0,NA
+Thermoanaerobacter sp. X513,573062,Specialized,0,NA
+Burkholderia sp. CCGE1003,640512,HostAssociated,0,NA
+Ferrimonas balearica DSM 9799,550540,Aquatic,0,NA
+Arthrobacter arilaitensis Re117,861360,Dairy isolate,0,NA
+Bacillus amyloliquefaciens DSM 7,692420,Soil,0,NA
+Mycoplasma fermentans JER,637387,HostAssociated,9606,Homo sapiens
+Lactobacillus plantarum subsp. plantarum ST-III,889932,HostAssociated,9606,Homo sapiens
+Helicobacter pylori PeCan4,765963,HostAssociated,9606,Homo sapiens
+Helicobacter pylori SJM180,765962,HostAssociated,9606,Homo sapiens
+Clostridium sticklandii DSM 519,1511,Terrestrial,0,NA
+Bifidobacterium bifidum S17,883062,HostAssociated,9606,Homo sapiens
+Enterobacter cloacae SCF1,701347,Soil,0,NA
+Ketogulonicigenium vulgare Y25,880591,Terrestrial,0,NA
+Paenibacillus polymyxa SC2,886882,Rhizosphere,0,NA
+Stigmatella aurantiaca DW4/3-1,378806,Soil,0,NA
+Eubacterium limosum KIST612,53442,NA,0,NA
+Ilyobacter polytropus DSM 2926,572544,Aquatic,0,NA
+Bifidobacterium bifidum PRL2010,702459,HostAssociated,9606,Homo sapiens
+Bacillus atrophaeus 1942,720555,Soil,0,NA
+Achromobacter xylosoxidans A8,762376,HostAssociated,0,NA
+Rothia dentocariosa ATCC 17931,762948,HostAssociated,9606,Homo sapiens
+Gardnerella vaginalis ATCC 14019,525284,HostAssociated,9606,Homo sapiens
+Geobacillus sp. Y4.1MC1,581103,Multiple,0,NA
+Caldicellulosiruptor hydrothermalis 108,632292,Specialized,0,NA
+Halanaerobium hydrogeniformans,656519,Specialized,0,NA
+Leadbetterella byssophila DSM 17132,649349,NA,0,NA
+Bifidobacterium longum subsp. longum BBMN68,890402,HostAssociated,9606,Homo sapiens
+Caldicellulosiruptor owensensis OL,632518,Specialized,0,NA
+Methanothermus fervidus DSM 2088,523846,Specialized,0,NA
+Rhodococcus equi 103S,685727,Multiple,0,NA
+Rhodomicrobium vannielii ATCC 17100,648757,NA,0,NA
+Frankia sp. EuI1c,298654,Multiple,3193,Plants
+Burkholderia rhizoxinica HKI 454,882378,HostAssociated,58291,Rhizopus microsporus
+Caldicellulosiruptor kristjanssonii 177R1B,632335,Specialized,0,NA
+Caldicellulosiruptor kronotskyensis 2002,632348,Hot spring,0,NA
+Lactobacillus amylovorus GRL 1112,695560,Multiple,9823,Sus scrofa
+Lactobacillus delbrueckii subsp. bulgaricus ND02,767455,HostAssociated,9606,Homo sapiens
+Halogeometricum borinquense DSM 11551,469382,Specialized,0,NA
+Methylovorus sp. MP688,887061,Air Soil Wastewater,0,NA
+Paludibacter propionicigenes WB4,694427,Terrestrial,0,NA
+Riemerella anatipestifer DSM 15868,693978,HostAssociated,0,Anas platyrhynchos (duck) geese gucks turkeys and waterfowls distributed worldwide
+Calditerrivibrio nitroreducens DSM 19672,768670,HostAssociated,0,NA
+Marivirga tractuosa DSM 4126,643867,NA,0,NA
+Mycoplasma leachii PG50,880447,HostAssociated,9606,Bos taurus Homo sapiens
+Neisseria lactamica 020-06,489653,HostAssociated,9606,Homo sapiens
+Oceanithermus profundus DSM 14977,670487,Deep sea Hydrothermal vent Marine,0,NA
+Sulfuricurvum kujiense DSM 16994,709032,NA,0,NA
+Mycoplasma bovis PG45,289397,HostAssociated,9913,Cattle
+Candidatus Liberibacter solanacearum CLso-ZC1,658172,HostAssociated,121845,Diaphorina citri
+Pseudoalteromonas sp. SM9913,234831,Aquatic,0,NA
+Campylobacter jejuni subsp. jejuni ICDCCJ07001,757425,HostAssociated,9606,Homo sapiens
+Thermococcus barophilus MP,391623,Aquatic,0,NA
+Helicobacter felis ATCC 49179,936155,HostAssociated,9685,Felis catus
+Mycobacterium sp. Spyr1,278137,Terrestrial,0,NA
+Micromonospora sp. L5,648999,Soil,0,NA
+Asticcacaulis excentricus CB 48,573065,Aquatic,0,NA
+Cenarchaeum symbiosum A,414004,NA,0,NA
+Ruminococcus albus 7,697329,HostAssociated,0,NA
+Ethanoligenens harbinense YUAN-3,663278,Sludge,0,NA
+Bacillus cellulosilyticus DSM 2522,649639,Multiple,0,NA
+Intrasporangium calvum DSM 43043,710696,Air,0,NA
+Thermaerobacter marianensis DSM 12885,644966,Specialized,0,NA
+Rhodopseudomonas palustris DX-1,652103,Fresh water Soil,0,NA
+Desulfurispirillum indicum S5,653733,Fresh water Sediment,0,NA
+Pantoea sp. At-9b,592316,Multiple,0,NA
+Desulfovibrio aespoeensis Aspo-2,643562,Animal intestinal microflora Fresh water Mud Sea water Soil,0,NA
+Alicycliphilus denitrificans BC,596153,Aquatic,0,NA
+Candidatus Blochmannia vafer str. BVAF,859654,HostAssociated,0,NA
+Taylorella equigenitalis MCE9,937774,HostAssociated,9796,Equus caballus
+Geobacillus sp. Y412MC52,550542,Specialized,0,NA
+Thermovibrio ammonificans HB-1,648996,Deep sea Fresh water Hydrothermal vent Marine,0,NA
+Mesorhizobium ciceri biovar biserrulae WSM1271,765698,HostAssociated,0,Biserrula pelecinus L
+Haemophilus influenzae F3031,866630,HostAssociated,9606,Homo sapiens
+Mycoplasma fermentans M64,943945,HostAssociated,9606,Homo sapiens
+Haemophilus influenzae F3047,935897,HostAssociated,9606,Homo sapiens
+Pseudoxanthomonas suwonensis 11-1,743721,NA,0,NA
+Staphylococcus pseudintermedius HKU10-03,937773,HostAssociated,0,Canis lupus familiaris (dog) dogs foxes horses humans mink pigeons
+Variovorax paradoxus EPS,595537,Multiple,0,NA
+Bartonella clarridgeiae 73,696125,HostAssociated,9615,cats and dogs
+Bacteroides helcogenes P 36-108,693979,HostAssociated,9823,Sus scrofa
+Cellulophaga algicola DSM 14237,688270,Aquatic,0,NA
+Nitratifractor salsuginis DSM 16511,749222,Specialized,0,NA
+Isosphaera pallida ATCC 43644,575540,Specialized,0,NA
+Deinococcus maricopensis DSM 21211,709986,Soil,0,NA
+Anaerolinea thermophila UNI-1,926569,Fresh water,0,NA
+Desulfurococcus mucosus DSM 2162,765177,Fresh water Sulfur spring,0,NA
+Terriglobus saanensis SP1PR4,401053,Terrestrial,0,NA
+Thermoanaerobacter brockii subsp. finnii Ako-1,509193,Aquatic,0,NA
+Vibrio vulnificus MO6-24/O,914127,HostAssociated,9443,Homo sapiens primates
+Mycoplasma haemofelis str. Langford 1,941640,HostAssociated,9685,Felis catus (Cat)
+Desulfobulbus propionicus DSM 2032,577650,Aquatic,0,NA
+Geobacter sp. M18,443143,Terrestrial,0,NA
+Thermus scotoductus SA-01,743525,Specialized,0,NA
+Bacillus subtilis BSn5,936156,HostAssociated,78372,Amorphophallus konjac
+Bifidobacterium longum subsp. infantis 157F,565040,HostAssociated,9606,Homo sapiens
+Acidobacterium sp. MP5ACTX9,1198114,NA,0,NA
+Rahnella sp. Y9602,2703885,HostAssociated,0,Homo sapiens freshwater
+Bifidobacterium longum subsp. longum JCM 1217,565042,HostAssociated,9606,Homo sapiens
+Microbacterium testaceum StLB037,979556,HostAssociated,0,NA
+Burkholderia sp. CCGE1001,640510,HostAssociated,0,NA
+Acidovorax avenae subsp. avenae ATCC 19860,643561,HostAssociated,0,NA
+Weeksella virosa DSM 16922,865938,HostAssociated,9606,Homo sapiens
+Arthrobacter phenanthrenivorans Sphe3,930171,Terrestrial,0,NA
+Vulcanisaeta moutnovskia 768-28,985053,NA,0,NA
+Spirochaeta sp. Buddy,158189,Aquatic,0,NA
+Mycoplasma suis KI3806,708248,NA,0,NA
+Mycoplasma suis str. Illinois,768700,HostAssociated,9823,Sus scrofa
+Odoribacter splanchnicus DSM 20712,709991,HostAssociated,9606,Homo sapiens
+Deinococcus proteolyticus MRP,693977,HostAssociated,9844,Lama glama
+Bacteroides salanitronis DSM 18170,667015,HostAssociated,9031,caecum of healthy chicken
+Cellulophaga lytica DSM 7489,867900,Mud,0,NA
+Syntrophobotulus glycolicus DSM 8271,645991,Aquatic,0,NA
+Planctomyces brasiliensis DSM 5305,756272,Fresh water Marine,0,NA
+Pedobacter saltans DSM 12145,762903,Terrestrial,0,NA
+Acidiphilium multivorum AIU301,926570,Fresh water,0,NA
+Agrobacterium sp. H13-3,1183401,HostAssociated,0,NA
+Desulfurobacterium thermolithotrophum DSM 11699,868864,Aquatic,0,NA
+Lactobacillus acidophilus 30SC,1604,HostAssociated,9823,Sus Scrofa
+Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069,990317,HostAssociated,9606,Homo sapiens
+Methanobacterium sp. AL-21,877455,HostAssociated,0,NA
+Chlamydophila psittaci 6BC,331636,HostAssociated,8782,Homo sapiens birds
+Nitrosomonas sp. AL212,153948,Multiple,0,NA
+Yersinia enterocolitica subsp. palearctica 105.5R(r),994476,HostAssociated,9606,Homo sapiens
+Polymorphum gilvum SL003B-26A1,991905,NA,0,NA
+Clostridium lentocellum DSM 5427,642492,NA,0,NA
+Marinomonas mediterranea MMB-1,717774,Marine,0,NA
+Sphingobacterium sp. 21,743722,NA,0,NA
+Aerococcus urinae ACS-120-V-Col10a,866775,HostAssociated,9606,Homo sapiens
+Streptococcus oralis Uo5,927666,HostAssociated,9606,Homo sapiens
+Prevotella denticola F0289,767031,HostAssociated,9606,Homo sapiens
+Pseudonocardia dioxanivorans CB1190,675635,Fresh water Sludge,0,NA
+Thermoproteus uzoniensis 768-20,999630,Fresh water,0,NA
+Hippea maritima DSM 10411,760142,Specialized,0,NA
+Archaeoglobus veneficus SNP6,693661,Aquatic,0,NA
+Fluviicola taffensis DSM 16823,755732,Aquatic,0,NA
+Burkholderia gladioli BSR3,999541,NA,0,NA
+Pseudomonas brassicacearum subsp. brassicacearum NFM421,994484,Root nodule,0,NA
+Candidatus Pelagibacter sp. IMCC9063,1002672,Marine,0,NA
+Treponema succinifaciens DSM 2489,869209,HostAssociated,0,NA
+Marinithermus hydrothermalis DSM 14884,869210,Aquatic,0,NA
+Desulfobacca acetoxidans DSM 11109,880072,Fresh water Sludge,0,NA
+Coriobacterium glomerans PW2,700015,HostAssociated,37000,Pyrrhocoris apterus
+Carnobacterium sp. 17-4,208596,Marine Sea water,0,NA
+Mycoplasma mycoides subsp. capri LC str. 95010,862259,HostAssociated,0,NA
+Chlamydophila pecorum E58,331635,HostAssociated,0,and swine. cattle koalas (marsupials) sheep and goats (ruminants)
+Verrucosispora maris AB-18-032,263358,Sediment,0,NA
+Pseudomonas mendocina NK-01,1001585,HostAssociated,9606,Homo sapiens
+Methanosaeta concilii GP6,990316,Fresh water,0,NA
+Clostridium botulinum BKT015925,929506,Fresh water Soil,0,NA
+Lactobacillus buchneri NRRL B-30929,511437,Multiple,9606,Homo sapiens
+Alicycliphilus denitrificans K601,596154,NA,0,NA
+Aeromonas veronii B565,998088,Sediment,9606,Homo sapiens
+Streptococcus suis ST3,1007064,HostAssociated,9823,Homo sapiens Sus scrofa
+Metallosphaera cuprina Ar-4,1006006,Fresh water Hot spring,0,NA
+Spirochaeta coccoides DSM 17374,760011,Specialized,223394,Neotermes castaneus
+Selenomonas sputigena ATCC 35185,546271,HostAssociated,9606,Homo sapiens
+Pusillimonas sp. T7-7,1007105,NA,0,NA
+Gallibacterium anatis UMN179,1005058,NA,9031,Gallus gallus
+Pyrococcus sp. NA2,342949,Hydrothermal vent Marine,0,NA
+Krokinobacter sp. 4H-3-7-5,983548,Sea water Sediment,0,NA
+Glaciecola sp. 4H-3-7+YE-5,983545,Sea water,0,NA
+Thermodesulfobium narugense DSM 14796,747365,Hot spring,0,NA
+Treponema brennaborense DSM 12168,906968,HostAssociated,9913,Bovine
+Porphyromonas asaccharolytica DSM 20707,879243,HostAssociated,9606,Homo sapiens
+Haliscomenobacter hydrossis DSM 1100,760192,Aquatic,0,NA
+Cellulomonas fimi ATCC 484,590998,Terrestrial,0,NA
+Melissococcus plutonius ATCC 35311,940190,NA,0,NA
+Acidianus hospitalis W1,933801,Fresh water,0,NA
+Tepidanaerobacter sp. Re1,1209989,Sludge,0,NA
+Mahella australiensis 50-1 BON,697281,Oil fields,0,NA
+Alteromonas sp. SN2,715451,Marine,0,NA
+Thermoanaerobacterium xylanolyticum LX-11,858215,Fresh water Sediment,0,NA
+Pseudomonas fulva 12-X,743720,HostAssociated,0,homo sapiens soil
+Streptococcus parauberis KCTC 11537,936154,NA,0,NA
+Marinomonas posidonica IVIA-Po-181,491952,Marine,0,(seagrass) Posidonia oceanica
+Amycolicicoccus subflavus DQS3-9A1,443218,Soil,0,NA
+Methanotorris igneus Kol 5,880724,Marine Submarine,0,NA
+Delftia sp. Cs1-4,742013,Fresh water Oil fields Sludge Soil,0,NA
+Desulfotomaculum carboxydivorans CO-1-SRB,868595,Animal intestinal microflora Fresh water Mud Sea water Soil,0,NA
+Serratia sp. AS12,768490,HostAssociated,0,Rapeseed plant
+Serratia sp. AS9,768492,HostAssociated,0,Rapeseed plant
+Porphyromonas gingivalis TDC60,1030843,HostAssociated,9606,Homo sapiens
+Methylomonas methanica MC09,857087,Marine Soil,0,NA
+Desulfotomaculum kuznetsovii DSM 6115,760568,Animal intestinal microflora Fresh water Mud Sea water Soil,0,NA
+Methanobacterium sp. SWAN-1,868131,NA,0,NA
+Mycobacterium sp. JDM601,875328,HostAssociated,9606,Homo sapiens
+Treponema azotonutricium ZAS-9,545695,HostAssociated,0,Termite
+Treponema primitia ZAS-2,545694,HostAssociated,0,Termite
+Novosphingobium sp. PP1Y,702113,HostAssociated,0,NA
+Thioalkalimicrobium cyclicum ALM1,717773,NA,0,NA
+Isoptericola variabilis 225,743718,HostAssociated,13139,Australian termite Mastotermes darwiniensis.
+Desulfotomaculum ruminis DSM 2154,696281,Multiple,0,NA
+Sinorhizobium meliloti AK83,693982,Multiple,0,NA
+Sphingobium chlorophenolicum L-1,690566,Soil,0,NA
+Lactobacillus kefiranofaciens ZW3,190905,HostAssociated,0,NA
+Streptococcus pasteurianus ATCC 43144,981540,NA,9606,Homo sapiens
+Erysipelothrix rhusiopathiae str. Fujisawa,650150,HostAssociated,9606,Homo sapiens
+Methanothermococcus okinawensis IH1,647113,Deep sea Fresh water Hydrothermal vent,0,NA
+Vibrio anguillarum 775,882102,HostAssociated,8019,Oncorhynchus kisutch (Coho salmon)
+Bacillus coagulans 2-6,941639,Soil,0,NA
+Microlunatus phosphovorus NM-1,1032480,Sludge,0,NA
+Lacinutrix sp. 5H-3-7-4,983544,NA,0,NA
+Frankia symbiont of Datisca glomerata,2716812,HostAssociated,34297,Datisca glomerata
+Halopiger xanaduensis SH-6,797210,Salinewater Soil,0,NA
+Geobacillus thermoglucosidasius C56-YS93,634956,Multiple,0,NA
+Buchnera aphidicola (Cinara tujafilina),261317,HostAssociated,34664,Acyrthosiphon kondoi
+Enterobacter aerogenes KCTC 2190,1028307,HostAssociated,9606,Homo sapiens
+Helicobacter bizzozeronii CIII-1,1002804,NA,9606,Homo sapiens
+Cellvibrio gilvus ATCC 13127,593907,Terrestrial,9913,bos taurus
+Flexistipes sinusarabici DSM 4947,717231,Marine,0,NA
+Corynebacterium resistens DSM 45100,662755,HostAssociated,9606,Homo sapiens
+Mesorhizobium opportunistum WSM2075,536019,HostAssociated,0,Biserrula pelecinus L
+Methanosalsum zhilinae DSM 4017,679901,Specialized,0,NA
+Ramlibacter tataouinensis TTB310,365046,Terrestrial,0,NA
+Streptococcus parasanguinis ATCC 15912,760570,HostAssociated,9606,Homo sapiens
+Pyrococcus yayanosii CH1,529709,Hydrothermal vent Marine,0,NA
+Thermodesulfatator indicus DSM 15286,667014,Aquatic,0,NA
+Thermodesulfobacterium sp. OPB45,795359,Fresh water,0,NA
+Corynebacterium ulcerans BR-AD22,945712,NA,0,NA
+Clostridium acetobutylicum DSM 1731,991791,Soil,0,NA
+Paenibacillus mucilaginosus KNP414,1036673,NA,0,NA
+Runella slithyformis DSM 19594,761193,Aquatic,0,NA
+Francisella sp. TX077308,573569,HostAssociated,9606,Homo sapiens
+Lactobacillus reuteri SD2112,491077,Multiple,9606,Homo sapiens
+Parachlamydia acanthamoebae UV7,765952,NA,0,NA
+Thermotoga thermarum DSM 5069,688269,Specialized,0,NA
+Zymomonas mobilis subsp. pomaceae ATCC 29192,579138,NA,0,NA
+Simkania negevensis Z,331113,HostAssociated,9606,Homo sapiens
+Myxococcus fulvus HW-1,35,Aquatic,0,NA
+Treponema paraluiscuniculi Cuniculi A,545776,HostAssociated,9606,Homo sapiens
+Hyphomicrobium sp. MC1,717785,Aquatic Soil Wastewater,0,NA
+Candidatus Midichloria mitochondrii IricVA,696127,HostAssociated,34613,Ixodes ricinus
+Cupriavidus necator N-1,1042878,Fresh water Soil,0,NA
+Mycoplasma bovis Hubei-1,956483,HostAssociated,9913,Cattle
+Roseobacter litoralis Och 149,391595,Aquatic,0,NA
+Nitrosomonas sp. Is79A3,261292,Fresh water,0,NA
+Spirochaeta caldaria DSM 7334,744872,Fresh water Hot spring,0,NA
+Pseudomonas putida S16,1042876,Soil Wastewater,0,NA
+Leuconostoc sp. C2,979982,NA,0,NA
+Candidatus Moranella endobia PCIT,903503,NA,170843,Planococcus citri
+Candidatus Tremblaya princeps PCIT,891398,HostAssociated,0,mealybug Planococcus citri (Risso).
+Clostridium sp. SY8519,1042156,NA,9606,Homo sapiens
+Eggerthella sp. YY7918,502558,NA,9606,Homo sapiens
+Pseudomonas stutzeri ATCC 17588 = LMG 11199,316,HostAssociated,0,NA
+Chlamydia trachomatis L2c,887712,HostAssociated,9606,Homo sapiens
+Weissella koreensis KACC 15510,1045854,NA,0,NA
+Sulfobacillus acidophilus TPY,1051632,NA,0,NA
+Mycobacterium africanum GM041182,572418,HostAssociated,9606,Homo sapiens
+Streptococcus salivarius CCHSS3,1048332,HostAssociated,9606,Homo sapiens
+Salmonella bongori NCTC 12419,218493,HostAssociated,0,NA
+Zobellia galactanivorans,63186,NA,0,NA
+Capnocytophaga canimorsus Cc5,860228,HostAssociated,9606,Homo sapiens
+Methanococcus maripaludis XI,1053692,NA,0,NA
+Mycobacterium canettii CIPT 140010059,1048245,HostAssociated,9606,Homo sapiens
+Acidithiobacillus caldus SM-1,990288,NA,0,NA
+Collimonas fungivorans Ter331,1005048,Soil,0,NA
+Brucella pinnipedialis B2/94,520461,NA,0,NA
+Corynebacterium variabile DSM 44702,858619,Normal microflora Soil,0,NA
+Thermococcus sp. 4557,1042877,NA,0,NA
+Rickettsia heilongjiangensis 054,1032845,NA,1055122,Dysmicoccus sylvarum
+Streptococcus pseudopneumoniae IS7493,1054460,HostAssociated,9606,Homo sapiens
+Borrelia bissettii DN127,521010,HostAssociated,0,NA
+Candidatus Arthromitus sp. SFB-mouse-Japan,1029718,NA,10090,Mus musculus
+Cyclobacterium marinum DSM 745,880070,HostAssociated,183653,Poronotus triacanthus
+Cenarchaeum symbiosum B,414005,NA,0,NA
+uncultured Termite group 1 bacterium phylotype Rs-D17,471821,HostAssociated,0,NA
+Candidatus Cloacamonas acidaminovorans,456827,NA,0,NA
+Ralstonia solanacearum MolK2,564065,NA,0,NA
+Neisseria meningitidis 8013,604162,NA,0,NA
+Clostridium difficile BI9,699032,NA,0,NA
+Sulfolobus islandicus REY15A,930945,NA,0,NA
+Lactobacillus helveticus H10,767462,NA,0,NA
+Vibrio tapetis,52443,NA,0,NA
+Roseburia intestinalis XB6B4,718255,NA,0,NA
+Bifidobacterium animalis subsp. lactis BLC1,1075106,NA,0,NA
+Bacillus megaterium DSM319,0,NA,0,NA
+Rhizobium sp. NGR234,0,NA,0,NA
+Ketogulonigenium vulgarum WSH-001,759362,NA,0,NA
+Bifidobacterium breve ACS-071-V-Sch8b,866777,NA,0,NA
+Mycobacterium tuberculosis CCDC5180,443150,NA,0,NA
+Bacteroides fragilis 638R,862962,NA,0,NA
+Chlamydophila psittaci 02DC15,1112254,NA,0,NA
+Bifidobacterium animalis subsp. lactis V9,573236,NA,0,NA
+Yersinia pestis biovar Medievalis str. Harbin 35,547048,NA,0,NA
+Borrelia burgdorferi JD1,521008,NA,0,NA
+Klebsiella pneumoniae KCTC 2242,1049565,NA,0,NA
+Spirochaeta thermophila DSM 6578,869211,NA,0,NA
+Herpetosiphon aurantiacus ATCC 23779,0,NA,0,NA
+Neisseria meningitidis NZ-05/33,935589,NA,0,NA
+Listeria monocytogenes str. 4b F2365,0,NA,0,NA
+Helicobacter pylori 35A,585535,NA,0,NA
+Haloarcula hispanica ATCC 33960,634497,NA,0,NA
+Corynebacterium pseudotuberculosis PAT10,935298,NA,0,NA
+Rhodothermus marinus SG0.5JP17-172,762570,Hot spring Marine,0,NA
+Pseudomonas stutzeri DSM 4166,996285,NA,0,NA
+Yersinia pestis D106004,637382,NA,0,NA
+Pantoea stewartii subsp. stewartii DC283,660596,NA,0,NA
+Haemophilus influenzae 10810,862964,NA,0,NA
+Methylovorus sp. SIP3-4,0,NA,0,NA
+Sinorhizobium meliloti BL225C,698936,NA,0,NA
+Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74,909946,NA,0,NA
+Listeria monocytogenes Clip80459,0,NA,0,NA
+Mycoplasma putrefaciens KS1 Other,743965,HostAssociated,9925,Goat
+Lactobacillus johnsonii DPC 6026,909954,NA,0,NA
+Neisseria gonorrhoeae TCDC-NG08107,940296,NA,0,NA
+Streptococcus salivarius JIM8777,347253,NA,0,NA
+Klebsiella pneumoniae NTUH-K2044,0,NA,0,NA
+Buchnera aphidicola str. Ua (Uroleucon ambrosiae),1005057,NA,0,NA
+Chlamydia trachomatis G/9301,718219,NA,0,NA
+Mycobacterium tuberculosis CCDC5079,443149,NA,0,NA
+Bacteriovorax marinus SJ,862908,NA,0,NA
+Streptococcus thermophilus JIM 8232,1051074,NA,0,NA
+Acetobacter pasteurianus IFO 3283-07,634454,NA,0,NA
+Faecalibacterium prausnitzii L2-6,718252,NA,0,NA
+Acetobacter pasteurianus IFO 3283-12,634459,NA,0,NA
+Mycoplasma hyorhinis MCLD,936139,NA,0,NA
+Eubacterium rectale DSM 17629,657318,NA,0,NA
+Clostridium perfringens SM101,289380,HostAssociated,9606,Homo sapiens
+Legionella pneumophila 130b,866628,NA,0,NA
+Escherichia coli 042,216592,NA,0,NA
+Escherichia coli W,566546,NA,0,NA
+Brachyspira intermedia PWS/A,1045858,NA,0,NA
+Helicobacter pylori v225d,637913,NA,0,NA
+Megasphaera elsdenii DSM 20460,1064535,NA,0,NA
+Neisseria meningitidis M04-240196,935593,NA,0,NA
+Neisseria meningitidis M01-240355,935588,NA,0,NA
+Shewanella baltica OS678,693973,NA,0,NA
+Streptococcus pneumoniae SPN032672,869311,NA,0,NA
+Amycolatopsis mediterranei S699,713604,NA,0,NA
+Leuconostoc kimchii IMSNU11154,0,NA,0,NA
+Francisella cf. novicida Fx1,984129,NA,0,NA
+Neisseria meningitidis alpha710,630588,NA,0,NA
+Clostridium botulinum H04402 065,941968,NA,0,NA
+Arcobacter butzleri ED-1,944546,NA,0,NA
+Enterobacter asburiae LF7a,885040,NA,0,NA
+Escherichia coli NA114,1033813,NA,0,NA
+Francisella tularensis subsp. tularensis NE061598,510831,NA,0,NA
+Yersinia pestis D182038,637385,NA,0,NA
+Enterococcus sp. 7L76,1351,NA,0,NA
+Brucella melitensis M5-90,703352,NA,0,NA
+Desulfovibrio desulfuricans subsp. desulfuricans str. G20,0,NA,0,NA
+Staphylococcus aureus subsp. aureus ST398,523796,NA,0,NA
+Helicobacter pylori 2017,985081,NA,0,NA
+Bifidobacterium longum subsp. longum KACC 91563,1035817,NA,0,NA
+Thiomonas sp. 3As,426114,NA,0,NA
+Vibrio cholerae Mex1,663913,NA,0,NA
+Paenibacillus polymyxa M1,1052684,NA,0,NA
+Bacillus amyloliquefaciens XH7,1034836,NA,0,NA
+Ruminococcus torques L2-14,657313,NA,0,NA
+Acinetobacter baumannii TCDC-AB0715,980514,NA,0,NA
+Mycoplasma gallisepticum str. F,708616,NA,0,NA
+Caldicellulosiruptor lactoaceticus 6A,632516,Hot spring,0,NA
+Corynebacterium pseudotuberculosis I19,889513,NA,0,NA
+Alistipes shahii WAL 8301,717959,NA,0,NA
+Escherichia coli ETEC H10407,316401,NA,0,NA
+Streptococcus pneumoniae OXC141,869215,NA,0,NA
+Chlamydia trachomatis G/9768,707185,NA,0,NA
+Lactobacillus sanfranciscensis TMW 1.1304,714313,NA,0,NA
+Helicobacter pylori F16,866344,NA,0,NA
+Listeria monocytogenes L99,563174,NA,0,NA
+Propionibacterium acnes 6609,1031709,NA,0,NA
+Haemophilus parainfluenzae T3T1,862965,HostAssociated,0,NA
+Synergistetes bacterium SGP1,651822,NA,0,NA
+butyrate-producing bacterium SS3/4,245014,NA,0,NA
+Mycoplasma mycoides subsp. mycoides SC str. Gladysdale,865867,NA,0,NA
+Clostridium difficile 2007855,699033,NA,0,NA
+Neisseria meningitidis WUE 2594,942513,NA,0,NA
+Rhodobacter capsulatus SB1003,0,NA,0,NA
+Coprococcus sp. ART55/1,751585,NA,0,NA
+Eubacterium cylindroides T2-87,717960,NA,0,NA
+Eubacterium siraeum V10Sc8a,717961,NA,0,NA
+Clostridium cf. saccharolyticum K10,717608,NA,0,NA
+Staphylococcus lugdunensis N920143,1034809,NA,0,NA
+Mycoplasma mycoides subsp. capri str. GM12,436113,NA,0,NA
+Corynebacterium pseudotuberculosis C231,681645,NA,0,NA
+Streptococcus thermophilus ND03,767463,NA,0,NA
+butyrate-producing bacterium SSC/2,649756,NA,0,NA
+Halanaerobium praevalens DSM 2228,572479,NA,0,NA
+Aggregatibacter phage S1249,683735,NA,0,NA
+Eubacterium rectale M104/1,657317,NA,0,NA
+Sulfolobus islandicus HVE10/4,930943,NA,0,NA
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,588858,NA,0,NA
+Streptomyces violaceusniger Tu 4113,653045,Soil Terrestrial,0,NA
+Streptococcus pneumoniae INV104,869269,NA,0,NA
+Chlamydia trachomatis E/150,707184,NA,0,NA
+Buchnera aphidicola str. TLW03 (Acyrthosiphon pisum),713602,NA,0,NA
+Helicobacter pylori Puno120,1055528,NA,0,NA
+Marinobacter adhaerens HP15,225937,NA,0,NA
+Helicobacter pylori India7,907238,NA,0,NA
+Acidithiobacillus ferrivorans SS3,743299,NA,0,NA
+Escherichia coli IHE3034,714962,NA,0,NA
+Lactococcus lactis subsp. lactis CV56,929102,NA,0,NA
+Roseburia hominis A2-183,585394,NA,0,NA
+Escherichia coli UMNK88,696406,NA,0,NA
+Oligotropha carboxidovorans OM4,1031710,NA,0,NA
+Sphingobium sp. SYK-6,627192,NA,0,NA
+Corynebacterium ulcerans 809,945711,NA,0,NA
+Arcobacter sp. L,944547,NA,0,NA
+Shewanella putrefaciens 200,399804,NA,0,NA
+Mycoplasma haemofelis Ohio2,859194,NA,0,NA
+Acinetobacter calcoaceticus PHEA-2,871585,NA,0,NA
+Helicobacter pylori SouthAfrica7,907239,NA,0,NA
+Campylobacter jejuni subsp. jejuni S3,718271,NA,0,NA
+Listeria monocytogenes M7,1030009,NA,0,NA
+halophilic archaeon DL31 Other,756883,NA,0,NA
+Vibrio cholerae LMA3894-4,935297,NA,0,NA
+Staphylococcus aureus subsp. aureus JKD6159,869816,NA,0,NA
+Bacillus amyloliquefaciens LL3,1001582,NA,0,NA
+Buchnera aphidicola str. Ak (Acyrthosiphon kondoi),1005090,NA,0,NA
+Yersinia pestis A1122,1035377,NA,0,NA
+Buchnera aphidicola str. JF99 (Acyrthosiphon pisum),713601,NA,0,NA
+Helicobacter pylori Sat464,794851,NA,0,NA
+Propionibacterium acnes 266,909952,NA,0,NA
+Anaerocellum thermophilum DSM 6725,0,NA,0,NA
+Serratia sp. AS13,768493,NA,0,NA
+Thermincola sp. JR,0,NA,0,NA
+Riemerella anatipestifer RA-GD,992406,NA,0,NA
+Acinetobacter baumannii 1656-2,696749,NA,0,NA
+Helicobacter pylori F57,866346,NA,0,NA
+Edwardsiella tarda FL6-60,718251,NA,0,NA
+Mycoplasma pneumoniae FH,722438,NA,0,NA
+Clostridium acetobutylicum EA 2018,863638,NA,0,NA
+Streptococcus suis JS14,945704,NA,0,NA
+Chlamydia trachomatis D-LC,759364,NA,0,NA
+Haemophilus influenzae R2846,262727,NA,0,NA
+Lactobacillus delbrueckii subsp. bulgaricus 2038,353496,NA,0,NA
+Bifidobacterium longum subsp. longum F8,722911,NA,0,NA
+Filifactor alocis ATCC 35896,546269,NA,0,NA
+Helicobacter pylori 52,684950,NA,0,NA
+Vibrio furnissii NCTC 11218,903510,NA,0,NA
+Streptomyces bingchenggensis BCW-1,749414,NA,0,NA
+Mycobacterium tuberculosis KZN 4207,478433,NA,0,NA
+Chlamydophila pneumoniae LPCoLN,406984,NA,0,NA
+Acetobacter pasteurianus IFO 3283-03,634453,NA,0,NA
+Staphylococcus aureus subsp. aureus TW20,663951,NA,0,NA
+Streptococcus dysgalactiae subsp. equisimilis ATCC 12394,663954,NA,0,NA
+Neisseria meningitidis G2136,935599,NA,0,NA
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,216597,NA,0,NA
+Coprococcus catus GD/7,717962,NA,0,NA
+Vibrio fluvialis Ind1,563774,NA,0,NA
+Chlamydophila psittaci 08DC60,1112267,NA,0,NA
+Bacillus subtilis subsp. natto BEST195,645657,NA,0,NA
+Staphylococcus aureus 04-02981,703339,NA,0,NA
+Helicobacter pylori 2018,985080,NA,0,NA
+Salmonella enterica subsp. enterica serovar Typhimurium str. T000240,718274,NA,0,NA
+Helicobacter pylori SNT49,1055530,NA,0,NA
+Streptococcus pneumoniae SPN034156,869303,NA,0,NA
+Vibrio cholerae Ind5,663914,NA,0,NA
+Helicobacter pylori F30,866345,NA,0,NA
+Escherichia coli BL21(DE3),469008,NA,0,NA
+Streptococcus suis GZ1,423211,NA,0,NA
+Staphylococcus aureus subsp. aureus ED133,685039,NA,0,NA
+Shewanella baltica BA175,693974,NA,0,NA
+Clostridium thermocellum DSM 1313,637887,NA,0,NA
+Lactobacillus fermentum CECT 5716,712938,NA,0,NA
+Escherichia coli ABU 83972,655817,NA,0,NA
+Escherichia coli O157:H7 EDL933,0,NA,0,NA
+Streptococcus salivarius 57.I,1046629,NA,0,NA
+Sinorhizobium meliloti SM11,707241,NA,0,NA
+Lactococcus garvieae ATCC 49156,420889,NA,0,NA
+Treponema pallidum subsp. pallidum str. Chicago,666714,NA,0,NA
+Human papillomavirus - cand62,334210,NA,0,NA
+Helicobacter pylori Puno135,1055529,NA,0,NA
+Comamonas sp. CNB-1,0,NA,0,NA
+Clostridium difficile M68,699037,NA,0,NA
+Helicobacter pylori 908,869727,NA,0,NA
+Lactobacillus amylovorus GRL1118,695562,NA,0,NA
+Haloquadratum walsbyi C23,768065,NA,0,NA
+Streptococcus pneumoniae SPN034183,869304,NA,0,NA
+Brucella melitensis M28,941967,NA,0,NA
+Escherichia coli str. K-12 substr. W3110,316407,NA,0,NA
+Haemophilus influenzae R2866,262728,NA,0,NA
+Staphylococcus aureus subsp. aureus ECT-R 2,889933,NA,0,NA
+Erwinia pyrifoliae DSM 12163,644651,NA,0,NA
+Candidatus Methanoregula boonei 6A8,0,NA,0,NA
+Bifidobacterium animalis subsp. lactis CNCM I-2494,1042403,NA,0,NA
+Borrelia burgdorferi N40,521007,NA,0,NA
+Shigella flexneri 2002017,591020,NA,0,NA
+Staphylococcus pseudintermedius ED99,984892,NA,0,NA
+Geobacter sulfurreducens KN400,663917,NA,0,NA
+Vibrio cholerae Ind4,663958,NA,0,NA
+Helicobacter pylori 51,290847,NA,0,NA
+Roseburia intestinalis M50/1,657315,NA,0,NA
+Rickettsia prowazekii Rp22,449216,NA,0,NA
+Francisella cf. novicida 3523,622488,NA,0,NA
+Campylobacter jejuni subsp. jejuni IA3902,567106,NA,0,NA
+Streptococcus pneumoniae SPN994039,869307,NA,0,NA
+Mycoplasma hyopneumoniae 168,907287,NA,0,NA
+Pseudomonas putida BIRD-1,931281,NA,0,NA
+Streptococcus pneumoniae INV200,869216,NA,0,NA
+Staphylococcus aureus subsp. aureus str. JKD6008,546342,NA,0,NA
+Streptococcus pneumoniae SPN994038,869306,NA,0,NA
+Thioalkalivibrio sp. HL-EbGR7,0,NA,0,NA
+Pantoea ananatis AJ13355,932677,NA,0,NA
+Escherichia coli O83:H1 str. NRG 857C,685038,NA,0,NA
+Chlamydophila psittaci RD1,929557,NA,0,NA
+Staphylococcus aureus subsp. aureus LGA251,985006,NA,0,NA
+Acetobacter pasteurianus IFO 3283-01-42C,634458,NA,0,NA
+Streptococcus gallolyticus subsp. gallolyticus ATCC 43143,981539,NA,0,NA
+Xanthomonas campestris pv. raphani 756C,990315,NA,0,NA
+Corynebacterium pseudotuberculosis 1002,679896,NA,0,NA
+Muricauda ruestringensis DSM 13258,886377,NA,0,NA
+Mycobacterium tuberculosis CTRI-2,707235,NA,0,NA
+Actinobacillus pleuropneumoniae L20,0,NA,0,NA
+Bacillus thuringiensis serovar finitimus YBT-020,930170,NA,0,NA
+Xylella fastidiosa subsp. fastidiosa GB514,788929,NA,0,NA
+Bacillus amyloliquefaciens TA208,999891,NA,0,NA
+Chlamydophila psittaci 01DC11,1112252,NA,0,NA
+Thermoanaerobacter wiegelii Rt8.B1,697303,Fresh water Hot spring,0,NA
+Enterobacter cloacae subsp. cloacae NCTC 9394,158836,NA,0,NA
+Gardnerella vaginalis HMP9231,1009464,NA,0,NA
+Vibrio cholerae Ban5,663915,NA,0,NA
+Staphylococcus aureus subsp. aureus T0131,1006543,NA,0,NA
+Ralstonia solanacearum Po82,1031711,NA,0,NA
+Ruminococcus bromii L2-63,657321,NA,0,NA
+Escherichia coli SE15,431946,NA,0,NA
+Helicobacter pylori Lithuania75,907237,NA,0,NA
+Mycoplasma fermentans PG18,496833,NA,0,NA
+Helicobacter pylori 83,585538,NA,0,NA
+Arthrospira platensis NIES-39,696747,NA,0,NA
+Buchnera aphidicola str. JF98 (Acyrthosiphon pisum),713600,NA,0,NA
+Lactobacillus salivarius CECT 5713,712961,NA,0,NA
+Bordetella pertussis CS,1017264,NA,0,NA
+Neisseria meningitidis M01-240149,935591,NA,0,NA
+Salmonella enterica subsp. enterica serovar Typhimurium str. D23580,568708,NA,0,NA
+Streptomyces sp. SirexAA-E,862751,Soil Terrestrial,0,NA
+Bifidobacterium breve UCC2003,326426,NA,0,NA
+Lactobacillus casei BD-II,1597,NA,0,NA
+Helicobacter pylori F32,102608,NA,0,NA
+Eubacterium siraeum 70/3,657319,NA,0,NA
+Ruminococcus sp. SR1/5,657323,NA,0,NA
+Enterococcus faecalis OG1RF,474186,NA,0,NA
+Acetobacter pasteurianus IFO 3283-26,634456,NA,0,NA
+Escherichia coli DH1,536056,NA,0,NA
+Escherichia coli UMNF18,1050617,NA,0,NA
+Campylobacter jejuni subsp. jejuni M1,645464,NA,0,NA
+Providencia alcalifaciens Ban1,663916,NA,0,NA
+Clostridium difficile BI1,699034,NA,0,NA
+Mycoplasma leachii 99/014/6,866629,NA,0,NA
+Escherichia coli KO11FL,595495,NA,0,NA
+Enterobacteria phage CUS-3,539221,NA,0,NA
+Chlamydia phage CPAR39,2932877,NA,0,NA
+Thermus thermophilus SG0.5JP17-16,762633,NA,0,NA
+Bifidobacterium animalis subsp. lactis BB-12,552531,NA,0,NA
+Lactococcus lactis subsp. cremoris NZ9000,746361,NA,0,NA
+Helicobacter pylori Cuz20,765964,NA,0,NA
+Mycoplasma gallisepticum str. R(high),710128,NA,0,NA
+Megamonas hypermegale ART12/1,657316,NA,0,NA
+Chlamydia trachomatis G/11222,707186,NA,0,NA
+Alteromonas macleodii 'Deep ecotype',0,NA,0,NA
+Ruminococcus sp. 18P13,213810,NA,0,NA
+Bacillus thuringiensis serovar chinensis CT-43,541229,NA,0,NA
+Lactococcus garvieae Lg2,420890,NA,0,NA
+butyrate-producing bacterium SM4/1,245012,NA,0,NA
+Chlamydophila psittaci C19/98,1112250,NA,0,NA
+Clostridium botulinum F str. 230613,758678,NA,0,NA
+Chlamydia trachomatis E/11023,707183,NA,0,NA
+Chlamydia trachomatis Sweden2,634464,NA,0,NA
+Enterococcus faecalis 62,936153,NA,0,NA
+alpha proteobacterium IMCC1322,0,NA,0,NA
+Ruminococcus obeum A2-162,657314,NA,0,NA
+Uukuniemi virus,11591,NA,0,NA
+Zymomonas mobilis subsp. mobilis ATCC 10988,555217,NA,0,NA
+Methylotenera sp. 301,0,NA,0,NA
+Faecalibacterium prausnitzii SL3/3,657322,NA,0,NA
+Acetobacter pasteurianus IFO 3283-32,634457,NA,0,NA
+Human papillomavirus type 148,942038,NA,0,NA
+Shewanella baltica OS117,693970,NA,0,NA
+Gordonibacter pamelaeae 7-10-1-b,657308,NA,0,NA
+Staphylococcus aureus subsp. aureus TCH60,548473,NA,0,NA
+Yersinia enterocolitica subsp. palearctica Y11,930944,NA,0,NA
+Helicobacter pylori Gambia94/24,907240,NA,0,NA
+Streptomyces flavogriseus ATCC 33331,591167,NA,0,NA
+Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1,990282,NA,0,NA
+Clostridium phage phiSM101,396359,NA,0,NA
+Bacteroides xylanisolvens XB1A,657309,NA,0,NA
+Pyrolobus fumarii 1A,694429,NA,0,NA
+Lactobacillus casei LC2W,1597,NA,0,NA
+Clostridium difficile M120,699035,NA,0,NA
+Chlamydia trachomatis D-EC,759363,NA,0,NA
+Burkholderia sp. JV3,868597,HostAssociated,0,NA
+Chlamydia trachomatis G/11074,707187,NA,0,NA
+Sulfolobus solfataricus 98/2,555311,NA,0,NA
+Desulfovibrio vulgaris RCH1,573059,NA,0,NA
+Erwinia sp. Ejp617,215689,NA,0,NA
+Acetobacter pasteurianus IFO 3283-22,634455,NA,0,NA
+Streptococcus pneumoniae SPN033038,869312,NA,0,NA
+Neisseria meningitidis H44/76,909420,NA,0,NA
+Escherichia coli UM146,869729,NA,0,NA
+Geobacillus sp. Y412MC10,0,NA,0,NA
+Clostridium difficile CF5,699036,NA,0,NA
+Butyrivibrio fibrisolvens 16/4,657324,NA,0,NA
+Buchnera aphidicola str. LL01 (Acyrthosiphon pisum),713603,NA,0,NA
+Escherichia coli LF82,591946,NA,0,NA
