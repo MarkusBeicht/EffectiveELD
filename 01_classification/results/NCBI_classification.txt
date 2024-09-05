@@ -1,0 +1,314 @@
+Environment	Classification
+NA	a
+Host; Human	s
+Host	s
+Mud	n
+Missing	a
+Host; Human airways	s
+Fresh water; Aquatic	n
+Soil	n
+Aquatic; Fresh water	n
+Fresh water	n
+Wastewater; Aquatic	n
+Fresh water; Marine; Sediment	n
+coastal sediment	n
+Marine	n
+sea urchin Strongylocentrotus intermedius	s
+Mangrove estuarine sediment	n
+Hot spring	n
+Hot spring; Marine	n
+Soil; Sediment; Salinewater; Lake; Fresh water; Aquatic	n
+Marine; Host; Fish	s
+Plants	s
+Sludge; Wastewater	n
+Fresh water; Epilithon; Aquatic	n
+Marine; Sea water; Aquatic	n
+Aquatic; Mud; Marine	n
+Rumen	s
+Human intestinal microflora; Host	s
+Sea sand	n
+Plants; Host	s
+Wastewater	n
+Sediment; Soil; Rhizosphere	s
+Sediment	n
+Fresh water; Fresh water	n
+Marine; Sediment	n
+Rice paddies; Soil	n
+Sediment; Marine	n
+Sand	n
+Aquatic; Soda lakes	n
+Air	n
+Rhizosphere; Soil; Aquatic	s
+Marine; Aquatic; Marine; Sea water; Surface water	n
+Gingival crevices	s
+Host; Gingival crevices	s
+Aquatic; Marine	n
+Oral microflora; Host	s
+Feces; Host; Gastrointestinal tract	s
+Rice paddies	n
+Host; Human oral microflora	s
+Host; Bird	s
+marine water	n
+marine waters	n
+[ENVO:00000895]	n
+Aquatic; Hot spring	n
+Rice paddies; Soil; Host	s
+Vegetables	n
+Host; Feces; Gastrointestinal tract	s
+Deep sea; Hydrothermal vent; Hot spring; Aquatic; Marine	n
+Blood; Host	s
+Deep sea; Hydrothermal vent; Marine	n
+Sediment; Hot spring; Aquatic	n
+Plant root; Root nodule; Soil; Host	s
+Host; Plant root; Root nodule; Soil	s
+Host; Root nodule	s
+Aquatic	n
+Host; Rhizosphere	s
+Fresh water; Rice paddies; Sewage plant	n
+Aquatic; Fresh water; Host; Plant root; Root nodule; Soil	s
+Host; Rhizosphere; Soil	s
+Rhizosphere; Host; Soil	s
+Plant symbiont; Host; Soil	s
+Ponds; Lake	n
+Host; Plant symbiont; Soil	s
+Mat; Marine	n
+Sediment; Oil fields	n
+Sludge	n
+Aquatic; Salinewater	n
+Oil fields	n
+Marine; Aquatic	n
+Aquatic; Sediment; Marine	n
+Fresh water; Mud; Plants	s
+Biofilm	n
+Wetland	n
+Aquatic; Host; Air	s
+Meat food product	n
+Soil; Wetland	n
+Birds intestinal microflora; Host; Feces; Gastrointestinal	s
+Host; Rhizosphere; Rhizosphere-colonizing	s
+Host; Aquatic	s
+Rhizosphere; Soil	s
+Sea water; Aquatic; Marine	n
+Host; Mouse	s
+Host; Feces	s
+Lake; Salinewater; Aquatic	n
+Soil; Saline soil	n
+Sea water; Marine; Aquatic	n
+Gingival crevices; Host	s
+Host; Insect	s
+Birds intestinal microflora; Human fecal; Host	s
+Host; Oral microflora	s
+Sludge; Host; Wastewater	s
+Fresh water; Host; Aquatic	s
+Host; Human intestinal microflora	s
+Respiratory tract; Host	s
+Rumen; Host	s
+Host; Urinary tract	s
+Animal gastrointestinal tract; Fresh water; Mud; Sea	s
+Sediment; Aquatic	n
+Soda lakes; Plants	s
+Aquatic; Sediment; Soda lakes	n
+Mud; Aquatic; Marine	n
+Permafrost sediment	n
+Aquatic; Deep sea; Marine	n
+Bovine rumen; Host; Bovine; Rumen	s
+Wastewater; Mud; Sediment; Ponds; Aquatic	n
+Aquatic; Oil fields	n
+Aquatic; Host; Marine	s
+Deep sea; Aquatic; Marine	n
+Soil; Terrestrial	n
+Host; Rice roots; Soil	s
+Sludge; Wastewater; Host	s
+Bovine; Host	s
+Fresh water; Aquatic; Lake	n
+Vagina microflora; Host	s
+Rock	n
+Aquatic; Fresh water; Lake	n
+Acid mine	n
+Wastewater; Bioreactor	n
+Cheese	n
+Deep sea; Sediment; Aquatic; Marine	n
+Mud; Soda lakes; Fresh water; Aquatic	n
+Marine; Sea water; Sediment; Mud	n
+Saline Soil; Soil	n
+Rice roots; Rhizosphere	s
+Marine; Mat; Aquatic	n
+Antarctic; Lake; Fresh water; Aquatic	n
+Arctic; Sea water; Aquatic; Marine	n
+Hot spring; Aquatic	n
+Host; Aquatic; Marine	s
+Groundwater	n
+Salinewater; Lake; Fresh water; Aquatic	n
+Lake; Fresh water; Aquatic	n
+Fresh water; Sediment; Aquatic	n
+Aquatic; Mud	n
+Aquatic; Lake	n
+Surface water; Marine	n
+Fresh water; Ponds; Aquatic	n
+Ponds; Fresh water; Aquatic	n
+Wastewater; Sludge	n
+Bioreactor	n
+Marine; Marine; Sea water; Aquatic	n
+Olive oil wastewater	n
+Marine; Host	s
+Fresh water; Hot spring; Aquatic	n
+Aquatic; Sea water; Marine	n
+Surface water; Sea water; Marine; Aquatic	n
+Fermented food product	n
+Environmental- Mine	n
+Brackish water; Sediment; Aquatic	n
+Aquatic; Marine; Sand; Sea water; Sediment	n
+Biofilm; Sea water	n
+Aquatic; Marine; Sediment	n
+Marine; Biofilm	n
+Wastewater; Host; Aquatic	s
+Host; Pig	s
+Food	n
+Salt mine; Sediment	n
+Marine; Mat; Antarctic; Fresh water; Aquatic	n
+Fruits; Food	n
+Soil; Aquatic	n
+Soil; Host	s
+Host; Respiratory tract; Human airways	s
+Host; Marine; Aquatic	s
+Food; Marine	n
+Rice roots	s
+Mat; Fresh water; Antarctic	n
+Wastewater; Host	s
+Soda lakes; Fresh water; Aquatic	n
+Soda lakes; Sediment	n
+Fresh water; Aquatic; Biofilm	n
+Plants; Fresh water; Aquatic	s
+Aquatic; Brackish water; Mat	n
+Wastewater treatment plant; Sludge	n
+Fresh water; Sediment	n
+Lake; Marsh; Fresh water; Aquatic	n
+Marine; Surface water; Aquatic	n
+Sludge; Sewage plant; Wastewater	n
+Cave; Biofilm	n
+Hydrothermal vent; Hot spring; Aquatic	n
+Sediment; Environmental- Mine	n
+Aquatic; Marine; Marine; Sea water	n
+Sediment; Fresh water; Aquatic	n
+Ponds; Aquatic	n
+Mat; Antarctic	n
+Aquatic; Marine; Sea sand; Sediment	n
+Soil; Rice paddies	n
+Hypersaline mats; Fresh water; Aquatic	n
+Mud; Sediment; Sewage plant; Soil	n
+Mud; Hypersaline mats; Mat	n
+Aquatic; Fresh water; Lake; Salinewater; Sediment	n
+Marine; Soil	n
+Host; Aquatic; Ponds	s
+Dairy isolates; Milk	n
+Brackish water; Aquatic; Marine	n
+Permafrost sediment; Soil	n
+Host; Fresh water; Aquatic	s
+Hot spring; Aquatic; Biofilm	n
+Human abscess; Host	s
+Sand; Marine	n
+Soil; Ponds; Aquatic	n
+Fresh water; Iron seep; Aquatic; Soil	n
+Brackish water; Sediment	n
+Deep sea; Hydrothermal vent; Sulfur spring	n
+Hydrothermal vent	n
+Fresh water; Hot spring	n
+Marine; Mat	n
+Soil; Fresh water	n
+Host; Root nodule; Plant root; Soil	s
+Host; Soil	s
+Plant root; Host; Root nodule; Soil	s
+Host; Plant surface; Plants	s
+Poultry meat product; Host	s
+Compost	n
+Lab culture	n
+Mine	n
+Plants; Rice paddies	s
+Fresh water; Aquatic; Sediment	n
+Sediment; Aquatic; Marine	n
+Milk	n
+Aquatic; Fresh water; Lake; Salinewater	n
+Desert Soil; Soil	n
+Host; Urogenital tract	s
+Host; Plant root; Root nodule; Soil; Aquatic	s
+Meat food product; Food	n
+Birds intestinal microflora	s
+Marine; Host; Aquatic	s
+Gingival crevices; Oral microflora; Host	s
+Fresh water; Lake; Aquatic	n
+Host; Bovine	s
+Feces	s
+Human fecal; Host	s
+Mud; Soil	n
+Intestinal microflora; Host	s
+Host; Human fecal; Feces; Gastrointestinal tract	s
+Mud; Ponds; Aquatic	n
+Lake; Fresh water; Aquatic; Sediment	n
+Host; Marine; Fish	s
+Sea water; Surface water; Aquatic	n
+Host; Marine; Marine	s
+Surface water; Marine; Sea water; Aquatic	n
+Urinary tract; Host	s
+Host; Ponds; Aquatic	s
+Surface water; Aquatic	n
+Arctic; Sediment; Marine	n
+Sea water; Marine; Host	s
+Host; Rhizosphere; Sediment	s
+Sediment; Soda lakes; Fresh water; Aquatic	n
+Soil; Rice roots; Rice paddies; Host	s
+Aquatic; Surface water	n
+Sand; Sediment; Marine; Aquatic	n
+Groundwater contaminated with organochlorines	n
+Host; Bovine; Pig	s
+Plant root; Root nodule; Host; Soil	s
+Host; Plant root; Soil	s
+Aquatic; Hot spring; Hydrothermal vent	n
+Plant root; Plants	s
+Host; Plant root; Plants	s
+Endosymbiont; Host	s
+Host; Endosymbiont	s
+Aquatic; Fresh water; Sediment	n
+Estuarine sediment; Sediment	n
+Aquatic; Salinewater; Fresh water	n
+Fresh water; Animal intestinal microflora; Mud; Sea water;	s
+Hydrothermal sediment	n
+Aquatic; Host; Marine; Plant root; Root nodule; Soil	s
+Olive oil wastewater; Aquatic	n
+marine sediment	n
+Human oral microflora; Host	s
+Solar saltern	n
+Antarctic; Sea water; Surface water; Aquatic; Marine	n
+Salinewater; Fresh water; Aquatic; Sediment	n
+Host; Human; Urogenital tract	s
+Aquatic; Fresh water; Hot spring	n
+Permafrost	n
+Rhizosphere	s
+Fresh water; Wastewater	n
+shallow-sea hydrothermal vent systems	n
+Forest soil	n
+Aquatic; Soil	n
+Hot spring; Aquatic; Marine	n
+Soil; Fresh water; Aquatic	n
+Feces; Gastrointestinal tract	s
+Sludge; Host	s
+brackish estuary	n
+hydrothermal sediments	n
+marine sediments	n
+Mangrove forest	n
+tidal pool	n
+Aquifer sediment contaminated with organochlorines	n
+Aquatic; Hot spring; Sediment	n
+Aquatic; Brackish water; Fresh water	n
+Brackish water; Fresh water; Aquatic	n
+Brackish water; Aquatic; Fresh water	n
+Fresh water; Aquatic; Brackish water	n
+Sea water	n
+Aquatic; Fresh water; Brackish water	n
+Aquatic; Mine; Mine water; Acid mine drainage	n
+acid mine drainage	n
+human gut	s
+Atta colombica fungus garden	n
+Fruits; Plants	s
+Gastrointestinal tract; Host; Feces	s
+Atta cephalotes fungus garden	n
+small lake biome [ENVO:00000892]; anaerobic sediment	n
