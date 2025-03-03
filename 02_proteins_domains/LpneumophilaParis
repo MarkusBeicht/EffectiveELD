@@ -1,0 +1,1310 @@
+refseq_accession	domainid	domain_description	median	iqr	max_threshold	protein_accession	protein_description
+GCF_000048645.1	PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	4	1	0.7	WP_010946783.1	F0F1 ATP synthase subunit alpha
+GCF_000048645.1	PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	4	1	0.7	WP_010948666.1	F0F1 ATP synthase subunit beta
+GCF_000048645.1	PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	4	1	0.7	WP_010948668.1	F0F1 ATP synthase subunit alpha
+GCF_000048645.1	PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	4	1	0.7	WP_011214022.1	flagellar protein export ATPase FliI
+GCF_000048645.1	PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	4	1	0.7	WP_011216778.1	transcription termination factor Rho
+GCF_000048645.1	PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	4	1	0.7	WP_015961461.1	F0F1 ATP synthase subunit beta
+GCF_000048645.1	PF00011	Hsp20/alpha crystallin family	2	1	0.1	WP_014842523.1	Hsp20/alpha crystallin family protein
+GCF_000048645.1	PF00011	Hsp20/alpha crystallin family	2	1	0.1	WP_014844384.1	Hsp20 family protein
+GCF_000048645.1	PF00023	Ankyrin repeat	0	0	0.7	WP_015961277.1	ankyrin repeat domain-containing protein
+GCF_000048645.1	PF00023	Ankyrin repeat	0	0	0.7	WP_080020151.1	Dot/Icm T4SS effector AnkI/LegAS4
+GCF_000048645.1	PF00032	Cytochrome b(C-terminal)/b6/petD	1	1	0.3	WP_011947612.1	cytochrome b N-terminal domain-containing protein
+GCF_000048645.1	PF00033	Cytochrome b/b6/petB	0	1	0.5	WP_011947612.1	cytochrome b N-terminal domain-containing protein
+GCF_000048645.1	PF00043	Glutathione S-transferase, C-terminal domain	0	4	0.0	WP_011214161.1	glutathione transferase GstA
+GCF_000048645.1	PF00043	Glutathione S-transferase, C-terminal domain	0	4	0.0	WP_015961765.1	stringent starvation protein A
+GCF_000048645.1	PF00069	Protein kinase domain	2	5	0.1	WP_011212723.1	hypothetical protein
+GCF_000048645.1	PF00069	Protein kinase domain	2	5	0.1	WP_011212893.1	protein kinase
+GCF_000048645.1	PF00069	Protein kinase domain	2	5	0.1	WP_011213766.1	Dot/Icm type IV secretion system effector kinase LegK1
+GCF_000048645.1	PF00069	Protein kinase domain	2	5	0.1	WP_015961687.1	protein kinase
+GCF_000048645.1	PF00076	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	0	0	0.5	WP_011212945.1	RNA-binding protein
+GCF_000048645.1	PF00080	Copper/zinc superoxide dismutase (SODC)	0	1	0.5	WP_015961438.1	superoxide dismutase SodC
+GCF_000048645.1	PF00083	Sugar (and other) transporter	2	5	0.1	WP_011212916.1	MFS transporter
+GCF_000048645.1	PF00083	Sugar (and other) transporter	2	5	0.1	WP_011213069.1	sugar porter family MFS transporter
+GCF_000048645.1	PF00083	Sugar (and other) transporter	2	5	0.1	WP_224750863.1	sugar porter family MFS transporter
+GCF_000048645.1	PF00109	Beta-ketoacyl synthase, N-terminal domain	3	4	0.5	WP_011212756.1	beta-ketoacyl-
+GCF_000048645.1	PF00109	Beta-ketoacyl synthase, N-terminal domain	3	4	0.5	WP_011213020.1	beta-ketoacyl-
+GCF_000048645.1	PF00109	Beta-ketoacyl synthase, N-terminal domain	3	4	0.5	WP_011213021.1	3-oxoacyl-ACP synthase
+GCF_000048645.1	PF00109	Beta-ketoacyl synthase, N-terminal domain	3	4	0.5	WP_011213689.1	beta-ketoacyl-ACP synthase II
+GCF_000048645.1	PF00109	Beta-ketoacyl synthase, N-terminal domain	3	4	0.5	WP_011214193.1	polyketide synthase
+GCF_000048645.1	PF00109	Beta-ketoacyl synthase, N-terminal domain	3	4	0.5	WP_015961341.1	SDR family NAD(P)-dependent oxidoreductase
+GCF_000048645.1	PF00115	Cytochrome C and Quinol oxidase polypeptide I	2	2	0.3	WP_011212919.1	cytochrome o ubiquinol oxidase subunit I
+GCF_000048645.1	PF00115	Cytochrome C and Quinol oxidase polypeptide I	2	2	0.3	WP_013102020.1	cytochrome c oxidase subunit I
+GCF_000048645.1	PF00115	Cytochrome C and Quinol oxidase polypeptide I	2	2	0.3	WP_015961365.1	cbb3-type cytochrome c oxidase subunit I
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_010946487.1	imidazole glycerol phosphate synthase subunit HisH
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_010946571.1	aminodeoxychorismate/anthranilate synthase component II
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_010946915.1	CTP synthase
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_011213549.1	imidazole glycerol phosphate synthase subunit HisH
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_011213992.1	glutamine-hydrolyzing GMP synthase
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_011214270.1	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_015961377.1	GMP synthase
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_015961821.1	homoserine O-succinyltransferase
+GCF_000048645.1	PF00117	Glutamine amidotransferase class-I	6	1	0.7	WP_032831089.1	anthranilate synthase component I
+GCF_000048645.1	PF00119	ATP synthase A chain	1	0	0.7	WP_015443864.1	F0F1 ATP synthase subunit A
+GCF_000048645.1	PF00119	ATP synthase A chain	1	0	0.7	WP_224750874.1	F0F1 ATP synthase subunit A
+GCF_000048645.1	PF00122	E1-E2 ATPase	5	4	0.5	WP_011212925.1	HAD-IC family P-type ATPase
+GCF_000048645.1	PF00122	E1-E2 ATPase	5	4	0.5	WP_011213907.1	copper-translocating P-type ATPase
+GCF_000048645.1	PF00122	E1-E2 ATPase	5	4	0.5	WP_015961483.1	copper-translocating P-type ATPase
+GCF_000048645.1	PF00122	E1-E2 ATPase	5	4	0.5	WP_015961491.1	cation-translocating P-type ATPase
+GCF_000048645.1	PF00122	E1-E2 ATPase	5	4	0.5	WP_015961496.1	cadmium-translocating P-type ATPase
+GCF_000048645.1	PF00122	E1-E2 ATPase	5	4	0.5	WP_015961566.1	cation-transporting P-type ATPase
+GCF_000048645.1	PF00122	E1-E2 ATPase	5	4	0.5	WP_015961756.1	heavy metal translocating P-type ATPase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_010946491.1	acetyltransferase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_011212691.1	CatB-related O-acetyltransferase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_011212755.1	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_011213136.1	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_011213138.1	acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_011213188.1	gamma carbonic anhydrase family protein
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_014844979.1	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_014844980.1	acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase
+GCF_000048645.1	PF00132	Bacterial transferase hexapeptide (six repeats)	7	4	0.5	WP_015961871.1	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+GCF_000048645.1	PF00137	ATP synthase subunit C	1	0	0.7	WP_011946148.1	F0F1 ATP synthase subunit C
+GCF_000048645.1	PF00137	ATP synthase subunit C	1	0	0.7	WP_196508401.1	F0F1 ATP synthase subunit C
+GCF_000048645.1	PF00140	Sigma-70 factor, region 1.2	2	2	0.5	WP_011213596.1	RNA polymerase sigma factor RpoS
+GCF_000048645.1	PF00140	Sigma-70 factor, region 1.2	2	2	0.5	WP_013101924.1	RNA polymerase sigma factor RpoH
+GCF_000048645.1	PF00140	Sigma-70 factor, region 1.2	2	2	0.5	WP_223381112.1	RNA polymerase sigma factor RpoD
+GCF_000048645.1	PF00141	Peroxidase	1	1	0.7	WP_011212879.1	catalase/peroxidase HPI
+GCF_000048645.1	PF00141	Peroxidase	1	1	0.7	WP_015961570.1	catalase/peroxidase HPI
+GCF_000048645.1	PF00144	Beta-lactamase	3	6	0.1	WP_011213475.1	serine hydrolase
+GCF_000048645.1	PF00144	Beta-lactamase	3	6	0.1	WP_011214163.1	serine hydrolase
+GCF_000048645.1	PF00144	Beta-lactamase	3	6	0.1	WP_015961579.1	serine hydrolase
+GCF_000048645.1	PF00144	Beta-lactamase	3	6	0.1	WP_015961592.1	serine hydrolase
+GCF_000048645.1	PF00144	Beta-lactamase	3	6	0.1	WP_229309945.1	beta-lactamase family protein
+GCF_000048645.1	PF00145	C-5 cytosine-specific DNA methylase	1	1	0.1	WP_011213437.1	DNA cytosine methyltransferase
+GCF_000048645.1	PF00150	Cellulase (glycosyl hydrolase family 5)	0	1	0.1	WP_011214171.1	cellulase family glycosylhydrolase
+GCF_000048645.1	PF00152	tRNA synthetases class II (D, K and N)	3	1	0.7	WP_010946344.1	elongation factor P--(R)-beta-lysine ligase
+GCF_000048645.1	PF00152	tRNA synthetases class II (D, K and N)	3	1	0.7	WP_011213761.1	aspartate--tRNA ligase
+GCF_000048645.1	PF00152	tRNA synthetases class II (D, K and N)	3	1	0.7	WP_011214040.1	lysine--tRNA ligase
+GCF_000048645.1	PF00152	tRNA synthetases class II (D, K and N)	3	1	0.7	WP_015961403.1	asparagine--tRNA ligase
+GCF_000048645.1	PF00175	Oxidoreductase NAD-binding domain	3	4	0.1	WP_011213109.1	ferredoxin--NADP reductase
+GCF_000048645.1	PF00175	Oxidoreductase NAD-binding domain	3	4	0.1	WP_011947827.1	NAD(P)H-flavin reductase
+GCF_000048645.1	PF00175	Oxidoreductase NAD-binding domain	3	4	0.1	WP_015961464.1	FAD-binding oxidoreductase
+GCF_000048645.1	PF00175	Oxidoreductase NAD-binding domain	3	4	0.1	WP_015961634.1	FAD/NAD(P)-binding protein
+GCF_000048645.1	PF00175	Oxidoreductase NAD-binding domain	3	4	0.1	WP_015961669.1	FAD-binding oxidoreductase
+GCF_000048645.1	PF00176	SNF2-related domain	2	1	0.1	WP_010946472.1	DEAD/DEAH box helicase
+GCF_000048645.1	PF00176	SNF2-related domain	2	1	0.1	WP_015961410.1	RNA polymerase-associated protein RapA
+GCF_000048645.1	PF00183	Hsp90 protein	1	1	0.1	WP_011213666.1	molecular chaperone HtpG
+GCF_000048645.1	PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)	3	2	0.7	WP_011212761.1	2-oxo acid dehydrogenase subunit E2
+GCF_000048645.1	PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)	3	2	0.7	WP_011213163.1	2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+GCF_000048645.1	PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)	3	2	0.7	WP_011213785.1	dihydrolipoyllysine-residue acetyltransferase
+GCF_000048645.1	PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)	3	2	0.7	WP_011213839.1	2-oxo acid dehydrogenase subunit E2
+GCF_000048645.1	PF00207	Alpha-2-macroglobulin family	0	1	0.5	WP_011213944.1	alpha-2-macroglobulin
+GCF_000048645.1	PF00208	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase	1	1	0.3	WP_015961399.1	amino acid dehydrogenase
+GCF_000048645.1	PF00208	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase	1	1	0.3	WP_015961471.1	Glu/Leu/Phe/Val dehydrogenase
+GCF_000048645.1	PF00211	Adenylate and Guanylate cyclase catalytic domain	1	2	0.7	WP_011213260.1	adenylate/guanylate cyclase domain-containing protein
+GCF_000048645.1	PF00211	Adenylate and Guanylate cyclase catalytic domain	1	2	0.7	WP_011213486.1	adenylate/guanylate cyclase domain-containing protein
+GCF_000048645.1	PF00211	Adenylate and Guanylate cyclase catalytic domain	1	2	0.7	WP_011213624.1	adenylate/guanylate cyclase domain-containing protein
+GCF_000048645.1	PF00211	Adenylate and Guanylate cyclase catalytic domain	1	2	0.7	WP_011213772.1	GAF domain-containing protein
+GCF_000048645.1	PF00211	Adenylate and Guanylate cyclase catalytic domain	1	2	0.7	WP_025519651.1	adenylate/guanylate cyclase domain-containing protein
+GCF_000048645.1	PF00213	ATP synthase delta (OSCP) subunit	1	0	0.7	WP_011216821.1	F0F1 ATP synthase subunit delta
+GCF_000048645.1	PF00213	ATP synthase delta (OSCP) subunit	1	0	0.7	WP_013101364.1	F0F1 ATP synthase subunit delta
+GCF_000048645.1	PF00216	Bacterial DNA-binding protein	2	3	0.3	WP_010948640.1	integration host factor subunit beta
+GCF_000048645.1	PF00216	Bacterial DNA-binding protein	2	3	0.3	WP_011214112.1	HU family DNA-binding protein
+GCF_000048645.1	PF00216	Bacterial DNA-binding protein	2	3	0.3	WP_011216576.1	integration host factor subunit alpha
+GCF_000048645.1	PF00226	DnaJ domain	3	2	0.1	WP_010947740.1	molecular chaperone DnaJ
+GCF_000048645.1	PF00226	DnaJ domain	3	2	0.1	WP_014844489.1	co-chaperone DjlA
+GCF_000048645.1	PF00226	DnaJ domain	3	2	0.1	WP_015961388.1	DnaJ domain-containing protein
+GCF_000048645.1	PF00231	ATP synthase	1	0	0.7	WP_013101363.1	F0F1 ATP synthase subunit gamma
+GCF_000048645.1	PF00231	ATP synthase	1	0	0.7	WP_013102069.1	F0F1 ATP synthase subunit gamma
+GCF_000048645.1	PF00239	Resolvase, N terminal domain	2	3	0.0	WP_011212508.1	recombinase family protein
+GCF_000048645.1	PF00239	Resolvase, N terminal domain	2	3	0.0	WP_021436836.1	recombinase family protein
+GCF_000048645.1	PF00265	Thymidine kinase	1	1	0.1	WP_011213227.1	thymidine kinase
+GCF_000048645.1	PF00274	Fructose-bisphosphate aldolase class-I	0	0	0.7	WP_011213108.1	fructose-bisphosphate aldolase class I
+GCF_000048645.1	PF00285	Citrate synthase, C-terminal domain	2	1	0.1	WP_011213706.1	citrate synthase
+GCF_000048645.1	PF00285	Citrate synthase, C-terminal domain	2	1	0.1	WP_011213812.1	2-methylcitrate synthase
+GCF_000048645.1	PF00289	Biotin carboxylase, N-terminal domain	3	2	0.0	WP_011213101.1	acetyl-CoA carboxylase biotin carboxylase subunit
+GCF_000048645.1	PF00289	Biotin carboxylase, N-terminal domain	3	2	0.0	WP_011214084.1	acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+GCF_000048645.1	PF00289	Biotin carboxylase, N-terminal domain	3	2	0.0	WP_015961741.1	acetyl-CoA carboxylase biotin carboxylase subunit
+GCF_000048645.1	PF00301	Rubredoxin	0	1	0.3	WP_010947264.1	rubredoxin
+GCF_000048645.1	PF00306	ATP synthase alpha/beta chain, C terminal domain	1	0	0.7	WP_010946783.1	F0F1 ATP synthase subunit alpha
+GCF_000048645.1	PF00306	ATP synthase alpha/beta chain, C terminal domain	1	0	0.7	WP_010948668.1	F0F1 ATP synthase subunit alpha
+GCF_000048645.1	PF00308	Bacterial dnaA protein	1	1	0.5	WP_010945763.1	chromosomal replication initiator protein DnaA
+GCF_000048645.1	PF00308	Bacterial dnaA protein	1	1	0.5	WP_015961811.1	DnaA regulatory inactivator Hda
+GCF_000048645.1	PF00311	Phosphoenolpyruvate carboxylase	1	1	0.1	WP_011213885.1	phosphoenolpyruvate carboxylase
+GCF_000048645.1	PF00313	'Cold-shock' DNA-binding domain	3	3	0.7	WP_010946175.1	cold-shock protein
+GCF_000048645.1	PF00313	'Cold-shock' DNA-binding domain	3	3	0.7	WP_010947832.1	cold-shock protein
+GCF_000048645.1	PF00313	'Cold-shock' DNA-binding domain	3	3	0.7	WP_010948512.1	cold-shock protein
+GCF_000048645.1	PF00313	'Cold-shock' DNA-binding domain	3	3	0.7	WP_011213557.1	cold shock domain-containing protein
+GCF_000048645.1	PF00313	'Cold-shock' DNA-binding domain	3	3	0.7	WP_014844898.1	cold-shock protein
+GCF_000048645.1	PF00313	'Cold-shock' DNA-binding domain	3	3	0.7	WP_015961455.1	cold-shock protein
+GCF_000048645.1	PF00314	Thaumatin family	0	0	0.7	WP_080019943.1	thaumatin domain-containing protein
+GCF_000048645.1	PF00324	Amino acid permease	1	2	0.3	WP_010946705.1	amino acid permease
+GCF_000048645.1	PF00324	Amino acid permease	1	2	0.3	WP_011212693.1	APC family permease
+GCF_000048645.1	PF00328	Histidine phosphatase superfamily (branch 2)	0	0	0.7	WP_011213476.1	histidine phosphatase family protein
+GCF_000048645.1	PF00351	Biopterin-dependent aromatic amino acid hydroxylase	0	1	0.7	WP_015961727.1	phenylalanine 4-monooxygenase
+GCF_000048645.1	PF00353	RTX calcium-binding nonapeptide repeat (4 copies)	0	1	0.1	WP_080445536.1	type I secretion C-terminal target domain-containing protein
+GCF_000048645.1	PF00368	Hydroxymethylglutaryl-coenzyme A reductase	0	0	0.7	WP_013101653.1	hydroxymethylglutaryl-CoA reductase, degradative
+GCF_000048645.1	PF00375	Sodium:dicarboxylate symporter family	1	3	0.5	WP_010946455.1	dicarboxylate/amino acid:cation symporter
+GCF_000048645.1	PF00375	Sodium:dicarboxylate symporter family	1	3	0.5	WP_010946621.1	dicarboxylate/amino acid:cation symporter
+GCF_000048645.1	PF00375	Sodium:dicarboxylate symporter family	1	3	0.5	WP_015961374.1	C4-dicarboxylate transporter DctA
+GCF_000048645.1	PF00383	Cytidine and deoxycytidylate deaminase zinc-binding region	3	2	0.7	WP_010946862.1	nucleoside deaminase
+GCF_000048645.1	PF00383	Cytidine and deoxycytidylate deaminase zinc-binding region	3	2	0.7	WP_011212819.1	nucleoside deaminase
+GCF_000048645.1	PF00383	Cytidine and deoxycytidylate deaminase zinc-binding region	3	2	0.7	WP_011213534.1	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+GCF_000048645.1	PF00383	Cytidine and deoxycytidylate deaminase zinc-binding region	3	2	0.7	WP_011213721.1	cytidine deaminase
+GCF_000048645.1	PF00389	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain	3	3	0.0	WP_010946653.1	4-phosphoerythronate dehydrogenase
+GCF_000048645.1	PF00389	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain	3	3	0.0	WP_011212936.1	3-phosphoglycerate dehydrogenase
+GCF_000048645.1	PF00389	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain	3	3	0.0	WP_011212982.1	NAD-dependent formate dehydrogenase
+GCF_000048645.1	PF00389	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain	3	3	0.0	WP_013101934.1	dihydrofolate reductase
+GCF_000048645.1	PF00390	Malic enzyme, N-terminal domain	1	1	0.7	WP_010946388.1	malate dehydrogenase
+GCF_000048645.1	PF00390	Malic enzyme, N-terminal domain	1	1	0.7	WP_011213592.1	NAD-dependent malic enzyme
+GCF_000048645.1	PF00390	Malic enzyme, N-terminal domain	1	1	0.7	WP_014845001.1	NAD-dependent malic enzyme
+GCF_000048645.1	PF00394	Multicopper oxidase	0	1	0.7	WP_011212962.1	multicopper oxidase family protein
+GCF_000048645.1	PF00394	Multicopper oxidase	0	1	0.7	WP_021582706.1	multicopper oxidase domain-containing protein
+GCF_000048645.1	PF00401	ATP synthase, Delta/Epsilon chain, long alpha-helix domain	0	1	0.5	WP_010948665.1	F0F1 ATP synthase subunit epsilon
+GCF_000048645.1	PF00415	Regulator of chromosome condensation (RCC1) repeat	0	0	0.7	WP_031301625.1	UVB-resistance protein UVR8
+GCF_000048645.1	PF00430	ATP synthase B/B' CF(0)	1	0	0.7	WP_010948670.1	F0F1 ATP synthase subunit B
+GCF_000048645.1	PF00430	ATP synthase B/B' CF(0)	1	0	0.7	WP_013101364.1	F0F1 ATP synthase subunit delta
+GCF_000048645.1	PF00436	Single-strand binding protein family	2	1	0.0	WP_011213016.1	single-stranded DNA-binding protein
+GCF_000048645.1	PF00436	Single-strand binding protein family	2	1	0.0	WP_011213405.1	single-stranded DNA-binding protein
+GCF_000048645.1	PF00437	Type II/IV secretion system protein	3	4	0.7	WP_011212810.1	P-type DNA transfer ATPase VirB11
+GCF_000048645.1	PF00437	Type II/IV secretion system protein	3	4	0.7	WP_011213621.1	GspE family T2SS ATPase variant LspE
+GCF_000048645.1	PF00437	Type II/IV secretion system protein	3	4	0.7	WP_011213804.1	type IV-A pilus assembly ATPase PilB
+GCF_000048645.1	PF00437	Type II/IV secretion system protein	3	4	0.7	WP_011214261.1	type IV pilus twitching motility protein PilT
+GCF_000048645.1	PF00437	Type II/IV secretion system protein	3	4	0.7	WP_015961424.1	PilT/PilU family type 4a pilus ATPase
+GCF_000048645.1	PF00437	Type II/IV secretion system protein	3	4	0.7	WP_015961746.1	Dot/Icm type IV secretion system ATPase DotB
+GCF_000048645.1	PF00445	Ribonuclease T2 family	0	0	0.7	WP_015961851.1	ribonuclease T(2)
+GCF_000048645.1	PF00448	SRP54-type protein, GTPase domain	2	1	0.5	WP_011213052.1	signal recognition particle protein
+GCF_000048645.1	PF00448	SRP54-type protein, GTPase domain	2	1	0.5	WP_011214045.1	flagellar biosynthesis protein FlhF
+GCF_000048645.1	PF00448	SRP54-type protein, GTPase domain	2	1	0.5	WP_015961743.1	signal recognition particle-docking protein FtsY
+GCF_000048645.1	PF00460	Flagella basal body rod protein	4	6	0.3	WP_011213574.1	flagellar basal body rod protein FlgB
+GCF_000048645.1	PF00460	Flagella basal body rod protein	4	6	0.3	WP_011213577.1	flagellar hook protein FlgE
+GCF_000048645.1	PF00460	Flagella basal body rod protein	4	6	0.3	WP_011213578.1	flagellar basal-body rod protein FlgF
+GCF_000048645.1	PF00460	Flagella basal body rod protein	4	6	0.3	WP_011213579.1	flagellar basal-body rod protein FlgG
+GCF_000048645.1	PF00460	Flagella basal body rod protein	4	6	0.3	WP_011213583.1	flagellar hook-associated protein FlgK
+GCF_000048645.1	PF00462	Glutaredoxin	2	2	0.5	WP_010948013.1	glutaredoxin 3
+GCF_000048645.1	PF00462	Glutaredoxin	2	2	0.5	WP_010948651.1	Grx4 family monothiol glutaredoxin
+GCF_000048645.1	PF00462	Glutaredoxin	2	2	0.5	WP_011212704.1	glutaredoxin family protein
+GCF_000048645.1	PF00472	RF-1 domain	3	1	0.1	WP_010948042.1	peptide chain release factor 1
+GCF_000048645.1	PF00472	RF-1 domain	3	1	0.1	WP_011212856.1	peptide chain release factor-like protein
+GCF_000048645.1	PF00472	RF-1 domain	3	1	0.1	WP_104411370.1	peptide chain release factor 2
+GCF_000048645.1	PF00478	IMP dehydrogenase / GMP reductase domain	1	1	0.3	WP_010947450.1	IMP dehydrogenase
+GCF_000048645.1	PF00478	IMP dehydrogenase / GMP reductase domain	1	1	0.3	WP_011216677.1	guanosine monophosphate reductase
+GCF_000048645.1	PF00484	Carbonic anhydrase	1	1	0.7	WP_010946434.1	bifunctional SulP family inorganic anion transporter/carbonic anhydrase
+GCF_000048645.1	PF00484	Carbonic anhydrase	1	1	0.7	WP_011947053.1	carbonic anhydrase
+GCF_000048645.1	PF00484	Carbonic anhydrase	1	1	0.7	WP_011947423.1	carbonic anhydrase
+GCF_000048645.1	PF00485	Phosphoribulokinase / Uridine kinase family	1	1	0.5	WP_014841922.1	uridine kinase
+GCF_000048645.1	PF00485	Phosphoribulokinase / Uridine kinase family	1	1	0.5	WP_014843704.1	uridine kinase
+GCF_000048645.1	PF00487	Fatty acid desaturase	2	2	0.3	WP_011212943.1	fatty acid desaturase
+GCF_000048645.1	PF00487	Fatty acid desaturase	2	2	0.3	WP_011213179.1	fatty acid desaturase
+GCF_000048645.1	PF00487	Fatty acid desaturase	2	2	0.3	WP_015443860.1	alkane 1-monooxygenase
+GCF_000048645.1	PF00497	Bacterial extracellular solute-binding proteins, family 3	5	7	0.1	WP_011212680.1	transporter substrate-binding domain-containing protein
+GCF_000048645.1	PF00497	Bacterial extracellular solute-binding proteins, family 3	5	7	0.1	WP_011212744.1	transporter substrate-binding domain-containing protein
+GCF_000048645.1	PF00497	Bacterial extracellular solute-binding proteins, family 3	5	7	0.1	WP_011213120.1	ABC transporter substrate-binding protein
+GCF_000048645.1	PF00497	Bacterial extracellular solute-binding proteins, family 3	5	7	0.1	WP_011213263.1	transporter substrate-binding domain-containing protein
+GCF_000048645.1	PF00497	Bacterial extracellular solute-binding proteins, family 3	5	7	0.1	WP_011213480.1	transporter substrate-binding domain-containing protein
+GCF_000048645.1	PF00497	Bacterial extracellular solute-binding proteins, family 3	5	7	0.1	WP_011213482.1	ABC transporter substrate-binding protein
+GCF_000048645.1	PF00497	Bacterial extracellular solute-binding proteins, family 3	5	7	0.1	WP_011213835.1	transporter substrate-binding domain-containing protein
+GCF_000048645.1	PF00510	Cytochrome c oxidase subunit III	1	1	0.3	WP_011212920.1	cytochrome o ubiquinol oxidase subunit III
+GCF_000048645.1	PF00510	Cytochrome c oxidase subunit III	1	1	0.3	WP_015961893.1	cytochrome c oxidase subunit 3
+GCF_000048645.1	PF00515	Tetratricopeptide repeat	0	1	0.7	WP_014844631.1	tetratricopeptide repeat protein
+GCF_000048645.1	PF00515	Tetratricopeptide repeat	0	1	0.7	WP_015961856.1	tetratricopeptide repeat protein
+GCF_000048645.1	PF00543	Nitrogen regulatory protein P-II	1	1	0.5	WP_011212905.1	hypothetical protein
+GCF_000048645.1	PF00543	Nitrogen regulatory protein P-II	1	1	0.5	WP_011213200.1	P-II family nitrogen regulator
+GCF_000048645.1	PF00550	Phosphopantetheine attachment site	3	7	0.1	WP_003631752.1	acyl carrier protein
+GCF_000048645.1	PF00550	Phosphopantetheine attachment site	3	7	0.1	WP_010946108.1	acyl carrier protein
+GCF_000048645.1	PF00550	Phosphopantetheine attachment site	3	7	0.1	WP_011214197.1	phosphopantetheine-binding protein
+GCF_000048645.1	PF00550	Phosphopantetheine attachment site	3	7	0.1	WP_011216134.1	acyl carrier protein
+GCF_000048645.1	PF00550	Phosphopantetheine attachment site	3	7	0.1	WP_011216137.1	phosphopantetheine-binding protein
+GCF_000048645.1	PF00550	Phosphopantetheine attachment site	3	7	0.1	WP_015961340.1	amino acid adenylation domain-containing protein
+GCF_000048645.1	PF00550	Phosphopantetheine attachment site	3	7	0.1	WP_015961341.1	SDR family NAD(P)-dependent oxidoreductase
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_010946565.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_010946626.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_011212729.1	bifunctional diguanylate cyclase/phosphodiesterase
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_011212848.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_011212974.1	EAL domain-containing protein, partial
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_011213656.1	bifunctional diguanylate cyclase/phosphodiesterase
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_011213754.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_014843694.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_014843705.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_015961723.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_021436936.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_021436973.1	HDOD domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_224750839.1	EAL domain-containing protein
+GCF_000048645.1	PF00563	EAL domain	5	13	0.5	WP_229309960.1	EAL domain-containing protein
+GCF_000048645.1	PF00575	S1 RNA binding domain	5	2	0.3	WP_010947150.1	30S ribosomal protein S1
+GCF_000048645.1	PF00575	S1 RNA binding domain	5	2	0.3	WP_011212748.1	ribonuclease R
+GCF_000048645.1	PF00575	S1 RNA binding domain	5	2	0.3	WP_014844838.1	transcription termination factor NusA
+GCF_000048645.1	PF00575	S1 RNA binding domain	5	2	0.3	WP_015961408.1	Rne/Rng family ribonuclease
+GCF_000048645.1	PF00575	S1 RNA binding domain	5	2	0.3	WP_015961799.1	polyribonucleotide nucleotidyltransferase
+GCF_000048645.1	PF00575	S1 RNA binding domain	5	2	0.3	WP_015961842.1	RNA-binding transcriptional accessory protein
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212525.1	bifunctional GrpB family protein/GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212526.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212572.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212576.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212578.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212692.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212757.1	Dot/Icm T4SS effector N-acetyltransferase VipF
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011212842.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011213151.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011213474.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011213564.1	bifunctional helix-turn-helix transcriptional regulator/GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011213769.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011213894.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_011213895.1	bifunctional GrpB family protein/GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_014326939.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_014843700.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_015961320.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_015961908.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00583	Acetyltransferase (GNAT) family	13	14	0.3	WP_025519449.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF00586	AIR synthase related protein, N-terminal domain	3	2	0.5	WP_011213301.1	thiamine-phosphate kinase
+GCF_000048645.1	PF00586	AIR synthase related protein, N-terminal domain	3	2	0.5	WP_011213957.1	phosphoribosylformylglycinamidine cyclo-ligase
+GCF_000048645.1	PF00586	AIR synthase related protein, N-terminal domain	3	2	0.5	WP_011213958.1	phosphoribosylformylglycinamidine synthase subunit PurL
+GCF_000048645.1	PF00586	AIR synthase related protein, N-terminal domain	3	2	0.5	WP_015961636.1	hydrogenase expression/formation protein HypE
+GCF_000048645.1	PF00591	Glycosyl transferase family, a/b domain	2	1	0.1	WP_010946570.1	anthranilate phosphoribosyltransferase
+GCF_000048645.1	PF00591	Glycosyl transferase family, a/b domain	2	1	0.1	WP_021436948.1	thymidine phosphorylase family protein
+GCF_000048645.1	PF00617	RasGEF domain	0	0	0.7	WP_080020141.1	Dot/Icm T4SS effector LegG2
+GCF_000048645.1	PF00620	RhoGAP domain	0	0	0.7	WP_011214058.1	Dot/Icm T4SS effector MavB
+GCF_000048645.1	PF00639	PPIC-type PPIASE domain	1	1	0.7	WP_011212999.1	chaperone SurA
+GCF_000048645.1	PF00639	PPIC-type PPIASE domain	1	1	0.7	WP_011214111.1	SurA N-terminal domain-containing protein
+GCF_000048645.1	PF00646	F-box domain	0	0	0.7	WP_011212860.1	F-box protein
+GCF_000048645.1	PF00654	Voltage gated chloride channel	1	1	0.7	WP_011214001.1	H(+)/Cl(-) exchange transporter ClcA
+GCF_000048645.1	PF00654	Voltage gated chloride channel	1	1	0.7	WP_011214141.1	chloride channel protein
+GCF_000048645.1	PF00657	GDSL-like Lipase/Acylhydrolase	0	0	0.7	WP_014844491.1	SGNH/GDSL hydrolase family protein
+GCF_000048645.1	PF00657	GDSL-like Lipase/Acylhydrolase	0	0	0.7	WP_015961695.1	SGNH/GDSL hydrolase family protein
+GCF_000048645.1	PF00657	GDSL-like Lipase/Acylhydrolase	0	0	0.7	WP_015961844.1	SGNH/GDSL hydrolase family protein
+GCF_000048645.1	PF00662	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus	1	1	0.3	WP_011212907.1	oxidoreductase
+GCF_000048645.1	PF00662	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus	1	1	0.3	WP_014844840.1	NADH-quinone oxidoreductase subunit L
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_011212510.1	ABC transporter ATP-binding protein/permease
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_011212523.1	ABC transporter ATP-binding protein/permease
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_011212909.1	ABC transporter ATP-binding protein
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_011213590.1	ABC transporter ATP-binding protein/permease
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_011213798.1	type I secretion system permease/ATPase
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_011213896.1	ABC transporter ATP-binding protein/permease
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_011214077.1	lipid A export permease/ATP-binding protein MsbA
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_015961304.1	ABC transporter ATP-binding protein/permease
+GCF_000048645.1	PF00664	ABC transporter transmembrane region	8	7	0.0	WP_015961366.1	ABC transporter ATP-binding protein/permease
+GCF_000048645.1	PF00669	Bacterial flagellin N-terminal helical region	2	2	0.1	WP_011213584.1	flagellar hook-associated protein FlgL
+GCF_000048645.1	PF00669	Bacterial flagellin N-terminal helical region	2	2	0.1	WP_011213640.1	flagellin
+GCF_000048645.1	PF00670	S-adenosyl-L-homocysteine hydrolase, NAD binding domain	1	1	0.7	WP_011214268.1	adenosylhomocysteinase
+GCF_000048645.1	PF00670	S-adenosyl-L-homocysteine hydrolase, NAD binding domain	1	1	0.7	WP_015961321.1	hypothetical protein
+GCF_000048645.1	PF00676	Dehydrogenase E1 component	3	2	0.1	WP_011213162.1	2-oxoglutarate dehydrogenase E1 component
+GCF_000048645.1	PF00676	Dehydrogenase E1 component	3	2	0.1	WP_011213838.1	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+GCF_000048645.1	PF00676	Dehydrogenase E1 component	3	2	0.1	WP_014844706.1	alpha-ketoacid dehydrogenase subunit alpha/beta
+GCF_000048645.1	PF00689	Cation transporting ATPase, C-terminus	1	2	0.5	WP_015961491.1	cation-translocating P-type ATPase
+GCF_000048645.1	PF00689	Cation transporting ATPase, C-terminus	1	2	0.5	WP_015961566.1	cation-transporting P-type ATPase
+GCF_000048645.1	PF00690	Cation transporter/ATPase, N-terminus	1	2	0.5	WP_015961491.1	cation-translocating P-type ATPase
+GCF_000048645.1	PF00690	Cation transporter/ATPase, N-terminus	1	2	0.5	WP_015961566.1	cation-transporting P-type ATPase
+GCF_000048645.1	PF00691	OmpA family	5	8	0.1	WP_010947759.1	peptidoglycan-associated lipoprotein Pal
+GCF_000048645.1	PF00691	OmpA family	5	8	0.1	WP_011213089.1	type IVB secretion system protein IcmN/DotK
+GCF_000048645.1	PF00691	OmpA family	5	8	0.1	WP_011213243.1	C-OmpA-like family protein CmpA
+GCF_000048645.1	PF00691	OmpA family	5	8	0.1	WP_014844994.1	OmpA family protein
+GCF_000048645.1	PF00691	OmpA family	5	8	0.1	WP_015961420.1	flagellar motor protein MotB
+GCF_000048645.1	PF00691	OmpA family	5	8	0.1	WP_029345193.1	flagellar motor protein MotD
+GCF_000048645.1	PF00692	dUTPase	1	1	0.5	WP_010948641.1	dCTP deaminase
+GCF_000048645.1	PF00692	dUTPase	1	1	0.5	WP_014844633.1	dUTP diphosphatase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_011212925.1	HAD-IC family P-type ATPase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_011213483.1	HAD family hydrolase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_011213907.1	copper-translocating P-type ATPase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_015961483.1	copper-translocating P-type ATPase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_015961496.1	cadmium-translocating P-type ATPase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_015961566.1	cation-transporting P-type ATPase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_015961756.1	heavy metal translocating P-type ATPase
+GCF_000048645.1	PF00702	haloacid dehalogenase-like hydrolase	5	4	0.5	WP_021436953.1	HAD-IC family P-type ATPase
+GCF_000048645.1	PF00704	Glycosyl hydrolases family 18	0	2	0.3	WP_011213473.1	glycosyl hydrolase family 18 protein
+GCF_000048645.1	PF00704	Glycosyl hydrolases family 18	0	2	0.3	WP_015961350.1	chitinase
+GCF_000048645.1	PF00708	Acylphosphatase	1	1	0.7	WP_011214133.1	acylphosphatase
+GCF_000048645.1	PF00708	Acylphosphatase	1	1	0.7	WP_015961638.1	carbamoyltransferase HypF
+GCF_000048645.1	PF00717	Peptidase S24-like	2	2	0.7	WP_010946963.1	translesion error-prone DNA polymerase V autoproteolytic subunit
+GCF_000048645.1	PF00717	Peptidase S24-like	2	2	0.7	WP_011212822.1	LexA family transcriptional regulator
+GCF_000048645.1	PF00717	Peptidase S24-like	2	2	0.7	WP_011946663.1	translesion error-prone DNA polymerase V autoproteolytic subunit
+GCF_000048645.1	PF00717	Peptidase S24-like	2	2	0.7	WP_015961501.1	LexA family transcriptional regulator
+GCF_000048645.1	PF00717	Peptidase S24-like	2	2	0.7	WP_025519205.1	helix-turn-helix domain-containing protein
+GCF_000048645.1	PF00723	Glycosyl hydrolases family 15	0	1	0.1	WP_080019905.1	Dot/Icm T4SS effector LegY
+GCF_000048645.1	PF00725	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain	3	3	0.0	WP_011213651.1	3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein
+GCF_000048645.1	PF00725	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain	3	3	0.0	WP_011213871.1	3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+GCF_000048645.1	PF00725	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain	3	3	0.0	WP_011214196.1	3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+GCF_000048645.1	PF00743	Flavin-binding monooxygenase-like	0	1	0.3	WP_011213326.1	NAD(P)-binding domain-containing protein
+GCF_000048645.1	PF00771	FHIPEP family	1	1	0.1	WP_011214046.1	flagellar biosynthesis protein FlhA
+GCF_000048645.1	PF00781	Diacylglycerol kinase catalytic domain	1	2	0.1	WP_011214206.1	NAD(+)/NADH kinase
+GCF_000048645.1	PF00781	Diacylglycerol kinase catalytic domain	1	2	0.1	WP_015961436.1	diacylglycerol kinase family lipid kinase
+GCF_000048645.1	PF00793	DAHP synthetase I family	2	1	0.1	WP_010946916.1	3-deoxy-8-phosphooctulonate synthase
+GCF_000048645.1	PF00793	DAHP synthetase I family	2	1	0.1	WP_014842559.1	3-deoxy-7-phosphoheptulonate synthase
+GCF_000048645.1	PF00797	N-acetyltransferase	0	1	0.5	WP_014844604.1	arylamine N-acetyltransferase
+GCF_000048645.1	PF00817	impB/mucB/samB family	2	1	0.7	WP_011213175.1	DNA polymerase IV
+GCF_000048645.1	PF00817	impB/mucB/samB family	2	1	0.7	WP_011213400.1	Y-family DNA polymerase
+GCF_000048645.1	PF00817	impB/mucB/samB family	2	1	0.7	WP_011213974.1	Y-family DNA polymerase
+GCF_000048645.1	PF00848	Ring hydroxylating alpha subunit (catalytic domain)	0	1	0.1	WP_014842203.1	Rieske 2Fe-2S domain-containing protein
+GCF_000048645.1	PF00854	POT family	0	1	0.7	WP_010946483.1	peptide MFS transporter
+GCF_000048645.1	PF00854	POT family	0	1	0.7	WP_011212462.1	oligopeptide:H+ symporter
+GCF_000048645.1	PF00854	POT family	0	1	0.7	WP_011213674.1	peptide MFS transporter
+GCF_000048645.1	PF00854	POT family	0	1	0.7	WP_013101716.1	oligopeptide:H+ symporter
+GCF_000048645.1	PF00854	POT family	0	1	0.7	WP_015961814.1	oligopeptide:H+ symporter
+GCF_000048645.1	PF00854	POT family	0	1	0.7	WP_025519584.1	oligopeptide:H+ symporter
+GCF_000048645.1	PF00856	SET domain	0	0	0.7	WP_080020151.1	Dot/Icm T4SS effector AnkI/LegAS4
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_010946457.1	efflux RND transporter permease subunit
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_011212719.1	efflux RND transporter permease subunit
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_014844375.1	multidrug efflux RND transporter permease subunit
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_015961288.1	efflux RND transporter permease subunit
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_015961478.1	efflux RND transporter permease subunit
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_015961488.1	CusA/CzcA family heavy metal efflux RND transporter
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_015961497.1	efflux RND transporter permease subunit
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_015961659.1	multidrug efflux RND transporter permease subunit
+GCF_000048645.1	PF00873	AcrB/AcrD/AcrF family	5	9	0.5	WP_015961836.1	multidrug efflux RND transporter permease subunit LpeB
+GCF_000048645.1	PF00883	Cytosol aminopeptidase family, catalytic domain	1	1	0.5	WP_015961715.1	leucyl aminopeptidase
+GCF_000048645.1	PF00883	Cytosol aminopeptidase family, catalytic domain	1	1	0.5	WP_015961717.1	leucyl aminopeptidase family protein
+GCF_000048645.1	PF00891	O-methyltransferase domain	0	1	0.7	WP_011214190.1	FkbM family methyltransferase
+GCF_000048645.1	PF00891	O-methyltransferase domain	0	1	0.7	WP_015961311.1	methyltransferase
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_010946651.1	penicillin-binding protein 2
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_011212531.1	M56 family metallopeptidase
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_011212532.1	class D beta-lactamase
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_011213351.1	penicillin-binding protein 1A
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_011213670.1	penicillin-binding protein 2
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_011213899.1	class D beta-lactamase
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_011213900.1	M56 family metallopeptidase
+GCF_000048645.1	PF00905	Penicillin binding protein transpeptidase domain	5	3	0.7	WP_027229311.1	penicillin-binding protein 1C
+GCF_000048645.1	PF00916	Sulfate permease family	2	2	0.7	WP_010946434.1	bifunctional SulP family inorganic anion transporter/carbonic anhydrase
+GCF_000048645.1	PF00916	Sulfate permease family	2	2	0.7	WP_010946538.1	sulfate permease
+GCF_000048645.1	PF00916	Sulfate permease family	2	2	0.7	WP_015443859.1	cyclic nucleotide-binding domain-containing protein
+GCF_000048645.1	PF00916	Sulfate permease family	2	2	0.7	WP_015961342.1	SulP family inorganic anion transporter
+GCF_000048645.1	PF00925	GTP cyclohydrolase II	1	1	0.5	WP_011213536.1	bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II
+GCF_000048645.1	PF00925	GTP cyclohydrolase II	1	1	0.5	WP_015961370.1	GTP cyclohydrolase II
+GCF_000048645.1	PF00962	Adenosine deaminase	1	1	0.7	WP_011213126.1	adenosine deaminase
+GCF_000048645.1	PF00962	Adenosine deaminase	1	1	0.7	WP_011213190.1	adenosine deaminase
+GCF_000048645.1	PF00970	Oxidoreductase FAD-binding domain	2	4	0.3	WP_011213109.1	ferredoxin--NADP reductase
+GCF_000048645.1	PF00970	Oxidoreductase FAD-binding domain	2	4	0.3	WP_015961464.1	FAD-binding oxidoreductase
+GCF_000048645.1	PF00970	Oxidoreductase FAD-binding domain	2	4	0.3	WP_015961634.1	FAD/NAD(P)-binding protein
+GCF_000048645.1	PF00970	Oxidoreductase FAD-binding domain	2	4	0.3	WP_015961669.1	FAD-binding oxidoreductase
+GCF_000048645.1	PF00975	Thioesterase domain	0	2	0.3	WP_010946566.1	thioesterase domain-containing protein
+GCF_000048645.1	PF00975	Thioesterase domain	0	2	0.3	WP_015961340.1	amino acid adenylation domain-containing protein
+GCF_000048645.1	PF00977	Histidine biosynthesis protein	2	0	0.7	WP_011213307.1	glycosyl amidation-associated protein WbuZ
+GCF_000048645.1	PF00977	Histidine biosynthesis protein	2	0	0.7	WP_011213547.1	imidazole glycerol phosphate synthase subunit HisF
+GCF_000048645.1	PF00977	Histidine biosynthesis protein	2	0	0.7	WP_011213548.1	1-(5-phosphoribosyl)-5-
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_010946481.1	GGDEF domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_010946565.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_010946626.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_011212729.1	bifunctional diguanylate cyclase/phosphodiesterase
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_011212847.1	diguanylate cyclase
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_011212975.1	diguanylate cyclase, partial
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_011213032.1	GGDEF domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_011213337.1	diguanylate cyclase
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_011213656.1	bifunctional diguanylate cyclase/phosphodiesterase
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_014843694.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_014843705.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_015961286.1	sensor domain-containing diguanylate cyclase
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_015961482.1	GGDEF domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_015961589.1	GGDEF domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_015961723.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_015961732.1	GGDEF domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_021436936.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_224750839.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_229309960.1	EAL domain-containing protein
+GCF_000048645.1	PF00990	Diguanylate cyclase, GGDEF domain	10	21	0.3	WP_230304935.1	sensor domain-containing diguanylate cyclase
+GCF_000048645.1	PF00999	Sodium/hydrogen exchanger family	4	3	0.0	WP_010946542.1	cation:proton antiporter
+GCF_000048645.1	PF00999	Sodium/hydrogen exchanger family	4	3	0.0	WP_011213215.1	cation:proton antiporter
+GCF_000048645.1	PF00999	Sodium/hydrogen exchanger family	4	3	0.0	WP_011213789.1	cation:proton antiporter
+GCF_000048645.1	PF00999	Sodium/hydrogen exchanger family	4	3	0.0	WP_011214146.1	monovalent cation:proton antiporter-2 (CPA2) family protein
+GCF_000048645.1	PF01027	Inhibitor of apoptosis-promoting Bax1	1	1	0.1	WP_010946684.1	Bax inhibitor-1/YccA family protein
+GCF_000048645.1	PF01039	Carboxyl transferase domain	3	3	0.5	WP_011213641.1	acetyl-CoA carboxylase, carboxyltransferase subunit beta
+GCF_000048645.1	PF01039	Carboxyl transferase domain	3	3	0.5	WP_011214082.1	methylcrotonoyl-CoA carboxylase
+GCF_000048645.1	PF01039	Carboxyl transferase domain	3	3	0.5	WP_014844415.1	acetyl-CoA carboxylase subunit alpha
+GCF_000048645.1	PF01039	Carboxyl transferase domain	3	3	0.5	WP_015961604.1	biotin-independent malonate decarboxylase subunit beta
+GCF_000048645.1	PF01050	Mannose-6-phosphate isomerase	1	1	0.1	WP_015961882.1	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+GCF_000048645.1	PF01051	Initiator Replication protein	0	0	0.7	WP_021436873.1	replication initiation protein
+GCF_000048645.1	PF01058	NADH ubiquinone oxidoreductase, 20 Kd subunit	1	2	0.5	WP_010948477.1	NADH-quinone oxidoreductase subunit B
+GCF_000048645.1	PF01058	NADH ubiquinone oxidoreductase, 20 Kd subunit	1	2	0.5	WP_015961633.1	sulfhydrogenase subunit delta
+GCF_000048645.1	PF01062	Bestrophin, RFP-TM, chloride channel	0	0	0.7	WP_011212686.1	hypothetical protein
+GCF_000048645.1	PF01066	CDP-alcohol phosphatidyltransferase	3	2	0.7	WP_011212759.1	CDP-alcohol phosphatidyltransferase family protein
+GCF_000048645.1	PF01066	CDP-alcohol phosphatidyltransferase	3	2	0.7	WP_011213110.1	CDP-diacylglycerol--serine O-phosphatidyltransferase
+GCF_000048645.1	PF01066	CDP-alcohol phosphatidyltransferase	3	2	0.7	WP_011213862.1	CDP-alcohol phosphatidyltransferase family protein
+GCF_000048645.1	PF01066	CDP-alcohol phosphatidyltransferase	3	2	0.7	WP_011216642.1	CDP-alcohol phosphatidyltransferase family protein
+GCF_000048645.1	PF01066	CDP-alcohol phosphatidyltransferase	3	2	0.7	WP_011947145.1	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GCF_000048645.1	PF01073	3-beta hydroxysteroid dehydrogenase/isomerase family	0	0	0.7	WP_011213911.1	NAD-dependent epimerase/dehydratase family protein
+GCF_000048645.1	PF01081	KDPG and KHG aldolase	1	2	0.7	WP_011213068.1	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+GCF_000048645.1	PF01081	KDPG and KHG aldolase	1	2	0.7	WP_011213364.1	multidrug DMT transporter permease
+GCF_000048645.1	PF01103	Omp85 superfamily domain	2	2	0.1	WP_011213135.1	outer membrane protein assembly factor BamA
+GCF_000048645.1	PF01103	Omp85 superfamily domain	2	2	0.1	WP_011214064.1	BamA/TamA family outer membrane protein
+GCF_000048645.1	PF01124	MAPEG family	0	1	0.7	WP_011214240.1	MAPEG family protein
+GCF_000048645.1	PF01124	MAPEG family	0	1	0.7	WP_015961367.1	MAPEG family protein
+GCF_000048645.1	PF01126	Heme oxygenase	0	1	0.7	WP_011212914.1	biliverdin-producing heme oxygenase
+GCF_000048645.1	PF01139	tRNA-splicing ligase RtcB	0	1	0.3	WP_014844390.1	RtcB family protein
+GCF_000048645.1	PF01142	tRNA pseudouridine synthase D (TruD)	0	1	0.7	WP_011213904.1	tRNA pseudouridine(13) synthase TruD
+GCF_000048645.1	PF01145	SPFH domain / Band 7 family	3	2	0.7	WP_011213115.1	FtsH protease activity modulator HflK
+GCF_000048645.1	PF01145	SPFH domain / Band 7 family	3	2	0.7	WP_011213116.1	protease modulator HflC
+GCF_000048645.1	PF01145	SPFH domain / Band 7 family	3	2	0.7	WP_011947858.1	slipin family protein
+GCF_000048645.1	PF01145	SPFH domain / Band 7 family	3	2	0.7	WP_021436865.1	hypothetical protein
+GCF_000048645.1	PF01145	SPFH domain / Band 7 family	3	2	0.7	WP_229309943.1	hypothetical protein
+GCF_000048645.1	PF01150	GDA1/CD39 (nucleoside phosphatase) family	0	0	0.7	WP_011213394.1	multidrug DMT transporter permease
+GCF_000048645.1	PF01150	GDA1/CD39 (nucleoside phosphatase) family	0	0	0.7	WP_011214158.1	multidrug DMT transporter permease
+GCF_000048645.1	PF01152	Bacterial-like globin	1	1	0.0	WP_015961668.1	group 1 truncated hemoglobin
+GCF_000048645.1	PF01156	Inosine-uridine preferring nucleoside hydrolase	1	1	0.1	WP_011212837.1	nucleoside hydrolase
+GCF_000048645.1	PF01161	Phosphatidylethanolamine-binding protein	0	1	0.7	WP_011213736.1	YbhB/YbcL family Raf kinase inhibitor-like protein
+GCF_000048645.1	PF01161	Phosphatidylethanolamine-binding protein	0	1	0.7	WP_014844397.1	YbhB/YbcL family Raf kinase inhibitor-like protein
+GCF_000048645.1	PF01169	Uncharacterized protein family UPF0016	0	1	0.5	WP_010947367.1	TMEM165/GDT1 family protein
+GCF_000048645.1	PF01171	PP-loop family	1	1	0.5	WP_011213280.1	tRNA 2-thiocytidine(32) synthetase TtcA
+GCF_000048645.1	PF01171	PP-loop family	1	1	0.5	WP_011213315.1	tRNA lysidine(34) synthetase TilS
+GCF_000048645.1	PF01175	Urocanase Rossmann-like domain	1	1	0.3	WP_011213675.1	urocanate hydratase
+GCF_000048645.1	PF01177	Asp/Glu/Hydantoin racemase	2	1	0.1	WP_011214235.1	aspartate/glutamate racemase family protein
+GCF_000048645.1	PF01177	Asp/Glu/Hydantoin racemase	2	1	0.1	WP_015961416.1	glutamate racemase
+GCF_000048645.1	PF01179	Copper amine oxidase, enzyme domain	0	0	0.7	WP_015443894.1	primary-amine oxidase
+GCF_000048645.1	PF01202	Shikimate kinase	1	1	0.5	WP_011212567.1	LuxR C-terminal-related transcriptional regulator
+GCF_000048645.1	PF01202	Shikimate kinase	1	1	0.5	WP_027219629.1	shikimate kinase AroK
+GCF_000048645.1	PF01204	Trehalase	0	0	0.7	WP_011214126.1	alpha,alpha-trehalase
+GCF_000048645.1	PF01207	Dihydrouridine synthase (Dus)	1	1	0.7	WP_011213734.1	lpg1449 family Dot/Icm T4SS effector
+GCF_000048645.1	PF01207	Dihydrouridine synthase (Dus)	1	1	0.7	WP_011213748.1	tRNA dihydrouridine(20/20a) synthase DusA
+GCF_000048645.1	PF01207	Dihydrouridine synthase (Dus)	1	1	0.7	WP_015961860.1	tRNA-dihydrouridine synthase family protein
+GCF_000048645.1	PF01218	Coproporphyrinogen III oxidase	1	1	0.3	WP_011213573.1	oxygen-dependent coproporphyrinogen oxidase
+GCF_000048645.1	PF01225	Mur ligase family, catalytic domain	3	1	0.5	WP_010946652.1	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+GCF_000048645.1	PF01225	Mur ligase family, catalytic domain	3	1	0.5	WP_011214018.1	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+GCF_000048645.1	PF01225	Mur ligase family, catalytic domain	3	1	0.5	WP_011947533.1	UDP-N-acetylmuramate--L-alanine ligase
+GCF_000048645.1	PF01225	Mur ligase family, catalytic domain	3	1	0.5	WP_013101894.1	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GCF_000048645.1	PF01243	Pyridoxamine 5'-phosphate oxidase	2	2	0.1	WP_010946283.1	pyridoxamine 5'-phosphate oxidase
+GCF_000048645.1	PF01243	Pyridoxamine 5'-phosphate oxidase	2	2	0.1	WP_011212539.1	pyridoxamine 5'-phosphate oxidase family protein
+GCF_000048645.1	PF01243	Pyridoxamine 5'-phosphate oxidase	2	2	0.1	WP_015961293.1	pyridoxamine 5'-phosphate oxidase family protein
+GCF_000048645.1	PF01262	Alanine dehydrogenase/PNT, C-terminal domain	2	1	0.1	WP_010946612.1	Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+GCF_000048645.1	PF01262	Alanine dehydrogenase/PNT, C-terminal domain	2	1	0.1	WP_011213350.1	alanine dehydrogenase
+GCF_000048645.1	PF01292	Prokaryotic cytochrome b561	1	3	0.1	WP_011213858.1	cytochrome b
+GCF_000048645.1	PF01292	Prokaryotic cytochrome b561	1	3	0.1	WP_011213926.1	cytochrome b
+GCF_000048645.1	PF01300	Telomere recombination	2	1	0.7	WP_011213728.1	threonylcarbamoyl-AMP synthase
+GCF_000048645.1	PF01300	Telomere recombination	2	1	0.7	WP_014845002.1	threonylcarbamoyl-AMP synthase
+GCF_000048645.1	PF01300	Telomere recombination	2	1	0.7	WP_015961638.1	carbamoyltransferase HypF
+GCF_000048645.1	PF01312	FlhB HrpN YscU SpaS Family	1	2	0.7	WP_011214047.1	flagellar biosynthesis protein FlhB
+GCF_000048645.1	PF01312	FlhB HrpN YscU SpaS Family	1	2	0.7	WP_011947507.1	EscU/YscU/HrcU family type III secretion system export apparatus switch protein
+GCF_000048645.1	PF01323	DSBA-like thioredoxin domain	2	2	0.0	WP_010947567.1	DsbA family protein
+GCF_000048645.1	PF01323	DSBA-like thioredoxin domain	2	2	0.0	WP_011212772.1	thiol:disulfide interchange protein DsbA/DsbL
+GCF_000048645.1	PF01327	Polypeptide deformylase	2	1	0.7	WP_010948295.1	peptide deformylase
+GCF_000048645.1	PF01327	Polypeptide deformylase	2	1	0.7	WP_011213442.1	peptide deformylase
+GCF_000048645.1	PF01327	Polypeptide deformylase	2	1	0.7	WP_025519333.1	peptide deformylase
+GCF_000048645.1	PF01336	OB-fold nucleic acid binding domain	3	1	0.3	WP_011213386.1	DNA polymerase III subunit alpha
+GCF_000048645.1	PF01336	OB-fold nucleic acid binding domain	3	1	0.3	WP_011213761.1	aspartate--tRNA ligase
+GCF_000048645.1	PF01336	OB-fold nucleic acid binding domain	3	1	0.3	WP_011214040.1	lysine--tRNA ligase
+GCF_000048645.1	PF01336	OB-fold nucleic acid binding domain	3	1	0.3	WP_015961403.1	asparagine--tRNA ligase
+GCF_000048645.1	PF01343	Peptidase family S49	1	2	0.7	WP_011214014.1	S49 family peptidase
+GCF_000048645.1	PF01343	Peptidase family S49	1	2	0.7	WP_015444709.1	protease SohB
+GCF_000048645.1	PF01346	Domain amino terminal to FKBP-type peptidyl-prolyl isomerase	0	1	0.3	WP_011213317.1	macrophage infectivity potentiator Mip
+GCF_000048645.1	PF01369	Sec7 domain	0	0	0.7	WP_011214205.1	T4SS guanine nucleotide exchange effector RalF
+GCF_000048645.1	PF01382	Avidin family	0	0	0.7	WP_015961614.1	hypothetical protein
+GCF_000048645.1	PF01384	Phosphate transporter family	1	1	0.7	WP_011212671.1	inorganic phosphate transporter
+GCF_000048645.1	PF01384	Phosphate transporter family	1	1	0.7	WP_011213192.1	inorganic phosphate transporter
+GCF_000048645.1	PF01391	Collagen triple helix repeat (20 copies)	0	0	0.7	WP_015961725.1	DUF1566 domain-containing protein
+GCF_000048645.1	PF01396	Topoisomerase DNA binding C4 zinc finger	1	1	0.1	WP_011947523.1	type I DNA topoisomerase
+GCF_000048645.1	PF01400	Astacin (Peptidase family M12A)	0	0	0.7	WP_015443857.1	Dot/Icm T4SS effector LegP
+GCF_000048645.1	PF01427	D-ala-D-ala dipeptidase	0	1	0.7	WP_014844602.1	D-alanyl-D-alanine dipeptidase
+GCF_000048645.1	PF01427	D-ala-D-ala dipeptidase	0	1	0.7	WP_015961693.1	M15 family metallopeptidase
+GCF_000048645.1	PF01430	Hsp33 protein	1	1	0.1	WP_015961829.1	Hsp33 family molecular chaperone HslO
+GCF_000048645.1	PF01431	Peptidase family M13	0	1	0.5	WP_015961705.1	M13 family metallopeptidase
+GCF_000048645.1	PF01433	Peptidase family M1 domain	1	2	0.1	WP_011213780.1	aminopeptidase N
+GCF_000048645.1	PF01433	Peptidase family M1 domain	1	2	0.1	WP_027229451.1	aminopeptidase N
+GCF_000048645.1	PF01443	Viral (Superfamily 1) RNA helicase	0	0	0.7	WP_011212814.1	Ti-type conjugative transfer relaxase TraA
+GCF_000048645.1	PF01447	Thermolysin metallopeptidase, catalytic domain	0	1	0.7	WP_011212664.1	M4 family metallopeptidase
+GCF_000048645.1	PF01447	Thermolysin metallopeptidase, catalytic domain	0	1	0.7	WP_011213105.1	M4 family metallopeptidase
+GCF_000048645.1	PF01447	Thermolysin metallopeptidase, catalytic domain	0	1	0.7	WP_011213935.1	M4 family metallopeptidase
+GCF_000048645.1	PF01447	Thermolysin metallopeptidase, catalytic domain	0	1	0.7	WP_015443868.1	M4 family metallopeptidase
+GCF_000048645.1	PF01474	Class-II DAHP synthetase family	0	1	0.5	WP_011214273.1	3-deoxy-7-phosphoheptulonate synthase
+GCF_000048645.1	PF01476	LysM domain	4	3	0.1	WP_011213479.1	transglycosylase SLT domain-containing protein
+GCF_000048645.1	PF01476	LysM domain	4	3	0.1	WP_011213595.1	peptidoglycan DD-metalloendopeptidase family protein
+GCF_000048645.1	PF01476	LysM domain	4	3	0.1	WP_011213606.1	LysM peptidoglycan-binding domain-containing protein
+GCF_000048645.1	PF01476	LysM domain	4	3	0.1	WP_015961699.1	LysM peptidoglycan-binding domain-containing protein
+GCF_000048645.1	PF01476	LysM domain	4	3	0.1	WP_015961762.1	N-acetylmuramoyl-L-alanine amidase
+GCF_000048645.1	PF01488	Shikimate / quinate 5-dehydrogenase	2	1	0.3	WP_015444133.1	glutamyl-tRNA reductase
+GCF_000048645.1	PF01488	Shikimate / quinate 5-dehydrogenase	2	1	0.3	WP_015961817.1	shikimate dehydrogenase
+GCF_000048645.1	PF01521	Iron-sulphur cluster biosynthesis	2	1	0.1	WP_011213683.1	iron-sulfur cluster insertion protein ErpA
+GCF_000048645.1	PF01521	Iron-sulphur cluster biosynthesis	2	1	0.1	WP_011214010.1	iron-sulfur cluster assembly accessory protein
+GCF_000048645.1	PF01522	Polysaccharide deacetylase	3	4	0.1	WP_011212533.1	alpha/beta fold hydrolase
+GCF_000048645.1	PF01522	Polysaccharide deacetylase	3	4	0.1	WP_011213225.1	polysaccharide deacetylase family protein
+GCF_000048645.1	PF01522	Polysaccharide deacetylase	3	4	0.1	WP_011213918.1	polysaccharide deacetylase family protein
+GCF_000048645.1	PF01522	Polysaccharide deacetylase	3	4	0.1	WP_011214244.1	polysaccharide deacetylase family protein
+GCF_000048645.1	PF01541	GIY-YIG catalytic domain	2	2	0.7	WP_010946556.1	GIY-YIG nuclease family protein
+GCF_000048645.1	PF01541	GIY-YIG catalytic domain	2	2	0.7	WP_011212955.1	GIY-YIG nuclease family protein
+GCF_000048645.1	PF01541	GIY-YIG catalytic domain	2	2	0.7	WP_011213305.1	GIY-YIG nuclease family protein
+GCF_000048645.1	PF01541	GIY-YIG catalytic domain	2	2	0.7	WP_011213498.1	GIY-YIG nuclease family protein
+GCF_000048645.1	PF01541	GIY-YIG catalytic domain	2	2	0.7	WP_013101666.1	GIY-YIG nuclease family protein
+GCF_000048645.1	PF01541	GIY-YIG catalytic domain	2	2	0.7	WP_015961726.1	excinuclease ABC subunit UvrC
+GCF_000048645.1	PF01544	CorA-like Mg2+ transporter protein	1	1	0.1	WP_015961874.1	magnesium/cobalt transporter CorA
+GCF_000048645.1	PF01544	CorA-like Mg2+ transporter protein	1	1	0.1	WP_027229335.1	magnesium transporter CorA family protein
+GCF_000048645.1	PF01545	Cation efflux family	3	2	0.0	WP_011214281.1	cation diffusion facilitator family transporter
+GCF_000048645.1	PF01545	Cation efflux family	3	2	0.0	WP_015961264.1	cation diffusion facilitator family transporter
+GCF_000048645.1	PF01545	Cation efflux family	3	2	0.0	WP_015961785.1	cation diffusion facilitator family transporter
+GCF_000048645.1	PF01551	Peptidase family M23	5	3	0.0	WP_011213128.1	peptidoglycan DD-metalloendopeptidase family protein
+GCF_000048645.1	PF01551	Peptidase family M23	5	3	0.0	WP_011213186.1	peptidoglycan DD-metalloendopeptidase family protein
+GCF_000048645.1	PF01551	Peptidase family M23	5	3	0.0	WP_011213325.1	M23 family metallopeptidase
+GCF_000048645.1	PF01551	Peptidase family M23	5	3	0.0	WP_011213595.1	peptidoglycan DD-metalloendopeptidase family protein
+GCF_000048645.1	PF01551	Peptidase family M23	5	3	0.0	WP_015961576.1	peptidoglycan DD-metalloendopeptidase family protein
+GCF_000048645.1	PF01556	DnaJ C terminal domain	2	1	0.1	WP_010947740.1	molecular chaperone DnaJ
+GCF_000048645.1	PF01556	DnaJ C terminal domain	2	1	0.1	WP_015961388.1	DnaJ domain-containing protein
+GCF_000048645.1	PF01578	Cytochrome C assembly protein	2	2	0.0	WP_010946597.1	heme lyase CcmF/NrfE family subunit
+GCF_000048645.1	PF01578	Cytochrome C assembly protein	2	2	0.0	WP_011213329.1	heme ABC transporter permease CcmC
+GCF_000048645.1	PF01588	Putative tRNA binding domain	2	2	0.7	WP_015961681.1	tRNA-binding protein
+GCF_000048645.1	PF01588	Putative tRNA binding domain	2	2	0.7	WP_015961767.1	phenylalanine--tRNA ligase subunit beta
+GCF_000048645.1	PF01588	Putative tRNA binding domain	2	2	0.7	WP_015961878.1	methionine--tRNA ligase
+GCF_000048645.1	PF01592	NifU-like N terminal domain	1	0	0.7	WP_010946342.1	SUF system NifU family Fe-S cluster assembly protein
+GCF_000048645.1	PF01592	NifU-like N terminal domain	1	0	0.7	WP_011214011.1	iron-sulfur cluster assembly scaffold protein
+GCF_000048645.1	PF01596	O-methyltransferase	1	1	0.1	WP_015961400.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_010946555.1	IS4-like element ISLpn9 family transposase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_011212682.1	IS4-like element ISLpn9 family transposase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_011212725.1	IS5-like element ISLpn10 family transposase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_011212763.1	IS4-like element ISLpn1 family transposase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_011214132.1	IS4-like element ISLpn9 family transposase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_015961266.1	IS5 family transposase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_015961270.1	transposase
+GCF_000048645.1	PF01609	Transposase DDE domain	1	3	0.7	WP_224750853.1	IS5 family transposase
+GCF_000048645.1	PF01610	Transposase	0	1	0.7	WP_011212943.1	fatty acid desaturase
+GCF_000048645.1	PF01610	Transposase	0	1	0.7	WP_011213179.1	fatty acid desaturase
+GCF_000048645.1	PF01610	Transposase	0	1	0.7	WP_011213396.1	ISL3-like element ISLpn11 family transposase
+GCF_000048645.1	PF01610	Transposase	0	1	0.7	WP_011213879.1	ISL3 family transposase
+GCF_000048645.1	PF01625	Peptide methionine sulfoxide reductase	1	1	0.3	WP_011212758.1	peptide-methionine (S)-S-oxide reductase MsrA
+GCF_000048645.1	PF01625	Peptide methionine sulfoxide reductase	1	1	0.3	WP_015443897.1	bifunctional methionine sulfoxide reductase B/A protein
+GCF_000048645.1	PF01633	Choline/ethanolamine kinase	0	0	0.7	WP_025519551.1	phosphotransferase family protein
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011212556.1	phosphotransferase
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011212562.1	phosphotransferase
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011212568.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011212586.1	phosphotransferase
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011212997.1	phosphotransferase
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011213152.1	phosphotransferase
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011213459.1	phosphotransferase
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011213774.1	aminoglycoside O-phosphotransferase APH(9)-Ia
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_011213890.1	aminoglycoside phosphotransferase family protein
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_050584012.1	aminoglycoside phosphotransferase family protein
+GCF_000048645.1	PF01636	Phosphotransferase enzyme family	4	5	0.7	WP_231850816.1	phosphotransferase
+GCF_000048645.1	PF01641	SelR domain	1	1	0.5	WP_011213460.1	peptide-methionine (R)-S-oxide reductase MsrB
+GCF_000048645.1	PF01641	SelR domain	1	1	0.5	WP_015443897.1	bifunctional methionine sulfoxide reductase B/A protein
+GCF_000048645.1	PF01654	Cytochrome bd terminal oxidase subunit I	1	1	0.7	WP_011212886.1	cytochrome ubiquinol oxidase subunit I
+GCF_000048645.1	PF01654	Cytochrome bd terminal oxidase subunit I	1	1	0.7	WP_011213555.1	cytochrome ubiquinol oxidase subunit I
+GCF_000048645.1	PF01676	Metalloenzyme superfamily	1	2	0.5	WP_011213129.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GCF_000048645.1	PF01676	Metalloenzyme superfamily	1	2	0.5	WP_011213229.1	phosphopentomutase
+GCF_000048645.1	PF01702	Queuine tRNA-ribosyltransferase	1	0	0.7	WP_011214251.1	queuine tRNA-ribosyltransferase
+GCF_000048645.1	PF01702	Queuine tRNA-ribosyltransferase	1	0	0.7	WP_015961779.1	tRNA guanosine(34) transglycosylase Tgt
+GCF_000048645.1	PF01713	Smr domain	1	0	0.7	WP_015961411.1	Smr/MutS family protein
+GCF_000048645.1	PF01713	Smr domain	1	0	0.7	WP_015961414.1	Smr/MutS family protein
+GCF_000048645.1	PF01722	BolA-like protein	0	2	0.5	WP_010946582.1	BolA/IbaG family iron-sulfur metabolism protein
+GCF_000048645.1	PF01722	BolA-like protein	0	2	0.5	WP_011214169.1	BolA/IbaG family iron-sulfur metabolism protein
+GCF_000048645.1	PF01728	FtsJ-like methyltransferase	1	1	0.7	WP_010946345.1	SAM-dependent methyltransferase
+GCF_000048645.1	PF01728	FtsJ-like methyltransferase	1	1	0.7	WP_015443939.1	23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_011212991.1	patatin-like phospholipase family protein
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_011213256.1	patatin-like phospholipase family protein
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_011213376.1	patatin-like phospholipase RssA
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_011213585.1	patatin-like phospholipase family protein
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_015961419.1	patatin-like phospholipase family protein
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_015961591.1	Dot/Icm type IV secretion system effector VdpA
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_015961816.1	patatin-like phospholipase family protein
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_021436804.1	patatin-like phospholipase family protein
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_025519750.1	patatin-like phospholipase family protein
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_025520099.1	Dot/Icm type IV secretion system effector VipD
+GCF_000048645.1	PF01734	Patatin-like phospholipase	2	3	0.7	WP_080019951.1	Dot/Icm T4SS effector VpdC
+GCF_000048645.1	PF01743	Poly A polymerase head domain	1	1	0.7	WP_011213819.1	polynucleotide adenylyltransferase PcnB
+GCF_000048645.1	PF01743	Poly A polymerase head domain	1	1	0.7	WP_014844821.1	multifunctional CCA addition/repair protein
+GCF_000048645.1	PF01757	Acyltransferase family	3	4	0.1	WP_010946514.1	acyltransferase
+GCF_000048645.1	PF01757	Acyltransferase family	3	4	0.1	WP_010946519.1	acyltransferase family protein
+GCF_000048645.1	PF01757	Acyltransferase family	3	4	0.1	WP_015961702.1	acyltransferase family protein
+GCF_000048645.1	PF01757	Acyltransferase family	3	4	0.1	WP_015961809.1	acyltransferase family protein
+GCF_000048645.1	PF01835	MG2 domain	0	1	0.5	WP_011213944.1	alpha-2-macroglobulin
+GCF_000048645.1	PF01855	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg	0	1	0.3	WP_011213372.1	2-oxoacid:acceptor oxidoreductase subunit alpha
+GCF_000048645.1	PF01863	Protein of unknown function DUF45	1	1	0.7	WP_011213046.1	M48 family metallopeptidase
+GCF_000048645.1	PF01863	Protein of unknown function DUF45	1	1	0.7	WP_021437110.1	DUF45 domain-containing protein
+GCF_000048645.1	PF01871	AMMECR1	0	0	0.7	WP_011213525.1	AmmeMemoRadiSam system protein B
+GCF_000048645.1	PF01872	RibD C-terminal domain	2	2	0.1	WP_011212536.1	methyltransferase domain-containing protein
+GCF_000048645.1	PF01872	RibD C-terminal domain	2	2	0.1	WP_011213534.1	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+GCF_000048645.1	PF01872	RibD C-terminal domain	2	2	0.1	WP_011214239.1	dihydrofolate reductase family protein
+GCF_000048645.1	PF01875	Memo-like protein	0	0	0.7	WP_011213525.1	AmmeMemoRadiSam system protein B
+GCF_000048645.1	PF01878	EVE domain	1	1	0.3	WP_011212559.1	EVE domain-containing protein
+GCF_000048645.1	PF01894	Uncharacterised protein family UPF0047	1	1	0.7	WP_011212852.1	secondary thiamine-phosphate synthase enzyme YjbQ
+GCF_000048645.1	PF01894	Uncharacterised protein family UPF0047	1	1	0.7	WP_014844399.1	secondary thiamine-phosphate synthase enzyme YjbQ
+GCF_000048645.1	PF01906	Putative heavy-metal-binding	0	1	0.3	WP_011212882.1	YbjQ family protein
+GCF_000048645.1	PF01909	Nucleotidyltransferase domain	1	2	0.7	WP_010655397.1	nucleotidyltransferase domain-containing protein
+GCF_000048645.1	PF01909	Nucleotidyltransferase domain	1	2	0.7	WP_011212524.1	nucleotidyltransferase domain-containing protein
+GCF_000048645.1	PF01930	Domain of unknown function DUF83	0	0	0.7	WP_011212795.1	CRISPR-associated protein Cas4
+GCF_000048645.1	PF01938	TRAM domain	1	1	0.3	WP_010947064.1	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+GCF_000048645.1	PF01938	TRAM domain	1	1	0.3	WP_011213742.1	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+GCF_000048645.1	PF01951	Archease protein family (MTH1598/TM1083)	0	0	0.7	WP_229309694.1	archease
+GCF_000048645.1	PF01975	Survival protein SurE	1	1	0.0	WP_011213594.1	5'/3'-nucleotidase SurE
+GCF_000048645.1	PF01977	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	1	1	0.3	WP_014844969.1	4-hydroxy-3-polyprenylbenzoate decarboxylase
+GCF_000048645.1	PF01985	CRS1 / YhbY (CRM) domain	0	1	0.5	WP_015961808.1	ribosome assembly RNA-binding protein YhbY
+GCF_000048645.1	PF01988	VIT family	0	1	0.3	WP_011213843.1	VIT1/CCC1 transporter family protein
+GCF_000048645.1	PF02016	LD-carboxypeptidase N-terminal domain	1	1	0.1	WP_011212574.1	LD-carboxypeptidase
+GCF_000048645.1	PF02036	SCP-2 sterol transfer family	1	2	0.1	WP_015961899.1	SCP2 sterol-binding domain-containing protein
+GCF_000048645.1	PF02074	Carboxypeptidase Taq (M32) metallopeptidase	0	1	0.7	WP_011213502.1	carboxypeptidase M32
+GCF_000048645.1	PF02091	Glycyl-tRNA synthetase alpha subunit	1	1	0.1	WP_011214095.1	glycine--tRNA ligase subunit alpha
+GCF_000048645.1	PF02092	Glycyl-tRNA synthetase beta subunit	1	1	0.1	WP_011214094.1	glycine--tRNA ligase subunit beta
+GCF_000048645.1	PF02104	SURF1 family	1	1	0.3	WP_011213059.1	SURF1 family protein
+GCF_000048645.1	PF02112	cAMP phosphodiesterases class-II	0	0	0.7	WP_011214199.1	3',5'-cyclic-nucleotide phosphodiesterase
+GCF_000048645.1	PF02113	D-Ala-D-Ala carboxypeptidase 3 (S13) family	1	1	0.7	WP_014844713.1	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+GCF_000048645.1	PF02113	D-Ala-D-Ala carboxypeptidase 3 (S13) family	1	1	0.7	WP_229309966.1	D-alanyl-D-alanine carboxypeptidase
+GCF_000048645.1	PF02163	Peptidase family M50	2	1	0.7	WP_010946654.1	site-2 protease family protein
+GCF_000048645.1	PF02163	Peptidase family M50	2	1	0.7	WP_011213134.1	RIP metalloprotease RseP
+GCF_000048645.1	PF02163	Peptidase family M50	2	1	0.7	WP_014844482.1	site-2 protease family protein
+GCF_000048645.1	PF02163	Peptidase family M50	2	1	0.7	WP_027229374.1	Do family serine endopeptidase
+GCF_000048645.1	PF02167	Cytochrome C1 family	0	1	0.7	WP_015961766.1	cytochrome c1
+GCF_000048645.1	PF02195	ParB-like nuclease domain	2	2	0.7	WP_011212457.1	ParB/RepB/Spo0J family partition protein
+GCF_000048645.1	PF02195	ParB-like nuclease domain	2	2	0.7	WP_011212459.1	ParB/RepB/Spo0J family partition protein
+GCF_000048645.1	PF02195	ParB-like nuclease domain	2	2	0.7	WP_014844714.1	ParB/RepB/Spo0J family partition protein
+GCF_000048645.1	PF02195	ParB-like nuclease domain	2	2	0.7	WP_015961885.1	ParB/RepB/Spo0J family partition protein
+GCF_000048645.1	PF02230	Phospholipase/Carboxylesterase	1	1	0.0	WP_025519275.1	alpha/beta hydrolase fold domain-containing protein
+GCF_000048645.1	PF02233	NAD(P) transhydrogenase beta subunit	1	1	0.1	WP_011213335.1	NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta
+GCF_000048645.1	PF02245	Methylpurine-DNA glycosylase (MPG)	0	1	0.5	WP_010946602.1	DNA-3-methyladenine glycosylase
+GCF_000048645.1	PF02265	S1/P1 Nuclease	0	0	0.7	WP_011213850.1	S1/P1 nuclease
+GCF_000048645.1	PF02274	Arginine deiminase	0	1	0.5	WP_011213937.1	arginine deiminase family protein
+GCF_000048645.1	PF02275	Linear amide C-N hydrolases, choloylglycine hydrolase family	0	0	0.7	WP_010946540.1	linear amide C-N hydrolase
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_010946436.1	TolC family outer membrane protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_010946563.1	TolC family outer membrane protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_011212663.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_011212721.1	efflux transporter outer membrane subunit
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_011212911.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_011212949.1	efflux transporter outer membrane subunit
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_011213075.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_011213249.1	efflux transporter outer membrane subunit
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_011947819.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_015961290.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_015961480.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_015961490.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_015961499.1	TolC family protein
+GCF_000048645.1	PF02321	Outer membrane efflux protein	3	10	0.7	WP_021459960.1	efflux transporter outer membrane subunit
+GCF_000048645.1	PF02322	Cytochrome bd terminal oxidase subunit II	1	1	0.7	WP_011212887.1	cytochrome d ubiquinol oxidase subunit II
+GCF_000048645.1	PF02322	Cytochrome bd terminal oxidase subunit II	1	1	0.7	WP_011213556.1	cytochrome d ubiquinol oxidase subunit II
+GCF_000048645.1	PF02347	Glycine cleavage system P-protein	1	1	0.7	WP_011212766.1	aminomethyl-transferring glycine dehydrogenase subunit GcvPB
+GCF_000048645.1	PF02347	Glycine cleavage system P-protein	1	1	0.7	WP_011212768.1	aminomethyl-transferring glycine dehydrogenase subunit GcvPA
+GCF_000048645.1	PF02348	Cytidylyltransferase	1	2	0.7	WP_010946488.1	CMP-N,N'-diacetyllegionaminic acid synthase
+GCF_000048645.1	PF02348	Cytidylyltransferase	1	2	0.7	WP_011214172.1	3-deoxy-manno-octulosonate cytidylyltransferase
+GCF_000048645.1	PF02366	Dolichyl-phosphate-mannose-protein mannosyltransferase	0	1	0.5	WP_010946372.1	phospholipid carrier-dependent glycosyltransferase
+GCF_000048645.1	PF02405	Permease MlaE	1	2	0.7	WP_010946578.1	lipid asymmetry maintenance ABC transporter permease subunit MlaE
+GCF_000048645.1	PF02405	Permease MlaE	1	2	0.7	WP_011212859.1	ABC transporter permease
+GCF_000048645.1	PF02405	Permease MlaE	1	2	0.7	WP_011214292.1	ABC transporter permease
+GCF_000048645.1	PF02416	mttA/Hcf106 family	2	1	0.0	WP_011216738.1	twin-arginine translocase TatA/TatE family subunit
+GCF_000048645.1	PF02416	mttA/Hcf106 family	2	1	0.0	WP_014844946.1	twin-arginine translocase TatA/TatE family subunit
+GCF_000048645.1	PF02417	Chromate transporter	1	1	0.0	WP_011212992.1	chromate transporter
+GCF_000048645.1	PF02421	Ferrous iron transport protein B	0	1	0.3	WP_015961734.1	Fe(2+) transporter permease subunit FeoB
+GCF_000048645.1	PF02423	Ornithine cyclodeaminase/mu-crystallin family	0	1	0.1	WP_014844386.1	ornithine cyclodeaminase family protein
+GCF_000048645.1	PF02436	Conserved carboxylase domain	1	1	0.1	WP_011213104.1	sodium-extruding oxaloacetate decarboxylase subunit alpha
+GCF_000048645.1	PF02441	Flavoprotein	2	1	0.1	WP_010948569.1	UbiX family flavin prenyltransferase
+GCF_000048645.1	PF02441	Flavoprotein	2	1	0.1	WP_014844634.1	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+GCF_000048645.1	PF02450	Lecithin:cholesterol acyltransferase	0	0	0.7	WP_011213464.1	alpha/beta hydrolase
+GCF_000048645.1	PF02470	MlaD protein	2	3	0.5	WP_010946579.1	outer membrane lipid asymmetry maintenance protein MlaD
+GCF_000048645.1	PF02470	MlaD protein	2	3	0.5	WP_011214290.1	MCE family protein
+GCF_000048645.1	PF02470	MlaD protein	2	3	0.5	WP_014843154.1	MlaD family protein
+GCF_000048645.1	PF02482	Sigma 54 modulation protein / S30EA ribosomal protein	1	1	0.7	WP_010946225.1	ribosome hibernation promoting factor
+GCF_000048645.1	PF02482	Sigma 54 modulation protein / S30EA ribosomal protein	1	1	0.7	WP_011213558.1	HPF/RaiA family ribosome-associated protein
+GCF_000048645.1	PF02535	ZIP Zinc transporter	0	1	0.3	WP_011214282.1	ZIP family metal transporter
+GCF_000048645.1	PF02562	PhoH-like protein	2	1	0.3	WP_014843826.1	PhoH family protein
+GCF_000048645.1	PF02562	PhoH-like protein	2	1	0.3	WP_014844891.1	PhoH family protein
+GCF_000048645.1	PF02567	Phenazine biosynthesis-like protein	1	2	0.7	WP_011213561.1	PhzF family phenazine biosynthesis protein
+GCF_000048645.1	PF02567	Phenazine biosynthesis-like protein	1	2	0.7	WP_011213813.1	PhzF family phenazine biosynthesis protein
+GCF_000048645.1	PF02582	Uncharacterised ACR, YagE family COG1723	0	0	0.7	WP_010945868.1	RMD1 family protein
+GCF_000048645.1	PF02594	Uncharacterised ACR, YggU family COG1872	0	1	0.7	WP_011212555.1	DUF167 family protein
+GCF_000048645.1	PF02594	Uncharacterised ACR, YggU family COG1872	0	1	0.7	WP_015961771.1	DUF167 domain-containing protein
+GCF_000048645.1	PF02600	Disulfide bond formation protein DsbB	0	1	0.7	WP_011213057.1	disulfide bond formation protein B
+GCF_000048645.1	PF02600	Disulfide bond formation protein DsbB	0	1	0.7	WP_014844812.1	disulfide bond formation protein B
+GCF_000048645.1	PF02606	Tetraacyldisaccharide-1-P 4'-kinase	1	1	0.3	WP_011214076.1	tetraacyldisaccharide 4'-kinase
+GCF_000048645.1	PF02622	Uncharacterized ACR, COG1678	1	1	0.0	WP_010946323.1	YqgE/AlgH family protein
+GCF_000048645.1	PF02631	RecX family	1	0	0.7	WP_010947526.1	recombination regulator RecX
+GCF_000048645.1	PF02631	RecX family	1	0	0.7	WP_011212590.1	recombination regulator RecX
+GCF_000048645.1	PF02636	Putative S-adenosyl-L-methionine-dependent methyltransferase	0	1	0.5	WP_015961863.1	SAM-dependent methyltransferase
+GCF_000048645.1	PF02646	RmuC family	1	1	0.1	WP_011213379.1	DNA recombination protein RmuC
+GCF_000048645.1	PF02668	Taurine catabolism dioxygenase TauD, TfdA family	0	2	0.7	WP_011212864.1	TauD/TfdA family dioxygenase
+GCF_000048645.1	PF02668	Taurine catabolism dioxygenase TauD, TfdA family	0	2	0.7	WP_011214191.1	TauD/TfdA family dioxygenase
+GCF_000048645.1	PF02668	Taurine catabolism dioxygenase TauD, TfdA family	0	2	0.7	WP_011947041.1	TauD/TfdA family dioxygenase
+GCF_000048645.1	PF02677	Epoxyqueuosine reductase QueH	0	0	0.7	WP_014844820.1	epoxyqueuosine reductase QueH
+GCF_000048645.1	PF02683	Cytochrome C biogenesis protein transmembrane region	1	1	0.3	WP_011213270.1	protein-disulfide reductase DsbD
+GCF_000048645.1	PF02683	Cytochrome C biogenesis protein transmembrane region	1	1	0.3	WP_011213960.1	protein-disulfide reductase DsbD
+GCF_000048645.1	PF02684	Lipid-A-disaccharide synthetase	1	1	0.7	WP_011213667.1	lipid-A-disaccharide synthase
+GCF_000048645.1	PF02684	Lipid-A-disaccharide synthetase	1	1	0.7	WP_014844978.1	lipid-A-disaccharide synthase
+GCF_000048645.1	PF02685	Glucokinase	0	1	0.5	WP_014841003.1	glucokinase
+GCF_000048645.1	PF02705	K+ potassium transporter	0	1	0.7	WP_011213541.1	KUP/HAK/KT family potassium transporter
+GCF_000048645.1	PF02705	K+ potassium transporter	0	1	0.7	WP_015961280.1	KUP/HAK/KT family potassium transporter
+GCF_000048645.1	PF02705	K+ potassium transporter	0	1	0.7	WP_015961562.1	KUP/HAK/KT family potassium transporter
+GCF_000048645.1	PF02728	Copper amine oxidase, N3 domain	0	0	0.7	WP_015443894.1	primary-amine oxidase
+GCF_000048645.1	PF02734	DAK2 domain	1	2	0.0	WP_011212890.1	DegV family EDD domain-containing protein
+GCF_000048645.1	PF02737	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain	3	3	0.0	WP_011213651.1	3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein
+GCF_000048645.1	PF02737	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain	3	3	0.0	WP_011213871.1	3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+GCF_000048645.1	PF02737	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain	3	3	0.0	WP_011214196.1	3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+GCF_000048645.1	PF02769	AIR synthase related protein, C-terminal domain	3	1	0.3	WP_011213301.1	thiamine-phosphate kinase
+GCF_000048645.1	PF02769	AIR synthase related protein, C-terminal domain	3	1	0.3	WP_011213957.1	phosphoribosylformylglycinamidine cyclo-ligase
+GCF_000048645.1	PF02769	AIR synthase related protein, C-terminal domain	3	1	0.3	WP_011213958.1	phosphoribosylformylglycinamidine synthase subunit PurL
+GCF_000048645.1	PF02769	AIR synthase related protein, C-terminal domain	3	1	0.3	WP_015961636.1	hydrogenase expression/formation protein HypE
+GCF_000048645.1	PF02785	Biotin carboxylase C-terminal domain	3	2	0.0	WP_011213101.1	acetyl-CoA carboxylase biotin carboxylase subunit
+GCF_000048645.1	PF02785	Biotin carboxylase C-terminal domain	3	2	0.0	WP_011214084.1	acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+GCF_000048645.1	PF02785	Biotin carboxylase C-terminal domain	3	2	0.0	WP_015961741.1	acetyl-CoA carboxylase biotin carboxylase subunit
+GCF_000048645.1	PF02790	Cytochrome C oxidase subunit II, transmembrane domain	1	1	0.0	WP_010948583.1	cytochrome c oxidase subunit II
+GCF_000048645.1	PF02796	Helix-turn-helix domain of resolvase	0	1	0.5	WP_011212508.1	recombinase family protein
+GCF_000048645.1	PF02798	Glutathione S-transferase, N-terminal domain	0	4	0.1	WP_011214224.1	glutathione S-transferase N-terminal domain-containing protein
+GCF_000048645.1	PF02798	Glutathione S-transferase, N-terminal domain	0	4	0.1	WP_015961765.1	stringent starvation protein A
+GCF_000048645.1	PF02801	Beta-ketoacyl synthase, C-terminal domain	3	4	0.5	WP_011212756.1	beta-ketoacyl-
+GCF_000048645.1	PF02801	Beta-ketoacyl synthase, C-terminal domain	3	4	0.5	WP_011213020.1	beta-ketoacyl-
+GCF_000048645.1	PF02801	Beta-ketoacyl synthase, C-terminal domain	3	4	0.5	WP_011213021.1	3-oxoacyl-ACP synthase
+GCF_000048645.1	PF02801	Beta-ketoacyl synthase, C-terminal domain	3	4	0.5	WP_011213689.1	beta-ketoacyl-ACP synthase II
+GCF_000048645.1	PF02801	Beta-ketoacyl synthase, C-terminal domain	3	4	0.5	WP_011214193.1	polyketide synthase
+GCF_000048645.1	PF02801	Beta-ketoacyl synthase, C-terminal domain	3	4	0.5	WP_015961341.1	SDR family NAD(P)-dependent oxidoreductase
+GCF_000048645.1	PF02805	Metal binding domain of Ada	1	1	0.1	WP_014843701.1	trifunctional transcriptional activator/DNA repair protein Ada/methylated-DNA--
+GCF_000048645.1	PF02810	SEC-C motif	1	1	0.3	WP_011213749.1	preprotein translocase subunit SecA
+GCF_000048645.1	PF02810	SEC-C motif	1	1	0.3	WP_230305060.1	SEC-C domain-containing protein
+GCF_000048645.1	PF02812	Glu/Leu/Phe/Val dehydrogenase, dimerisation domain	1	1	0.3	WP_015961399.1	amino acid dehydrogenase
+GCF_000048645.1	PF02812	Glu/Leu/Phe/Val dehydrogenase, dimerisation domain	1	1	0.3	WP_015961471.1	Glu/Leu/Phe/Val dehydrogenase
+GCF_000048645.1	PF02817	e3 binding domain	3	1	0.1	WP_011213163.1	2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+GCF_000048645.1	PF02817	e3 binding domain	3	1	0.1	WP_011213785.1	dihydrolipoyllysine-residue acetyltransferase
+GCF_000048645.1	PF02817	e3 binding domain	3	1	0.1	WP_011213839.1	2-oxo acid dehydrogenase subunit E2
+GCF_000048645.1	PF02823	ATP synthase, Delta/Epsilon chain, beta-sandwich domain	1	0	0.7	WP_010948665.1	F0F1 ATP synthase subunit epsilon
+GCF_000048645.1	PF02823	ATP synthase, Delta/Epsilon chain, beta-sandwich domain	1	0	0.7	WP_015961462.1	hypothetical protein
+GCF_000048645.1	PF02824	TGS domain	2	1	0.7	WP_011213743.1	GTP diphosphokinase
+GCF_000048645.1	PF02824	TGS domain	2	1	0.7	WP_011214257.1	bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase
+GCF_000048645.1	PF02824	TGS domain	2	1	0.7	WP_015961769.1	threonine--tRNA ligase
+GCF_000048645.1	PF02868	Thermolysin metallopeptidase, alpha-helical domain	0	1	0.7	WP_011212664.1	M4 family metallopeptidase
+GCF_000048645.1	PF02868	Thermolysin metallopeptidase, alpha-helical domain	0	1	0.7	WP_011213105.1	M4 family metallopeptidase
+GCF_000048645.1	PF02868	Thermolysin metallopeptidase, alpha-helical domain	0	1	0.7	WP_011213935.1	M4 family metallopeptidase
+GCF_000048645.1	PF02868	Thermolysin metallopeptidase, alpha-helical domain	0	1	0.7	WP_015443868.1	M4 family metallopeptidase
+GCF_000048645.1	PF02874	ATP synthase alpha/beta family, beta-barrel domain	2	1	0.7	WP_010948666.1	F0F1 ATP synthase subunit beta
+GCF_000048645.1	PF02874	ATP synthase alpha/beta family, beta-barrel domain	2	1	0.7	WP_010948668.1	F0F1 ATP synthase subunit alpha
+GCF_000048645.1	PF02874	ATP synthase alpha/beta family, beta-barrel domain	2	1	0.7	WP_011214022.1	flagellar protein export ATPase FliI
+GCF_000048645.1	PF02874	ATP synthase alpha/beta family, beta-barrel domain	2	1	0.7	WP_015961461.1	F0F1 ATP synthase subunit beta
+GCF_000048645.1	PF02911	Formyl transferase, C-terminal domain	1	1	0.7	WP_015961340.1	amino acid adenylation domain-containing protein
+GCF_000048645.1	PF02911	Formyl transferase, C-terminal domain	1	1	0.7	WP_015961698.1	methionyl-tRNA formyltransferase
+GCF_000048645.1	PF02954	Bacterial regulatory protein, Fis family	4	9	0.1	WP_010946289.1	Fis family transcriptional regulator
+GCF_000048645.1	PF02954	Bacterial regulatory protein, Fis family	4	9	0.1	WP_010946589.1	sigma-54 dependent transcriptional regulator
+GCF_000048645.1	PF02954	Bacterial regulatory protein, Fis family	4	9	0.1	WP_010947100.1	Fis family transcriptional regulator
+GCF_000048645.1	PF02954	Bacterial regulatory protein, Fis family	4	9	0.1	WP_010947469.1	Fis family transcriptional regulator
+GCF_000048645.1	PF02954	Bacterial regulatory protein, Fis family	4	9	0.1	WP_011213530.1	sigma-54 dependent transcriptional regulator
+GCF_000048645.1	PF02954	Bacterial regulatory protein, Fis family	4	9	0.1	WP_011214026.1	sigma-54-dependent response regulator transcription factor FleR
+GCF_000048645.1	PF02958	Ecdysteroid kinase-like family	0	0	0.7	WP_011212581.1	phosphotransferase
+GCF_000048645.1	PF03051	Peptidase C1-like family	0	0	0.7	WP_015961694.1	C1 family peptidase
+GCF_000048645.1	PF03062	MBOAT, membrane-bound O-acyltransferase family	0	1	0.7	WP_010946526.1	MBOAT family protein
+GCF_000048645.1	PF03062	MBOAT, membrane-bound O-acyltransferase family	0	1	0.7	WP_224750829.1	MBOAT family protein
+GCF_000048645.1	PF03067	Lytic polysaccharide mono-oxygenase, cellulose-degrading	0	0	0.5	WP_011212884.1	lytic polysaccharide monooxygenase
+GCF_000048645.1	PF03069	Acetamidase/Formamidase family	0	1	0.5	WP_021437118.1	acetamidase/formamidase family protein
+GCF_000048645.1	PF03073	TspO/MBR family	0	1	0.5	WP_011212896.1	tryptophan-rich sensory protein
+GCF_000048645.1	PF03099	Biotin/lipoate A/B protein ligase family	1	1	0.1	WP_010946520.1	biotin--
+GCF_000048645.1	PF03099	Biotin/lipoate A/B protein ligase family	1	1	0.1	WP_011213794.1	lipoyl(octanoyl) transferase LipB
+GCF_000048645.1	PF03100	CcmE	0	1	0.5	WP_010946596.1	cytochrome c maturation protein CcmE
+GCF_000048645.1	PF03102	NeuB family	0	1	0.7	WP_010946505.1	N-acetylneuraminate synthase family protein
+GCF_000048645.1	PF03102	NeuB family	0	1	0.7	WP_011213308.1	N,N'-diacetyllegionaminate synthase
+GCF_000048645.1	PF03144	Elongation factor Tu domain 2	5	2	0.0	WP_010946066.1	elongation factor Tu
+GCF_000048645.1	PF03144	Elongation factor Tu domain 2	5	2	0.0	WP_010946608.1	peptide chain release factor 3
+GCF_000048645.1	PF03144	Elongation factor Tu domain 2	5	2	0.0	WP_010947592.1	translation elongation factor 4
+GCF_000048645.1	PF03144	Elongation factor Tu domain 2	5	2	0.0	WP_011213006.1	elongation factor G
+GCF_000048645.1	PF03144	Elongation factor Tu domain 2	5	2	0.0	WP_011947708.1	translational GTPase TypA
+GCF_000048645.1	PF03169	OPT oligopeptide transporter protein	0	0	0.7	WP_011213293.1	oligopeptide transporter, OPT family
+GCF_000048645.1	PF03171	2OG-Fe(II) oxygenase superfamily	0	1	0.3	WP_011213735.1	isopenicillin N synthase family oxygenase
+GCF_000048645.1	PF03222	Tryptophan/tyrosine permease family	0	0	0.7	WP_011213241.1	hypothetical protein
+GCF_000048645.1	PF03222	Tryptophan/tyrosine permease family	0	0	0.7	WP_011213242.1	hypothetical protein
+GCF_000048645.1	PF03232	Ubiquinone biosynthesis protein COQ7	0	0	0.7	WP_011212672.1	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone monooxygenase
+GCF_000048645.1	PF03279	Bacterial lipid A biosynthesis acyltransferase	1	2	0.7	WP_011213022.1	lysophospholipid acyltransferase family protein
+GCF_000048645.1	PF03279	Bacterial lipid A biosynthesis acyltransferase	1	2	0.7	WP_014844976.1	lysophospholipid acyltransferase family protein
+GCF_000048645.1	PF03279	Bacterial lipid A biosynthesis acyltransferase	1	2	0.7	WP_014844977.1	lysophospholipid acyltransferase family protein
+GCF_000048645.1	PF03321	GH3 auxin-responsive promoter	0	0	0.7	WP_015961355.1	GH3 auxin-responsive promoter family protein
+GCF_000048645.1	PF03330	Lytic transglycolase	1	1	0.7	WP_011213790.1	septal ring lytic transglycosylase RlpA family protein
+GCF_000048645.1	PF03330	Lytic transglycolase	1	1	0.7	WP_011947481.1	septal ring lytic transglycosylase RlpA family protein
+GCF_000048645.1	PF03331	UDP-3-O-acyl N-acetylglycosamine deacetylase	1	1	0.3	WP_010948308.1	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+GCF_000048645.1	PF03350	Uncharacterized protein family, UPF0114	0	1	0.7	WP_010947600.1	TIGR00645 family protein
+GCF_000048645.1	PF03412	Peptidase C39 family	0	1	0.3	WP_011213798.1	type I secretion system permease/ATPase
+GCF_000048645.1	PF03435	Saccharopine dehydrogenase NADP binding domain	1	2	0.7	WP_010948197.1	saccharopine dehydrogenase NADP-binding domain-containing protein
+GCF_000048645.1	PF03435	Saccharopine dehydrogenase NADP binding domain	1	2	0.7	WP_011213649.1	saccharopine dehydrogenase NADP-binding domain-containing protein
+GCF_000048645.1	PF03471	Transporter associated domain	3	1	0.1	WP_010946348.1	hemolysin family protein
+GCF_000048645.1	PF03471	Transporter associated domain	3	1	0.1	WP_015961796.1	HlyC/CorC family transporter
+GCF_000048645.1	PF03471	Transporter associated domain	3	1	0.1	WP_224750858.1	CBS domain-containing protein
+GCF_000048645.1	PF03477	ATP cone domain	1	1	0.5	WP_010946463.1	transcriptional regulator NrdR
+GCF_000048645.1	PF03477	ATP cone domain	1	1	0.5	WP_011214037.1	ribonucleoside-diphosphate reductase subunit alpha
+GCF_000048645.1	PF03481	Putative GTP-binding controlling metal-binding	1	1	0.3	WP_014845002.1	threonylcarbamoyl-AMP synthase
+GCF_000048645.1	PF03588	Leucyl/phenylalanyl-tRNA protein transferase	1	1	0.3	WP_011214032.1	leucyl/phenylalanyl-tRNA--protein transferase
+GCF_000048645.1	PF03600	Citrate transporter	1	2	0.3	WP_011213588.1	SLC13 family permease
+GCF_000048645.1	PF03600	Citrate transporter	1	2	0.3	WP_015961872.1	anion transporter
+GCF_000048645.1	PF03618	Kinase/pyrophosphorylase	0	1	0.3	WP_011213810.1	kinase/pyrophosphorylase
+GCF_000048645.1	PF03625	Domain of unknown function DUF302	0	1	0.5	WP_015961495.1	DUF302 domain-containing protein
+GCF_000048645.1	PF03641	Possible lysine decarboxylase	1	1	0.3	WP_011212461.1	TIGR00730 family Rossman fold protein
+GCF_000048645.1	PF03641	Possible lysine decarboxylase	1	1	0.3	WP_015961650.1	TIGR00730 family Rossman fold protein
+GCF_000048645.1	PF03702	Anhydro-N-acetylmuramic acid kinase	1	1	0.1	WP_011213695.1	anhydro-N-acetylmuramic acid kinase
+GCF_000048645.1	PF03725	3' exoribonuclease family, domain 2	2	1	0.1	WP_010947728.1	ribonuclease PH
+GCF_000048645.1	PF03725	3' exoribonuclease family, domain 2	2	1	0.1	WP_015961799.1	polyribonucleotide nucleotidyltransferase
+GCF_000048645.1	PF03739	Lipopolysaccharide export system permease LptF/LptG	2	2	0.3	WP_011947547.1	LPS export ABC transporter permease LptG
+GCF_000048645.1	PF03739	Lipopolysaccharide export system permease LptF/LptG	2	2	0.3	WP_015961714.1	LPS export ABC transporter permease LptF
+GCF_000048645.1	PF03741	Integral membrane protein TerC family	2	1	0.1	WP_011213818.1	TerC family protein
+GCF_000048645.1	PF03741	Integral membrane protein TerC family	2	1	0.1	WP_014844381.1	TerC family protein
+GCF_000048645.1	PF03767	HAD superfamily, subfamily IIIB (Acid phosphatase)	0	0	0.7	WP_011947540.1	acid phosphatase
+GCF_000048645.1	PF03775	Septum formation inhibitor MinC, C-terminal domain	0	1	0.5	WP_025519589.1	septum site-determining protein MinC
+GCF_000048645.1	PF03776	Septum formation topological specificity factor MinE	0	1	0.7	WP_011213993.1	cell division topological specificity factor MinE
+GCF_000048645.1	PF03788	LrgA family	0	1	0.5	WP_011212899.1	CidA/LrgA family protein
+GCF_000048645.1	PF03824	High-affinity nickel-transport protein	0	1	0.7	WP_025520010.1	DNA repair protein
+GCF_000048645.1	PF03848	Tellurite resistance protein TehB	0	0	0.7	WP_015961667.1	SAM-dependent methyltransferase TehB
+GCF_000048645.1	PF03853	YjeF-related protein N-terminus	1	0	0.7	WP_015961763.1	NAD(P)H-hydrate dehydratase
+GCF_000048645.1	PF03853	YjeF-related protein N-terminus	1	0	0.7	WP_015961833.1	NAD(P)H-hydrate epimerase
+GCF_000048645.1	PF03883	Peroxide stress protein YaaA	1	1	0.3	WP_011213663.1	peroxide stress protein YaaA
+GCF_000048645.1	PF03918	Cytochrome C biogenesis protein	0	1	0.5	WP_010946599.1	cytochrome c-type biogenesis protein CcmH
+GCF_000048645.1	PF03937	Flavinator of succinate dehydrogenase	0	1	0.5	WP_011213856.1	succinate dehydrogenase assembly factor 2
+GCF_000048645.1	PF03949	Malic enzyme, NAD binding domain	1	1	0.7	WP_010946388.1	malate dehydrogenase
+GCF_000048645.1	PF03949	Malic enzyme, NAD binding domain	1	1	0.7	WP_011213592.1	NAD-dependent malic enzyme
+GCF_000048645.1	PF03949	Malic enzyme, NAD binding domain	1	1	0.7	WP_014845001.1	NAD-dependent malic enzyme
+GCF_000048645.1	PF03950	tRNA synthetases class I (E and Q), anti-codon binding domain	0	1	0.5	WP_011213617.1	glutamine--tRNA ligase/YqeY domain fusion protein
+GCF_000048645.1	PF03966	Trm112p-like protein	1	1	0.3	WP_010947637.1	Trm112 family protein
+GCF_000048645.1	PF03969	AFG1-like ATPase	1	1	0.3	WP_015961736.1	cell division protein ZapE
+GCF_000048645.1	PF03972	MmgE/PrpD N-terminal domain	0	1	0.3	WP_011213811.1	bifunctional 2-methylcitrate dehydratase/aconitate hydratase
+GCF_000048645.1	PF03989	DNA gyrase C-terminal domain, beta-propeller	2	1	0.0	WP_011213708.1	DNA gyrase subunit A
+GCF_000048645.1	PF03989	DNA gyrase C-terminal domain, beta-propeller	2	1	0.0	WP_015443866.1	DNA topoisomerase IV subunit A
+GCF_000048645.1	PF04073	Aminoacyl-tRNA editing domain	2	2	0.5	WP_011212583.1	YbaK/EbsC family protein
+GCF_000048645.1	PF04073	Aminoacyl-tRNA editing domain	2	2	0.5	WP_011213277.1	proline--tRNA ligase
+GCF_000048645.1	PF04073	Aminoacyl-tRNA editing domain	2	2	0.5	WP_011213559.1	YbaK/EbsC family protein
+GCF_000048645.1	PF04095	Nicotinate phosphoribosyltransferase (NAPRTase) family	1	1	0.1	WP_011212967.1	nicotinate phosphoribosyltransferase
+GCF_000048645.1	PF04107	Glutamate-cysteine ligase family 2(GCS2)	1	1	0.7	WP_011213216.1	YbdK family carboxylate-amine ligase
+GCF_000048645.1	PF04107	Glutamate-cysteine ligase family 2(GCS2)	1	1	0.7	WP_015961775.1	YbdK family carboxylate-amine ligase
+GCF_000048645.1	PF04107	Glutamate-cysteine ligase family 2(GCS2)	1	1	0.7	WP_027229424.1	glutamate-cysteine ligase family protein
+GCF_000048645.1	PF04116	Fatty acid hydroxylase superfamily	1	2	0.3	WP_011212688.1	sterol desaturase family protein
+GCF_000048645.1	PF04116	Fatty acid hydroxylase superfamily	1	2	0.3	WP_015961364.1	sterol desaturase family protein
+GCF_000048645.1	PF04140	Isoprenylcysteine carboxyl methyltransferase (ICMT) family	0	1	0.7	WP_015961468.1	isoprenylcysteine carboxylmethyltransferase family protein
+GCF_000048645.1	PF04143	Sulphur transport	1	2	0.1	WP_011213285.1	YeeE/YedE family protein
+GCF_000048645.1	PF04172	LrgB-like family	0	1	0.5	WP_011212898.1	LrgB family protein
+GCF_000048645.1	PF04183	IucA / IucC family	0	0	0.7	WP_011213627.1	siderophore legiobactin biosynthesis protein LbtA
+GCF_000048645.1	PF04183	IucA / IucC family	0	0	0.7	WP_015961810.1	siderophore biosynthetic protein FrgA
+GCF_000048645.1	PF04193	PQ loop repeat	0	0	0.7	WP_011947416.1	hypothetical protein
+GCF_000048645.1	PF04199	Putative cyclase	1	2	0.0	WP_015961645.1	cyclase family protein
+GCF_000048645.1	PF04209	homogentisate 1,2-dioxygenase	0	1	0.5	WP_011213597.1	homogentisate 1,2-dioxygenase
+GCF_000048645.1	PF04227	Indigoidine synthase A like protein	0	1	0.7	WP_011214179.1	pseudouridine-5'-phosphate glycosidase
+GCF_000048645.1	PF04229	GrpB protein	0	1	0.7	WP_011212525.1	bifunctional GrpB family protein/GNAT family N-acetyltransferase
+GCF_000048645.1	PF04229	GrpB protein	0	1	0.7	WP_011213448.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF04229	GrpB protein	0	1	0.7	WP_011213895.1	bifunctional GrpB family protein/GNAT family N-acetyltransferase
+GCF_000048645.1	PF04229	GrpB protein	0	1	0.7	WP_229309981.1	GrpB family protein
+GCF_000048645.1	PF04263	Thiamin pyrophosphokinase, catalytic domain	0	1	0.7	WP_032831152.1	thiamine diphosphokinase
+GCF_000048645.1	PF04264	YceI-like domain	2	2	0.1	WP_011213925.1	YceI family protein
+GCF_000048645.1	PF04264	YceI-like domain	2	2	0.1	WP_011213927.1	YceI family protein
+GCF_000048645.1	PF04280	Tim44-like domain	0	1	0.7	WP_011947541.1	Tim44-like domain-containing protein
+GCF_000048645.1	PF04307	LexA-binding, inner membrane-associated putative hydrolase	1	1	0.1	WP_011212684.1	metal-dependent hydrolase
+GCF_000048645.1	PF04343	Protein of unknown function, DUF488	0	1	0.3	WP_015961689.1	DUF488 family protein
+GCF_000048645.1	PF04357	TamB, inner membrane protein subunit of TAM complex	1	1	0.3	WP_011214065.1	translocation/assembly module TamB domain-containing protein
+GCF_000048645.1	PF04359	Protein of unknown function (DUF493)	0	1	0.7	WP_011213793.1	DUF493 domain-containing protein
+GCF_000048645.1	PF04367	Protein of unknown function (DUF502)	0	1	0.7	WP_011213760.1	DUF502 domain-containing protein
+GCF_000048645.1	PF04371	Porphyromonas-type peptidyl-arginine deiminase	0	1	0.3	WP_011212651.1	agmatine deiminase family protein
+GCF_000048645.1	PF04389	Peptidase family M28	1	3	0.5	WP_011212675.1	M20/M25/M40 family metallo-hydrolase
+GCF_000048645.1	PF04389	Peptidase family M28	1	3	0.5	WP_011213512.1	M28 family peptidase
+GCF_000048645.1	PF04389	Peptidase family M28	1	3	0.5	WP_014842818.1	M20/M25/M40 family metallo-hydrolase
+GCF_000048645.1	PF04413	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)	1	1	0.3	WP_014844488.1	lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase
+GCF_000048645.1	PF04430	Protein of unknown function (DUF498/DUF598)	0	0	0.7	WP_011213744.1	Mth938-like domain-containing protein
+GCF_000048645.1	PF04442	Cytochrome c oxidase assembly protein CtaG/Cox11	0	1	0.7	WP_011216728.1	cytochrome c oxidase assembly protein
+GCF_000048645.1	PF04445	Putative SAM-dependent methyltransferase	0	1	0.7	WP_011214092.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF04488	Glycosyltransferase sugar-binding region containing DXD motif	0	0	0.7	WP_014842151.1	hypothetical protein
+GCF_000048645.1	PF04488	Glycosyltransferase sugar-binding region containing DXD motif	0	0	0.7	WP_080020021.1	teichoic acid biosynthesis protein
+GCF_000048645.1	PF04539	Sigma-70 region 3	2	3	0.1	WP_011213596.1	RNA polymerase sigma factor RpoS
+GCF_000048645.1	PF04539	Sigma-70 region 3	2	3	0.1	WP_011214043.1	RNA polymerase sigma factor FliA
+GCF_000048645.1	PF04539	Sigma-70 region 3	2	3	0.1	WP_223381112.1	RNA polymerase sigma factor RpoD
+GCF_000048645.1	PF04564	U-box domain	0	0	0.7	WP_080020122.1	Dot/Icm T4SS effector E3 ubiquitin ligase LubX/LegU2
+GCF_000048645.1	PF04607	Region found in RelA / SpoT proteins	2	1	0.1	WP_011213743.1	GTP diphosphokinase
+GCF_000048645.1	PF04607	Region found in RelA / SpoT proteins	2	1	0.1	WP_011214257.1	bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase
+GCF_000048645.1	PF04632	Fusaric acid resistance protein family	0	0	0.5	WP_011212950.1	FUSC family protein
+GCF_000048645.1	PF04715	Anthranilate synthase component I, N terminal region	1	1	0.5	WP_011213837.1	aminodeoxychorismate synthase component I
+GCF_000048645.1	PF04715	Anthranilate synthase component I, N terminal region	1	1	0.5	WP_032831089.1	anthranilate synthase component I
+GCF_000048645.1	PF04751	Protein of unknown function (DUF615)	0	1	0.7	WP_011212666.1	ribosome-associated protein
+GCF_000048645.1	PF04784	Protein of unknown function, DUF547	0	0	0.7	WP_015961790.1	DUF547 domain-containing protein
+GCF_000048645.1	PF04794	YdjC-like protein	0	1	0.7	WP_014844628.1	ChbG/HpnK family deacetylase
+GCF_000048645.1	PF04828	Glutathione-dependent formaldehyde-activating enzyme	0	2	0.0	WP_011212929.1	GFA family protein
+GCF_000048645.1	PF04909	Amidohydrolase	1	3	0.0	WP_015961338.1	amidohydrolase family protein
+GCF_000048645.1	PF04909	Amidohydrolase	1	3	0.0	WP_015961670.1	amidohydrolase family protein
+GCF_000048645.1	PF04960	Glutaminase	0	1	0.5	WP_011212935.1	glutaminase A
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_010946563.1	TolC family outer membrane protein
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_011213359.1	SPOR domain-containing protein
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_011213622.1	GspD family T2SS secretin variant LspD
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_011213631.1	SPOR domain-containing protein
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_011213643.1	SPOR domain-containing protein
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_011213790.1	septal ring lytic transglycosylase RlpA family protein
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_011214123.1	SPOR domain-containing protein
+GCF_000048645.1	PF05036	SPOR domain	2	3	0.7	WP_011214276.1	SPOR domain-containing protein
+GCF_000048645.1	PF05050	Methyltransferase FkbM domain	0	1	0.3	WP_011214190.1	FkbM family methyltransferase
+GCF_000048645.1	PF05057	Putative serine esterase (DUF676)	0	0	0.7	WP_011213513.1	alpha/beta hydrolase
+GCF_000048645.1	PF05088	Bacterial NAD-glutamate dehydrogenase	0	1	0.7	WP_011213859.1	NAD-glutamate dehydrogenase
+GCF_000048645.1	PF05088	Bacterial NAD-glutamate dehydrogenase	0	1	0.7	WP_021436989.1	NAD-glutamate dehydrogenase
+GCF_000048645.1	PF05118	Aspartyl/Asparaginyl beta-hydroxylase	0	0	0.7	WP_014842496.1	aspartyl/asparaginyl beta-hydroxylase domain-containing protein
+GCF_000048645.1	PF05141	Pyoverdine/dityrosine biosynthesis protein	0	0	0.7	WP_011212863.1	isocyanide synthase family protein
+GCF_000048645.1	PF05170	AsmA family	0	1	0.3	WP_011213340.1	AsmA family protein
+GCF_000048645.1	PF05187	Electron transfer flavoprotein-ubiquinone oxidoreductase, 4Fe-4S	0	1	0.5	WP_011213589.1	electron transfer flavoprotein-ubiquinone oxidoreductase
+GCF_000048645.1	PF05191	Adenylate kinase, active site lid	1	1	0.1	WP_011213703.1	adenylate kinase
+GCF_000048645.1	PF05195	Aminopeptidase P, N-terminal domain	1	1	0.3	WP_011212733.1	Xaa-Pro aminopeptidase
+GCF_000048645.1	PF05222	Alanine dehydrogenase/PNT, N-terminal domain	2	1	0.1	WP_010946612.1	Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+GCF_000048645.1	PF05222	Alanine dehydrogenase/PNT, N-terminal domain	2	1	0.1	WP_011213350.1	alanine dehydrogenase
+GCF_000048645.1	PF05433	Glycine zipper 2TM domain	0	1	0.3	WP_010946477.1	glycine zipper 2TM domain-containing protein
+GCF_000048645.1	PF05598	Transposase domain (DUF772)	0	1	0.3	WP_021437098.1	transposase
+GCF_000048645.1	PF05649	Peptidase family M13	0	1	0.5	WP_015961705.1	M13 family metallopeptidase
+GCF_000048645.1	PF05711	Macrocin-O-methyltransferase (TylF)	0	0	0.7	WP_015961852.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF05721	Phytanoyl-CoA dioxygenase (PhyH)	0	2	0.7	WP_011213143.1	Dot/Icm T4SS effector LegD2
+GCF_000048645.1	PF05721	Phytanoyl-CoA dioxygenase (PhyH)	0	2	0.7	WP_015961426.1	phytanoyl-CoA dioxygenase family protein
+GCF_000048645.1	PF05721	Phytanoyl-CoA dioxygenase (PhyH)	0	2	0.7	WP_080020109.1	Dot/Icm type IV secretion system effector LegD1
+GCF_000048645.1	PF05724	Thiopurine S-methyltransferase (TPMT)	0	1	0.7	WP_015961843.1	thiopurine S-methyltransferase
+GCF_000048645.1	PF05746	DALR anticodon binding domain	2	1	0.1	WP_011214094.1	glycine--tRNA ligase subunit beta
+GCF_000048645.1	PF05746	DALR anticodon binding domain	2	1	0.1	WP_011214277.1	arginine--tRNA ligase
+GCF_000048645.1	PF05761	5' nucleotidase family	0	0	0.7	WP_011212751.1	5' nucleotidase
+GCF_000048645.1	PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	1	1	0.3	WP_025519188.1	ribose-5-phosphate isomerase RpiA
+GCF_000048645.1	PF06094	Gamma-glutamyl cyclotransferase, AIG2-like	0	1	0.5	WP_011213777.1	gamma-glutamylcyclotransferase
+GCF_000048645.1	PF06127	Protein of unknown function (DUF962)	0	1	0.5	WP_011212668.1	DUF962 domain-containing protein
+GCF_000048645.1	PF06250	YhcG PDDEXK nuclease domain	0	0	0.7	WP_011212509.1	PDDEXK nuclease domain-containing protein
+GCF_000048645.1	PF06276	Ferric iron reductase FhuF-like transporter	0	1	0.7	WP_011213627.1	siderophore legiobactin biosynthesis protein LbtA
+GCF_000048645.1	PF06276	Ferric iron reductase FhuF-like transporter	0	1	0.7	WP_015961810.1	siderophore biosynthetic protein FrgA
+GCF_000048645.1	PF06314	Acetoacetate decarboxylase (ADC)	0	0	0.7	WP_011213258.1	acetoacetate decarboxylase
+GCF_000048645.1	PF06415	BPG-independent PGAM N-terminus (iPGM_N)	1	1	0.3	WP_011213129.1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GCF_000048645.1	PF06508	Queuosine biosynthesis protein QueC	1	1	0.3	WP_015961881.1	7-cyano-7-deazaguanine synthase QueC
+GCF_000048645.1	PF06725	3D domain	0	1	0.7	WP_011214245.1	murein transglycosylase A
+GCF_000048645.1	PF06725	3D domain	0	1	0.7	WP_014844689.1	MltA domain-containing protein
+GCF_000048645.1	PF06733	DEAD_2	0	0	0.7	WP_011214174.1	ATP-dependent DNA helicase
+GCF_000048645.1	PF06745	KaiC	0	0	0.7	WP_011213472.1	circadian clock protein KaiC
+GCF_000048645.1	PF06827	Zinc finger found in FPG and IleRS	2	1	0.1	WP_011213177.1	bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase
+GCF_000048645.1	PF06827	Zinc finger found in FPG and IleRS	2	1	0.1	WP_011213362.1	isoleucine--tRNA ligase
+GCF_000048645.1	PF06965	Na+/H+ antiporter 1	0	1	0.3	WP_015961564.1	Na+/H+ antiporter NhaA
+GCF_000048645.1	PF06966	Protein of unknown function (DUF1295)	0	0	0.7	WP_015444914.1	DUF1295 domain-containing protein
+GCF_000048645.1	PF06983	3-demethylubiquinone-9 3-methyltransferase	1	2	0.5	WP_010948145.1	VOC family protein
+GCF_000048645.1	PF06983	3-demethylubiquinone-9 3-methyltransferase	1	2	0.5	WP_015961618.1	VOC family protein
+GCF_000048645.1	PF07195	Flagellar hook-associated protein 2 C-terminus	0	1	0.3	WP_011213638.1	flagellar filament capping protein FliD
+GCF_000048645.1	PF07209	Protein of unknown function (DUF1415)	0	0	0.7	WP_224750831.1	DUF1415 domain-containing protein
+GCF_000048645.1	PF07244	Surface antigen variable number repeat	1	2	0.7	WP_011213135.1	outer membrane protein assembly factor BamA
+GCF_000048645.1	PF07244	Surface antigen variable number repeat	1	2	0.7	WP_011214064.1	BamA/TamA family outer membrane protein
+GCF_000048645.1	PF07366	SnoaL-like polyketide cyclase	0	1	0.3	WP_011213916.1	ester cyclase
+GCF_000048645.1	PF07386	Protein of unknown function (DUF1499)	0	0	0.7	WP_011213205.1	DUF1499 domain-containing protein
+GCF_000048645.1	PF07504	Fungalysin/Thermolysin Propeptide Motif	0	0	0.7	WP_011212664.1	M4 family metallopeptidase
+GCF_000048645.1	PF07504	Fungalysin/Thermolysin Propeptide Motif	0	0	0.7	WP_011213105.1	M4 family metallopeptidase
+GCF_000048645.1	PF07504	Fungalysin/Thermolysin Propeptide Motif	0	0	0.7	WP_015443868.1	M4 family metallopeptidase
+GCF_000048645.1	PF07521	Zn-dependent metallo-hydrolase RNA specificity domain	1	1	0.5	WP_015961383.1	MBL fold metallo-hydrolase
+GCF_000048645.1	PF07521	Zn-dependent metallo-hydrolase RNA specificity domain	1	1	0.5	WP_021436949.1	MBL fold metallo-hydrolase
+GCF_000048645.1	PF07670	Nucleoside recognition	1	2	0.7	WP_011213184.1	spore maturation protein
+GCF_000048645.1	PF07670	Nucleoside recognition	1	2	0.7	WP_011213185.1	spore maturation protein
+GCF_000048645.1	PF07670	Nucleoside recognition	1	2	0.7	WP_015961734.1	Fe(2+) transporter permease subunit FeoB
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_010946375.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_010946390.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_010947389.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011212866.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213017.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213097.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213212.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213239.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213318.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213441.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213519.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213572.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213625.1	legiobactin import MFS transporter LbtC
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213626.1	legiobactin export MFS transporter LbtB
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213635.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213696.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213697.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011213740.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_011214140.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_013101869.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_014844664.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_015961363.1	multidrug effflux MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_015961449.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_015961573.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_015961630.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_015961847.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_021436892.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_025519316.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_027229327.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_027229407.1	multidrug effflux MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_224750849.1	MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_230304933.1	multidrug effflux MFS transporter
+GCF_000048645.1	PF07690	Major Facilitator Superfamily	24	30	0.1	WP_230305307.1	MFS transporter
+GCF_000048645.1	PF07700	Haem-NO-binding	0	0	0.7	WP_013101370.1	heme NO-binding domain-containing protein
+GCF_000048645.1	PF07700	Haem-NO-binding	0	0	0.7	WP_015961626.1	heme NO-binding domain-containing protein
+GCF_000048645.1	PF07703	Alpha-2-macroglobulin bait region domain	0	1	0.7	WP_011213944.1	alpha-2-macroglobulin
+GCF_000048645.1	PF07714	Protein tyrosine and serine/threonine kinase	0	0	0.7	WP_015961291.1	serine/threonine-protein kinase
+GCF_000048645.1	PF07726	ATPase family associated with various cellular activities (AAA)	2	2	0.0	WP_010948545.1	MoxR family ATPase
+GCF_000048645.1	PF07726	ATPase family associated with various cellular activities (AAA)	2	2	0.0	WP_027229296.1	MoxR family ATPase
+GCF_000048645.1	PF07731	Multicopper oxidase	1	2	0.3	WP_011212962.1	multicopper oxidase family protein
+GCF_000048645.1	PF07731	Multicopper oxidase	1	2	0.3	WP_021582706.1	multicopper oxidase domain-containing protein
+GCF_000048645.1	PF07732	Multicopper oxidase	1	2	0.3	WP_011212962.1	multicopper oxidase family protein
+GCF_000048645.1	PF07732	Multicopper oxidase	1	2	0.3	WP_021582706.1	multicopper oxidase domain-containing protein
+GCF_000048645.1	PF07786	Heparan-alpha-glucosaminide N-acetyltransferase, catalytic	0	1	0.5	WP_011213941.1	lpg1661 family Dot/Icm T4SS effector
+GCF_000048645.1	PF07831	Pyrimidine nucleoside phosphorylase C-terminal domain	1	1	0.1	WP_021436948.1	thymidine phosphorylase family protein
+GCF_000048645.1	PF07947	YhhN family	0	1	0.7	WP_011214242.1	lysoplasmalogenase
+GCF_000048645.1	PF07958	Protein of unknown function (DUF1688)	0	0	0.7	WP_041173953.1	URC4/urg3 family protein
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_010946364.1	prepilin-type N-terminal cleavage/methylation domain-containing protein
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_010946367.1	PilW family protein
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_010946368.1	type IV pilus modification protein PilV
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_010947092.1	GspG family T2SS major pseudopilin variant LspG
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_011213658.1	GspJ family T2SS minor pseudopilin variant LspJ
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_011213659.1	GspI family T2SS minor pseudopilin variant LspI
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_011213660.1	GspH family T2SS minor pseudopilin variant LspH
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_011214167.1	pilin
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_011214248.1	prepilin-type N-terminal cleavage/methylation domain-containing protein
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_223381111.1	pilin
+GCF_000048645.1	PF07963	Prokaryotic N-terminal methylation motif	2	8	0.7	WP_223804328.1	GspH/FimT family pseudopilin
+GCF_000048645.1	PF07973	Threonyl and Alanyl tRNA synthetase second additional domain	2	1	0.7	WP_011213211.1	alanyl-tRNA editing protein
+GCF_000048645.1	PF07973	Threonyl and Alanyl tRNA synthetase second additional domain	2	1	0.7	WP_011214060.1	alanine--tRNA ligase
+GCF_000048645.1	PF07973	Threonyl and Alanyl tRNA synthetase second additional domain	2	1	0.7	WP_015961769.1	threonine--tRNA ligase
+GCF_000048645.1	PF07977	FabA-like domain	1	1	0.3	WP_011213019.1	hydroxymyristoyl-ACP dehydratase
+GCF_000048645.1	PF07977	FabA-like domain	1	1	0.3	WP_011213137.1	3-hydroxyacyl-ACP dehydratase FabZ
+GCF_000048645.1	PF08007	Cupin superfamily protein	0	1	0.5	WP_011214153.1	cupin domain-containing protein
+GCF_000048645.1	PF08014	Domain of unknown function (DUF1704)	0	0	0.7	WP_014842274.1	flavohemoglobin expression-modulating QEGLA motif protein
+GCF_000048645.1	PF08029	HisG, C-terminal domain	0	1	0.5	WP_011213553.1	ATP phosphoribosyltransferase
+GCF_000048645.1	PF08031	Berberine and berberine like	0	1	0.5	WP_011213718.1	FAD-binding protein
+GCF_000048645.1	PF08123	Histone methylation protein DOT1	0	0	0.7	WP_027229307.1	methyltransferase
+GCF_000048645.1	PF08238	Sel1 repeat	1	2	0.7	WP_010946631.1	sel1 repeat family protein
+GCF_000048645.1	PF08238	Sel1 repeat	1	2	0.7	WP_011213655.1	SEL1-like repeat protein
+GCF_000048645.1	PF08238	Sel1 repeat	1	2	0.7	WP_015961720.1	enhanced entry protein EnhC
+GCF_000048645.1	PF08238	Sel1 repeat	1	2	0.7	WP_021436906.1	Dot/Icm type IV secretion system effector LpnE
+GCF_000048645.1	PF08238	Sel1 repeat	1	2	0.7	WP_072363922.1	Dot/Icm type IV secretion system effector LidL
+GCF_000048645.1	PF08242	Methyltransferase domain	0	1	0.7	WP_010946506.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF08242	Methyltransferase domain	0	1	0.7	WP_014844631.1	tetratricopeptide repeat protein
+GCF_000048645.1	PF08279	HTH domain	2	4	0.1	WP_010946520.1	biotin--
+GCF_000048645.1	PF08279	HTH domain	2	4	0.1	WP_011212557.1	YafY family transcriptional regulator
+GCF_000048645.1	PF08279	HTH domain	2	4	0.1	WP_011216073.1	YafY family transcriptional regulator
+GCF_000048645.1	PF08328	Adenylosuccinate lyase C-terminal	0	1	0.5	WP_010946537.1	adenylosuccinate lyase
+GCF_000048645.1	PF08338	Domain of unknown function (DUF1731)	1	1	0.0	WP_015961346.1	TIGR01777 family oxidoreductase
+GCF_000048645.1	PF08443	RimK-like ATP-grasp domain	1	2	0.7	WP_010946128.1	RimK family protein
+GCF_000048645.1	PF08443	RimK-like ATP-grasp domain	1	2	0.7	WP_010946163.1	30S ribosomal protein S6--L-glutamate ligase
+GCF_000048645.1	PF08443	RimK-like ATP-grasp domain	1	2	0.7	WP_011213936.1	hypothetical protein
+GCF_000048645.1	PF08443	RimK-like ATP-grasp domain	1	2	0.7	WP_013101935.1	UDP-N-acetylmuramyl peptide synthase
+GCF_000048645.1	PF08495	FIST N domain	0	1	0.5	WP_011212977.1	FIST C-terminal domain-containing protein
+GCF_000048645.1	PF08496	Peptidase family S49 N-terminal	0	0	0.7	WP_015444709.1	protease SohB
+GCF_000048645.1	PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal	2	2	0.7	WP_011213686.1	ketoacyl-ACP synthase III
+GCF_000048645.1	PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal	2	2	0.7	WP_011213912.1	beta-ketoacyl-ACP synthase III
+GCF_000048645.1	PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal	2	2	0.7	WP_015961358.1	3-oxoacyl-ACP synthase
+GCF_000048645.1	PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal	2	2	0.7	WP_015961362.1	ketoacyl-ACP synthase III
+GCF_000048645.1	PF08545	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III	2	2	0.7	WP_011213686.1	ketoacyl-ACP synthase III
+GCF_000048645.1	PF08545	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III	2	2	0.7	WP_011213912.1	beta-ketoacyl-ACP synthase III
+GCF_000048645.1	PF08545	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III	2	2	0.7	WP_015961358.1	3-oxoacyl-ACP synthase
+GCF_000048645.1	PF08545	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III	2	2	0.7	WP_015961362.1	ketoacyl-ACP synthase III
+GCF_000048645.1	PF08659	KR domain	0	1	0.5	WP_011947836.1	KR domain-containing protein
+GCF_000048645.1	PF08659	KR domain	0	1	0.5	WP_015961341.1	SDR family NAD(P)-dependent oxidoreductase
+GCF_000048645.1	PF08666	SAF domain	1	2	0.5	WP_010946505.1	N-acetylneuraminate synthase family protein
+GCF_000048645.1	PF08666	SAF domain	1	2	0.5	WP_011213308.1	N,N'-diacetyllegionaminate synthase
+GCF_000048645.1	PF08713	DNA alkylation repair enzyme	0	1	0.3	WP_011212561.1	DNA alkylation repair protein
+GCF_000048645.1	PF08755	Hemimethylated DNA-binding protein YccV like	0	0	0.7	WP_011947825.1	heat shock protein HspQ
+GCF_000048645.1	PF08837	Protein of unknown function (DUF1810)	0	0	0.7	WP_011213220.1	DUF1810 family protein
+GCF_000048645.1	PF08843	Nucleotidyl transferase AbiEii toxin, Type IV TA system	0	1	0.7	WP_011212827.1	nucleotidyl transferase AbiEii/AbiGii toxin family protein
+GCF_000048645.1	PF08843	Nucleotidyl transferase AbiEii toxin, Type IV TA system	0	1	0.7	WP_015961532.1	nucleotidyl transferase AbiEii/AbiGii toxin family protein
+GCF_000048645.1	PF09265	Cytokinin dehydrogenase 1, FAD and cytokinin binding	0	0	0.7	WP_010946629.1	FAD-binding protein
+GCF_000048645.1	PF09317	Domain of unknown function (DUF1974)	0	0	0.7	WP_011212994.1	acyl-CoA dehydrogenase
+GCF_000048645.1	PF09317	Domain of unknown function (DUF1974)	0	0	0.7	WP_011213994.1	acyl-CoA dehydrogenase
+GCF_000048645.1	PF09335	SNARE associated Golgi protein	3	3	0.1	WP_011213203.1	TVP38/TMEM64 family protein
+GCF_000048645.1	PF09335	SNARE associated Golgi protein	3	3	0.1	WP_011213795.1	bifunctional DedA family/phosphatase PAP2 family protein
+GCF_000048645.1	PF09335	SNARE associated Golgi protein	3	3	0.1	WP_011213841.1	bifunctional TVP38/TMEM64 family protein/FAD-dependent oxidoreductase
+GCF_000048645.1	PF09335	SNARE associated Golgi protein	3	3	0.1	WP_015961375.1	DedA family protein
+GCF_000048645.1	PF09360	Iron-binding zinc finger CDGSH type	0	1	0.7	WP_010946480.1	CDGSH iron-sulfur domain-containing protein
+GCF_000048645.1	PF09394	Chagasin family peptidase inhibitor I42	0	0	0.7	WP_011213591.1	protease inhibitor I42 family protein
+GCF_000048645.1	PF09445	RNA cap guanine-N2 methyltransferase	0	0	0.7	WP_015961539.1	RsmD family RNA methyltransferase
+GCF_000048645.1	PF09471	IgA Peptidase M64	0	0	0.7	WP_080019980.1	lpg1667 family Dot/Icm T4SS effector
+GCF_000048645.1	PF09976	Tetratricopeptide repeat-like domain	0	1	0.5	WP_011213823.1	tetratricopeptide repeat protein
+GCF_000048645.1	PF09990	Predicted membrane protein (DUF2231)	0	0	0.7	WP_015961473.1	DUF2231 domain-containing protein
+GCF_000048645.1	PF09992	Phosphodiester glycosidase	0	1	0.5	WP_011214035.1	phosphodiester glycosidase family protein
+GCF_000048645.1	PF10276	Zinc-finger domain	0	0	0.7	WP_011216566.1	zinc-finger domain-containing protein
+GCF_000048645.1	PF10442	FIST C domain	0	1	0.5	WP_011212977.1	FIST C-terminal domain-containing protein
+GCF_000048645.1	PF10609	NUBPL iron-transfer P-loop NTPase	1	1	0.5	WP_011214044.1	MinD/ParA family protein
+GCF_000048645.1	PF10609	NUBPL iron-transfer P-loop NTPase	1	1	0.5	WP_011214071.1	iron-sulfur cluster carrier protein ApbC
+GCF_000048645.1	PF10672	S-adenosylmethionine-dependent methyltransferase	1	2	0.5	WP_011212667.1	bifunctional 23S rRNA (guanine(2069)-N(7))-methyltransferase RlmK/23S rRNA (guanine(2445)-N(2))-methyltransferase RlmL
+GCF_000048645.1	PF10672	S-adenosylmethionine-dependent methyltransferase	1	2	0.5	WP_011213543.1	class I SAM-dependent rRNA methyltransferase
+GCF_000048645.1	PF10988	Putative auto-transporter adhesin, head GIN domain	0	0	0.5	WP_015961850.1	DUF2807 domain-containing protein
+GCF_000048645.1	PF10996	Beta-Casp domain	0	1	0.7	WP_015961383.1	MBL fold metallo-hydrolase
+GCF_000048645.1	PF10996	Beta-Casp domain	0	1	0.7	WP_021436949.1	MBL fold metallo-hydrolase
+GCF_000048645.1	PF11700	Vacuole effluxer Atg22 like	0	1	0.3	WP_010946024.1	MFS transporter
+GCF_000048645.1	PF11798	IMS family HHH motif	1	1	0.0	WP_011213175.1	DNA polymerase IV
+GCF_000048645.1	PF11799	impB/mucB/samB family C-terminal domain	1	1	0.7	WP_011213175.1	DNA polymerase IV
+GCF_000048645.1	PF11799	impB/mucB/samB family C-terminal domain	1	1	0.7	WP_011213400.1	Y-family DNA polymerase
+GCF_000048645.1	PF11799	impB/mucB/samB family C-terminal domain	1	1	0.7	WP_011213974.1	Y-family DNA polymerase
+GCF_000048645.1	PF11901	Protein of unknown function (DUF3421)	0	0	0.7	WP_011213002.1	DUF3421 domain-containing protein
+GCF_000048645.1	PF11940	Domain of unknown function (DUF3458) Ig-like fold	0	1	0.7	WP_011213780.1	aminopeptidase N
+GCF_000048645.1	PF11940	Domain of unknown function (DUF3458) Ig-like fold	0	1	0.7	WP_027229451.1	aminopeptidase N
+GCF_000048645.1	PF12158	Protein of unknown function (DUF3592)	0	0	0.7	WP_011945317.1	DUF3592 domain-containing protein
+GCF_000048645.1	PF12471	GTP cyclohydrolase N terminal	0	0	0.7	WP_015961370.1	GTP cyclohydrolase II
+GCF_000048645.1	PF12627	Probable RNA and SrmB- binding site of polymerase A	1	1	0.7	WP_011213819.1	polynucleotide adenylyltransferase PcnB
+GCF_000048645.1	PF12627	Probable RNA and SrmB- binding site of polymerase A	1	1	0.7	WP_014844821.1	multifunctional CCA addition/repair protein
+GCF_000048645.1	PF12740	Chlorophyllase enzyme	0	0	0.7	WP_011212533.1	alpha/beta fold hydrolase
+GCF_000048645.1	PF12769	4TM region of pyridine nucleotide transhydrogenase, mitoch	1	1	0.3	WP_010946611.1	proton-translocating transhydrogenase family protein
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_010948006.1	Dot/Icm T4SS effector AnkH/LegA3
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_011212832.1	ankyrin repeat domain-containing protein
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_011213054.1	Dot/Icm T4SS effector AnkG/AnkZ/LegA7
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_011214181.1	ankyrin repeat domain-containing protein
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_015961274.1	ankyrin repeat domain-containing protein
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_015961277.1	ankyrin repeat domain-containing protein
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_015961281.1	ankyrin repeat domain-containing protein
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_015961623.1	Dot/Icm T4SS effector AnkF/LegA14/Ceg31
+GCF_000048645.1	PF12796	Ankyrin repeats (3 copies)	1	2	0.7	WP_080019926.1	Dot/Icm T4SS effector AnkX
+GCF_000048645.1	PF12826	Helix-hairpin-helix motif	1	1	0.7	WP_011213382.1	NAD-dependent DNA ligase LigA
+GCF_000048645.1	PF12826	Helix-hairpin-helix motif	1	1	0.7	WP_015961726.1	excinuclease ABC subunit UvrC
+GCF_000048645.1	PF13023	HD domain	0	0	0.7	WP_011212965.1	HD domain-containing protein
+GCF_000048645.1	PF13148	Protein of unknown function (DUF3987)	0	0	0.7	WP_011212538.1	DUF3987 domain-containing protein
+GCF_000048645.1	PF13155	Toprim-like	1	1	0.1	WP_015961328.1	toprim domain-containing protein
+GCF_000048645.1	PF13173	AAA domain	0	0	0.7	WP_011214183.1	ATP-binding protein
+GCF_000048645.1	PF13176	Tetratricopeptide repeat	0	1	0.7	WP_010947152.1	lipopolysaccharide assembly protein LapB
+GCF_000048645.1	PF13176	Tetratricopeptide repeat	0	1	0.7	WP_014844631.1	tetratricopeptide repeat protein
+GCF_000048645.1	PF13188	PAS domain	1	3	0.7	WP_010946626.1	EAL domain-containing protein
+GCF_000048645.1	PF13188	PAS domain	1	3	0.7	WP_011213656.1	bifunctional diguanylate cyclase/phosphodiesterase
+GCF_000048645.1	PF13188	PAS domain	1	3	0.7	WP_011214027.1	sensor histidine kinase
+GCF_000048645.1	PF13188	PAS domain	1	3	0.7	WP_014843694.1	EAL domain-containing protein
+GCF_000048645.1	PF13188	PAS domain	1	3	0.7	WP_015961723.1	EAL domain-containing protein
+GCF_000048645.1	PF13230	Glutamine amidotransferases class-II	0	1	0.7	WP_014844725.1	class II glutamine amidotransferase
+GCF_000048645.1	PF13230	Glutamine amidotransferases class-II	0	1	0.7	WP_015961777.1	class II glutamine amidotransferase
+GCF_000048645.1	PF13231	Dolichyl-phosphate-mannose-protein mannosyltransferase	1	3	0.1	WP_011213699.1	glycosyltransferase family 39 protein
+GCF_000048645.1	PF13231	Dolichyl-phosphate-mannose-protein mannosyltransferase	1	3	0.1	WP_014844970.1	glycosyltransferase family 39 protein
+GCF_000048645.1	PF13242	HAD-hyrolase-like	1	1	0.3	WP_011213550.1	bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB
+GCF_000048645.1	PF13242	HAD-hyrolase-like	1	1	0.3	WP_011214093.1	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase
+GCF_000048645.1	PF13246	Cation transport ATPase (P-type)	0	0	0.7	WP_015961491.1	cation-translocating P-type ATPase
+GCF_000048645.1	PF13279	Thioesterase-like superfamily	1	2	0.3	WP_010947304.1	tol-pal system-associated acyl-CoA thioesterase
+GCF_000048645.1	PF13279	Thioesterase-like superfamily	1	2	0.3	WP_015961865.1	acyl-CoA thioesterase
+GCF_000048645.1	PF13291	ACT domain	1	1	0.7	WP_011213743.1	GTP diphosphokinase
+GCF_000048645.1	PF13291	ACT domain	1	1	0.7	WP_011214257.1	bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase
+GCF_000048645.1	PF13302	Acetyltransferase (GNAT) domain	6	6	0.1	WP_011212564.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13302	Acetyltransferase (GNAT) domain	6	6	0.1	WP_011212568.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13302	Acetyltransferase (GNAT) domain	6	6	0.1	WP_011212587.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13302	Acetyltransferase (GNAT) domain	6	6	0.1	WP_011212947.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13302	Acetyltransferase (GNAT) domain	6	6	0.1	WP_011213448.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13302	Acetyltransferase (GNAT) domain	6	6	0.1	WP_011213562.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13302	Acetyltransferase (GNAT) domain	6	6	0.1	WP_015961890.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13328	HD domain	1	1	0.3	WP_011213743.1	GTP diphosphokinase
+GCF_000048645.1	PF13328	HD domain	1	1	0.3	WP_011214257.1	bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase
+GCF_000048645.1	PF13384	Homeodomain-like domain	0	1	0.3	WP_158308346.1	ISNCY family transposase
+GCF_000048645.1	PF13409	Glutathione S-transferase, N-terminal domain	0	1	0.1	WP_015961617.1	glutathione S-transferase family protein
+GCF_000048645.1	PF13410	Glutathione S-transferase, C-terminal domain	1	3	0.1	WP_011214224.1	glutathione S-transferase N-terminal domain-containing protein
+GCF_000048645.1	PF13410	Glutathione S-transferase, C-terminal domain	1	3	0.1	WP_015961617.1	glutathione S-transferase family protein
+GCF_000048645.1	PF13411	MerR HTH family regulatory protein	4	6	0.1	WP_011212528.1	MerR family transcriptional regulator
+GCF_000048645.1	PF13411	MerR HTH family regulatory protein	4	6	0.1	WP_011212543.1	MerR family transcriptional regulator
+GCF_000048645.1	PF13411	MerR HTH family regulatory protein	4	6	0.1	WP_011212580.1	MerR family transcriptional regulator
+GCF_000048645.1	PF13411	MerR HTH family regulatory protein	4	6	0.1	WP_011212703.1	MerR family transcriptional regulator
+GCF_000048645.1	PF13411	MerR HTH family regulatory protein	4	6	0.1	WP_011213892.1	MerR family transcriptional regulator
+GCF_000048645.1	PF13411	MerR HTH family regulatory protein	4	6	0.1	WP_011213893.1	MerR family transcriptional regulator
+GCF_000048645.1	PF13414	TPR repeat	0	1	0.1	WP_015961852.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13426	PAS domain	4	7	0.1	WP_010946626.1	EAL domain-containing protein
+GCF_000048645.1	PF13426	PAS domain	4	7	0.1	WP_011212847.1	diguanylate cyclase
+GCF_000048645.1	PF13426	PAS domain	4	7	0.1	WP_014843694.1	EAL domain-containing protein
+GCF_000048645.1	PF13426	PAS domain	4	7	0.1	WP_014844377.1	PAS domain-containing hybrid sensor histidine kinase/response regulator
+GCF_000048645.1	PF13426	PAS domain	4	7	0.1	WP_015961625.1	PAS domain S-box protein
+GCF_000048645.1	PF13426	PAS domain	4	7	0.1	WP_224750839.1	EAL domain-containing protein
+GCF_000048645.1	PF13427	Domain of unknown function (DUF4111)	0	0	0.7	WP_011212524.1	nucleotidyltransferase domain-containing protein
+GCF_000048645.1	PF13427	Domain of unknown function (DUF4111)	0	0	0.7	WP_011212547.1	DUF4111 domain-containing protein
+GCF_000048645.1	PF13427	Domain of unknown function (DUF4111)	0	0	0.7	WP_011213448.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13437	HlyD family secretion protein	2	4	0.0	WP_011212910.1	HlyD family efflux transporter periplasmic adaptor subunit
+GCF_000048645.1	PF13437	HlyD family secretion protein	2	4	0.0	WP_011213266.1	HlyD family efflux transporter periplasmic adaptor subunit
+GCF_000048645.1	PF13437	HlyD family secretion protein	2	4	0.0	WP_011213799.1	HlyD family type I secretion periplasmic adaptor subunit
+GCF_000048645.1	PF13438	Domain of unknown function (DUF4113)	0	0	0.7	WP_011213400.1	Y-family DNA polymerase
+GCF_000048645.1	PF13438	Domain of unknown function (DUF4113)	0	0	0.7	WP_011213974.1	Y-family DNA polymerase
+GCF_000048645.1	PF13442	Cytochrome C oxidase, cbb3-type, subunit III	3	5	0.3	WP_010946644.1	c-type cytochrome
+GCF_000048645.1	PF13442	Cytochrome C oxidase, cbb3-type, subunit III	3	5	0.3	WP_010948583.1	cytochrome c oxidase subunit II
+GCF_000048645.1	PF13442	Cytochrome C oxidase, cbb3-type, subunit III	3	5	0.3	WP_011213898.1	cytochrome c
+GCF_000048645.1	PF13442	Cytochrome C oxidase, cbb3-type, subunit III	3	5	0.3	WP_014842763.1	c-type cytochrome
+GCF_000048645.1	PF13442	Cytochrome C oxidase, cbb3-type, subunit III	3	5	0.3	WP_015961894.1	c-type cytochrome
+GCF_000048645.1	PF13474	SnoaL-like domain	0	1	0.3	WP_014844387.1	nuclear transport factor 2 family protein
+GCF_000048645.1	PF13475	Domain of unknown function (DUF4116)	0	0	0.7	WP_015961588.1	Dot/Icm type IV secretion system effector Ceg29
+GCF_000048645.1	PF13481	AAA domain	1	0	0.7	WP_015961328.1	toprim domain-containing protein
+GCF_000048645.1	PF13481	AAA domain	1	0	0.7	WP_015961427.1	DNA repair protein RadA
+GCF_000048645.1	PF13488	Glycine zipper	0	1	0.5	WP_011216207.1	glycine zipper domain-containing protein
+GCF_000048645.1	PF13489	Methyltransferase domain	3	3	0.0	WP_011213144.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13489	Methyltransferase domain	3	3	0.0	WP_011213970.1	bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG
+GCF_000048645.1	PF13489	Methyltransferase domain	3	3	0.0	WP_014844388.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13508	Acetyltransferase (GNAT) domain	1	2	0.7	WP_010655420.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13508	Acetyltransferase (GNAT) domain	1	2	0.7	WP_011212526.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13508	Acetyltransferase (GNAT) domain	1	2	0.7	WP_011213889.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13508	Acetyltransferase (GNAT) domain	1	2	0.7	WP_015961448.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13508	Acetyltransferase (GNAT) domain	1	2	0.7	WP_015961906.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13515	Fusaric acid resistance protein-like	1	1	0.7	WP_011212662.1	FUSC family protein
+GCF_000048645.1	PF13515	Fusaric acid resistance protein-like	1	1	0.7	WP_032831049.1	FUSC family protein
+GCF_000048645.1	PF13516	Leucine Rich repeat	0	0	0.7	WP_011213370.1	Dot/Icm T4SS effector LegL1
+GCF_000048645.1	PF13516	Leucine Rich repeat	0	0	0.7	WP_080020008.1	Dot/Icm T4SS effector LegLC8
+GCF_000048645.1	PF13516	Leucine Rich repeat	0	0	0.7	WP_080020019.1	hypothetical protein
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_010947418.1	APC family permease
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_011212670.1	amino acid permease
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_011212913.1	APC family permease
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_011212980.1	amino acid permease
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_011213055.1	APC family permease
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_011214170.1	APC family permease
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_015961569.1	APC family permease
+GCF_000048645.1	PF13520	Amino acid permease	3	6	0.7	WP_021437058.1	APC family permease
+GCF_000048645.1	PF13521	AAA domain	0	1	0.7	WP_011212527.1	AAA family ATPase
+GCF_000048645.1	PF13521	AAA domain	0	1	0.7	WP_011213565.1	ATP-binding protein
+GCF_000048645.1	PF13521	AAA domain	0	1	0.7	WP_015961740.1	ATP-binding protein
+GCF_000048645.1	PF13523	Acetyltransferase (GNAT) domain	0	1	0.7	WP_011213154.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13523	Acetyltransferase (GNAT) domain	0	1	0.7	WP_021436852.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13523	Acetyltransferase (GNAT) domain	0	1	0.7	WP_223380988.1	acetyltransferase
+GCF_000048645.1	PF13529	Peptidase_C39 like family	0	1	0.7	WP_011212701.1	C39 family peptidase
+GCF_000048645.1	PF13529	Peptidase_C39 like family	0	1	0.7	WP_011213037.1	C39 family peptidase
+GCF_000048645.1	PF13534	4Fe-4S dicluster domain	1	1	0.1	WP_011213161.1	succinate dehydrogenase iron-sulfur subunit
+GCF_000048645.1	PF13535	ATP-grasp domain	0	1	0.7	WP_011212867.1	ATP-grasp domain-containing protein
+GCF_000048645.1	PF13535	ATP-grasp domain	0	1	0.7	WP_015961550.1	ATP-grasp domain-containing protein
+GCF_000048645.1	PF13535	ATP-grasp domain	0	1	0.7	WP_021436872.1	ATP-grasp domain-containing protein
+GCF_000048645.1	PF13541	Subunit ChlI of Mg-chelatase	2	1	0.1	WP_011213198.1	YifB family Mg chelatase-like AAA ATPase
+GCF_000048645.1	PF13541	Subunit ChlI of Mg-chelatase	2	1	0.1	WP_015961427.1	DNA repair protein RadA
+GCF_000048645.1	PF13599	Pentapeptide repeats (9 copies)	0	1	0.3	WP_011213092.1	type IVB secretion system protein DotG/IcmE
+GCF_000048645.1	PF13604	AAA domain	1	1	0.5	WP_011212814.1	Ti-type conjugative transfer relaxase TraA
+GCF_000048645.1	PF13604	AAA domain	1	1	0.5	WP_021436866.1	conjugative transfer relaxase/helicase TraI
+GCF_000048645.1	PF13621	Cupin-like domain	0	0	0.7	WP_011214036.1	cupin-like domain-containing protein
+GCF_000048645.1	PF13637	Ankyrin repeats (many copies)	0	0	0.7	WP_011212551.1	ankyrin repeat domain-containing protein
+GCF_000048645.1	PF13638	PIN domain	1	1	0.3	WP_014844891.1	PhoH family protein
+GCF_000048645.1	PF13640	2OG-Fe(II) oxygenase superfamily	0	1	0.1	WP_011213045.1	2OG-Fe(II) oxygenase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_010946484.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_011212536.1	methyltransferase domain-containing protein
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_011212981.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_011213081.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_011213149.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_011213449.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_011947040.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_015961453.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13649	Methyltransferase domain	4	5	0.5	WP_027229260.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13662	Toprim domain	2	1	0.1	WP_011216607.1	recombination mediator RecR
+GCF_000048645.1	PF13662	Toprim domain	2	1	0.1	WP_015961446.1	DNA primase
+GCF_000048645.1	PF13673	Acetyltransferase (GNAT) domain	3	3	0.5	WP_010947230.1	ribosomal protein S18-alanine N-acetyltransferase
+GCF_000048645.1	PF13673	Acetyltransferase (GNAT) domain	3	3	0.5	WP_011212537.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13673	Acetyltransferase (GNAT) domain	3	3	0.5	WP_014844608.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13673	Acetyltransferase (GNAT) domain	3	3	0.5	WP_015961317.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13673	Acetyltransferase (GNAT) domain	3	3	0.5	WP_021436859.1	GNAT family N-acetyltransferase
+GCF_000048645.1	PF13720	Udp N-acetylglucosamine O-acyltransferase; Domain 2	1	1	0.7	WP_011213138.1	acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase
+GCF_000048645.1	PF13720	Udp N-acetylglucosamine O-acyltransferase; Domain 2	1	1	0.7	WP_014844980.1	acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase
+GCF_000048645.1	PF13793	N-terminal domain of ribose phosphate pyrophosphokinase	1	1	0.7	WP_011213168.1	ribose-phosphate pyrophosphokinase
+GCF_000048645.1	PF13793	N-terminal domain of ribose phosphate pyrophosphokinase	1	1	0.7	WP_015961485.1	ribose-phosphate pyrophosphokinase
+GCF_000048645.1	PF13806	Rieske-like [2Fe-2S] domain	0	1	0.5	WP_015961895.1	Rieske (2Fe-2S) protein
+GCF_000048645.1	PF13847	Methyltransferase domain	1	2	0.7	WP_013101933.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13847	Methyltransferase domain	1	2	0.7	WP_014844788.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13847	Methyltransferase domain	1	2	0.7	WP_015961575.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13847	Methyltransferase domain	1	2	0.7	WP_015961629.1	class I SAM-dependent methyltransferase
+GCF_000048645.1	PF13860	FlgD Ig-like domain	0	1	0.5	WP_011213576.1	flagellar hook assembly protein FlgD
+GCF_000048645.1	PF13899	Thioredoxin-like	0	2	0.7	WP_011213270.1	protein-disulfide reductase DsbD
+GCF_000048645.1	PF13899	Thioredoxin-like	0	2	0.7	WP_011213960.1	protein-disulfide reductase DsbD
+GCF_000048645.1	PF13975	gag-polyprotein putative aspartyl protease	0	1	0.7	WP_011214255.1	retroviral-like aspartic protease family protein
+GCF_000048645.1	PF14031	Putative serine dehydratase domain	0	1	0.5	WP_014844669.1	DSD1 family PLP-dependent enzyme
+GCF_000048645.1	PF14114	Domain of unknown function (DUF4286)	0	0	0.7	WP_011213629.1	DUF4286 family protein
+GCF_000048645.1	PF14226	non-haem dioxygenase in morphine synthesis N-terminal	0	1	0.5	WP_011213735.1	isopenicillin N synthase family oxygenase
+GCF_000048645.1	PF14342	Domain of unknown function (DUF4396)	0	0	0.7	WP_011212694.1	DUF4396 domain-containing protein
+GCF_000048645.1	PF14360	PAP2 superfamily C-terminal	0	0	0.7	WP_011213914.1	hypothetical protein
+GCF_000048645.1	PF14378	PAP2 superfamily	0	0	0.5	WP_011213869.1	phosphatase PAP2 family protein
+GCF_000048645.1	PF14397	Sugar-transfer associated ATP-grasp	0	0	0.7	WP_011212739.1	alpha-L-glutamate ligase-like protein
+GCF_000048645.1	PF14489	QueF-like protein	1	1	0.3	WP_011213218.1	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+GCF_000048645.1	PF14518	Iron-containing redox enzyme	0	1	0.7	WP_015961552.1	iron-containing redox enzyme family protein
+GCF_000048645.1	PF14518	Iron-containing redox enzyme	0	1	0.7	WP_015961655.1	iron-containing redox enzyme family protein
+GCF_000048645.1	PF14526	Integron-associated effector binding protein	0	0	0.5	WP_011212560.1	GyrI-like domain-containing protein
+GCF_000048645.1	PF14566	Inositol hexakisphosphate	0	0	0.7	WP_015961831.1	tyrosine phosphatase
+GCF_000048645.1	PF14696	Hydroxyphenylpyruvate dioxygenase, HPPD, N-terminal	0	1	0.5	WP_015961401.1	4-hydroxyphenylpyruvate dioxygenase
+GCF_000048645.1	PF14697	4Fe-4S dicluster domain	0	1	0.3	WP_015961877.1	RnfABCDGE type electron transport complex subunit B
+GCF_000048645.1	PF14736	Protein N-terminal asparagine amidohydrolase	0	0	0.7	WP_015961547.1	hypothetical protein
+GCF_000048645.1	PF14765	Polyketide synthase dehydratase	0	1	0.3	WP_015961341.1	SDR family NAD(P)-dependent oxidoreductase
+GCF_000048645.1	PF14821	Threonine synthase N terminus	1	1	0.3	WP_041173950.1	threonine synthase
+GCF_000048645.1	PF16113	Enoyl-CoA hydratase/isomerase	0	1	0.5	WP_010946606.1	enoyl-CoA hydratase/isomerase family protein
+GCF_000048645.1	PF16123	Hydroxyacylglutathione hydrolase C-terminus	0	1	0.5	WP_011213607.1	hydroxyacylglutathione hydrolase
+GCF_000048645.1	PF16177	Acetyl-coenzyme A synthetase N-terminus	2	1	0.1	WP_011214085.1	acetoacetate--CoA ligase
+GCF_000048645.1	PF16177	Acetyl-coenzyme A synthetase N-terminus	2	1	0.1	WP_025519195.1	acetate--CoA ligase
+GCF_000048645.1	PF16197	Ketoacyl-synthetase C-terminal extension	0	1	0.1	WP_015961341.1	SDR family NAD(P)-dependent oxidoreductase
+GCF_000048645.1	PF16327	Cytochrome c-type biogenesis protein CcmF C-terminal	0	1	0.5	WP_010946597.1	heme lyase CcmF/NrfE family subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_010946458.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_010946587.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_011212660.1	HlyD family secretion protein
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_011212720.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_011212951.1	Lpg0257 family Dot/Icm type IV secretion system effector
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_011213076.1	HlyD family secretion protein
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_011213245.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_014844374.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_014844965.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_015961289.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_015961479.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_015961489.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_015961498.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_015961660.1	efflux RND transporter periplasmic adaptor subunit
+GCF_000048645.1	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	5	11	0.7	WP_015961835.1	multidrug efflux RND transporter periplasmic adaptor subunit LpeA
+GCF_000048645.1	PF16653	Saccharopine dehydrogenase C-terminal domain	0	1	0.7	WP_010948197.1	saccharopine dehydrogenase NADP-binding domain-containing protein
+GCF_000048645.1	PF16653	Saccharopine dehydrogenase C-terminal domain	0	1	0.7	WP_011213649.1	saccharopine dehydrogenase NADP-binding domain-containing protein
+GCF_000048645.1	PF16661	Metallo-beta-lactamase superfamily domain	0	0	0.7	WP_021436949.1	MBL fold metallo-hydrolase
+GCF_000048645.1	PF17147	Pyruvate:ferredoxin oxidoreductase core domain II	0	1	0.5	WP_011213372.1	2-oxoacid:acceptor oxidoreductase subunit alpha
+GCF_000048645.1	PF17391	Urocanase N-terminal domain	1	1	0.3	WP_011213675.1	urocanate hydratase
+GCF_000048645.1	PF17392	Urocanase C-terminal domain	1	1	0.3	WP_011213675.1	urocanate hydratase
+GCF_000048645.1	PF17432	Domain of unknown function (DUF3458_C) ARM repeats	0	1	0.7	WP_011213780.1	aminopeptidase N
+GCF_000048645.1	PF17432	Domain of unknown function (DUF3458_C) ARM repeats	0	1	0.7	WP_027229451.1	aminopeptidase N
+GCF_000048645.1	PF17676	LD-carboxypeptidase C-terminal domain	1	1	0.1	WP_011212574.1	LD-carboxypeptidase
+GCF_000048645.1	PF17762	HTH domain found in ParB protein	1	0	0.7	WP_011212457.1	ParB/RepB/Spo0J family partition protein
+GCF_000048645.1	PF17762	HTH domain found in ParB protein	1	0	0.7	WP_014844714.1	ParB/RepB/Spo0J family partition protein
+GCF_000048645.1	PF17762	HTH domain found in ParB protein	1	0	0.7	WP_015961885.1	ParB/RepB/Spo0J family partition protein
+GCF_000048645.1	PF17763	Glutaminase/Asparaginase C-terminal domain	1	1	0.0	WP_015961869.1	asparaginase
+GCF_000048645.1	PF17773	UPF0176 acylphosphatase like domain	1	1	0.3	WP_015961845.1	rhodanese-related sulfurtransferase
+GCF_000048645.1	PF17775	UPF0225 domain	0	1	0.5	WP_230305060.1	SEC-C domain-containing protein
+GCF_000048645.1	PF17785	PUA-like domain	1	1	0.3	WP_011213543.1	class I SAM-dependent rRNA methyltransferase
+GCF_000048645.1	PF17831	Pyruvate dehydrogenase E1 component middle domain	1	1	0.1	WP_011213786.1	pyruvate dehydrogenase (acetyl-transferring), homodimeric type
+GCF_000048645.1	PF17848	Acetyl-coA carboxylase zinc finger domain	1	1	0.3	WP_011213641.1	acetyl-CoA carboxylase, carboxyltransferase subunit beta
+GCF_000048645.1	PF17900	Peptidase M1 N-terminal domain	1	1	0.3	WP_011213780.1	aminopeptidase N
+GCF_000048645.1	PF17900	Peptidase M1 N-terminal domain	1	1	0.3	WP_027229451.1	aminopeptidase N
+GCF_000048645.1	PF17956	Nicotinate phosphoribosyltransferase C-terminal domain	0	1	0.7	WP_011212967.1	nicotinate phosphoribosyltransferase
+GCF_000048645.1	PF17973	Bacterial Alpha-2-macroglobulin MG10 domain	0	1	0.5	WP_011213944.1	alpha-2-macroglobulin
+GCF_000048645.1	PF18014	Acetyltransferase (GNAT) domain	0	0	0.7	WP_011213917.1	hypothetical protein
+GCF_000048645.1	PF18073	Rubredoxin metal binding domain	1	0	0.7	WP_010947152.1	lipopolysaccharide assembly protein LapB
+GCF_000048645.1	PF18073	Rubredoxin metal binding domain	1	0	0.7	WP_015961427.1	DNA repair protein RadA
+GCF_000048645.1	PF18158	Adaptive response protein AidB N-terminal domain	0	1	0.5	WP_010946539.1	acyl-CoA dehydrogenase family protein
+GCF_000048645.1	PF18376	Mevalonate 5-diphosphate decarboxylase C-terminal domain	0	0	0.7	WP_011214286.1	diphosphomevalonate decarboxylase
+GCF_000048645.1	PF18693	TRAM domain	1	1	0.1	WP_011213269.1	30S ribosomal protein S12 methylthiotransferase RimO
+GCF_000048645.1	PF18765	Polymerase beta, Nucleotidyltransferase	0	1	0.5	WP_011212547.1	DUF4111 domain-containing protein
+GCF_000048645.1	PF19040	SGNH domain (fused to AT3 domains)	0	1	0.7	WP_010946519.1	acyltransferase family protein
+GCF_000048645.1	PF19040	SGNH domain (fused to AT3 domains)	0	1	0.7	WP_015961702.1	acyltransferase family protein
+GCF_000048645.1	PF19040	SGNH domain (fused to AT3 domains)	0	1	0.7	WP_015961809.1	acyltransferase family protein
+GCF_000048645.1	PF19275	HflX C-terminal domain	0	0	0.7	WP_011212655.1	GTPase HflX
+GCF_000048645.1	PF19295	SufBD protein N-terminal region	1	2	0.5	WP_010946340.1	Fe-S cluster assembly protein SufD
+GCF_000048645.1	PF19295	SufBD protein N-terminal region	1	2	0.5	WP_011213209.1	Fe-S cluster assembly protein SufB
+GCF_000048645.1	PF19305	MmgE/PrpD C-terminal domain	0	1	0.3	WP_011213811.1	bifunctional 2-methylcitrate dehydratase/aconitate hydratase
+GCF_000048645.1	PF19310	Neurolysin/Thimet oligopeptidase, N-terminal domain	0	1	0.7	WP_025519199.1	M3 family metallopeptidase
+GCF_000048645.1	PF19420	N,N dimethylarginine dimethylhydrolase, eukaryotic	0	1	0.7	WP_027229452.1	arginine deiminase-related protein
